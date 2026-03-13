@@ -2,15 +2,15 @@
   "tournament": "THE PLAYERS Championship 2026",
   "round": 2,
   "is_complete": false,
-  "last_updated": "2026-03-13T22:41:50.104747+00:00",
+  "last_updated": "2026-03-13T23:02:39.123007+00:00",
   "standings": [
     {
       "participant": "Steve",
-      "combined_score": -30,
+      "combined_score": -31,
       "top4": [
         {
           "name": "Ludvig \u00c5berg",
-          "total_score": -11,
+          "total_score": -12,
           "status": "STATUS_ACTIVE",
           "found": true
         },
@@ -536,6 +536,6 @@
   "leader_pick": {
     "drafted_by": "Steve",
     "golfer": "Ludvig \u00c5berg",
-    "score": -11
+    "score": -12
   }
 }
