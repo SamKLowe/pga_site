@@ -2,7 +2,7 @@
   "tournament": "THE PLAYERS Championship 2026",
   "round": 2,
   "is_complete": false,
-  "last_updated": "2026-03-13T19:12:40.816169+00:00",
+  "last_updated": "2026-03-13T19:22:09.866356+00:00",
   "standings": [
     {
       "participant": "Steve",
@@ -182,7 +182,7 @@
     },
     {
       "participant": "Jake",
-      "combined_score": -14,
+      "combined_score": -15,
       "top4": [
         {
           "name": "Viktor Hovland",
@@ -204,7 +204,7 @@
         },
         {
           "name": "Tommy Fleetwood",
-          "total_score": -2,
+          "total_score": -3,
           "status": "STATUS_ACTIVE",
           "found": true
         }
@@ -212,7 +212,7 @@
       "dropped": [
         {
           "name": "Max Homa",
-          "total_score": -2,
+          "total_score": -3,
           "status": "STATUS_ACTIVE",
           "found": true
         },
@@ -357,6 +357,50 @@
       ]
     },
     {
+      "participant": "Alex",
+      "combined_score": -1,
+      "top4": [
+        {
+          "name": "Brooks Koepka",
+          "total_score": -1,
+          "status": "STATUS_ACTIVE",
+          "found": true
+        },
+        {
+          "name": "Collin Morikawa",
+          "total_score": 0,
+          "status": "STATUS_ACTIVE",
+          "found": true
+        },
+        {
+          "name": "Patrick Cantlay",
+          "total_score": 0,
+          "status": "STATUS_ACTIVE",
+          "found": true
+        },
+        {
+          "name": "Billy Horschel",
+          "total_score": 0,
+          "status": "NOT_FOUND",
+          "found": false
+        }
+      ],
+      "dropped": [
+        {
+          "name": "Harris English",
+          "total_score": 2,
+          "status": "STATUS_ACTIVE",
+          "found": true
+        },
+        {
+          "name": "Shane Lowry",
+          "total_score": 5,
+          "status": "STATUS_ACTIVE",
+          "found": true
+        }
+      ]
+    },
+    {
       "participant": "Tyler",
       "combined_score": 0,
       "top4": [
@@ -387,57 +431,13 @@
       ],
       "dropped": [
         {
-          "name": "Christiaan Bezuidenhout",
-          "total_score": 3,
-          "status": "STATUS_ACTIVE",
-          "found": true
-        },
-        {
           "name": "Adam Schenk",
           "total_score": 4,
           "status": "STATUS_ACTIVE",
           "found": true
-        }
-      ]
-    },
-    {
-      "participant": "Alex",
-      "combined_score": 1,
-      "top4": [
-        {
-          "name": "Collin Morikawa",
-          "total_score": 0,
-          "status": "STATUS_ACTIVE",
-          "found": true
         },
         {
-          "name": "Brooks Koepka",
-          "total_score": 0,
-          "status": "STATUS_ACTIVE",
-          "found": true
-        },
-        {
-          "name": "Billy Horschel",
-          "total_score": 0,
-          "status": "NOT_FOUND",
-          "found": false
-        },
-        {
-          "name": "Patrick Cantlay",
-          "total_score": 1,
-          "status": "STATUS_ACTIVE",
-          "found": true
-        }
-      ],
-      "dropped": [
-        {
-          "name": "Harris English",
-          "total_score": 2,
-          "status": "STATUS_ACTIVE",
-          "found": true
-        },
-        {
-          "name": "Shane Lowry",
+          "name": "Christiaan Bezuidenhout",
           "total_score": 5,
           "status": "STATUS_ACTIVE",
           "found": true
@@ -520,7 +520,7 @@
       "dropped": [
         {
           "name": "Kevin Yu",
-          "total_score": 9,
+          "total_score": 8,
           "status": "STATUS_ACTIVE",
           "found": true
         },
