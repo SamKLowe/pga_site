@@ -1,0 +1,17 @@
+{
+  "tournament": "THE PLAYERS Championship 2026",
+  "participants": [
+    { "name": "Steve",   "picks": ["Xander Schauffele", "Cameron Young", "Scottie Scheffler", "Rory McIlroy", "Jon Rahm", "Ludvig Åberg"] },
+    { "name": "Mike",    "picks": ["Corey Conners", "Sepp Straka", "Jacob Bridgeman", "Lee Hodges", "Justin Thomas", "Tony Finau"] },
+    { "name": "Jake",    "picks": ["Jason Day", "Jordan Spieth", "Viktor Hovland", "Tommy Fleetwood", "Max Homa", "Min Woo Lee"] },
+    { "name": "Chris",   "picks": ["Sahith Theegala", "Matt Fitzpatrick", "Maverick McNealy", "Russell Henley", "Patrick Rodgers", "Alex Smalley"] },
+    { "name": "Dave",    "picks": ["Justin Rose", "Keith Mitchell", "Rickie Fowler", "Andrew Putnam", "Austin Smotherman", "Ryo Hisatsune"] },
+    { "name": "Tom",     "picks": ["Bud Cauley", "Chad Ramey", "William Mouw", "Wyndham Clark", "Akshay Bhatia", "Brian Harman"] },
+    { "name": "Alex",    "picks": ["Collin Morikawa", "Brooks Koepka", "Patrick Cantlay", "Shane Lowry", "Billy Horschel", "Harris English"] },
+    { "name": "Ryan",    "picks": ["Hideki Matsuyama", "Joaquin Niemann", "Sam Burns", "Will Zalatoris", "Cameron Smith", "Dustin Johnson"] },
+    { "name": "Kyle",    "picks": ["Matt Kuchar", "Keegan Bradley", "Bryson DeChambeau", "Tyrrell Hatton", "Tom Kim", "Si Woo Kim"] },
+    { "name": "Nick",    "picks": ["Denny McCarthy", "Taylor Moore", "Ben Griffin", "Austin Eckroat", "J.T. Poston", "Taylor Pendrith"] },
+    { "name": "Tyler",   "picks": ["Christiaan Bezuidenhout", "Adam Schenk", "Eric Cole", "Nick Taylor", "Callum Tarren", "Byeong Hun An"] },
+    { "name": "Brandon", "picks": ["Chesson Hadley", "Mark Hubbard", "Davis Riley", "Kevin Yu", "Thomas Detry", "Adam Scott"] }
+  ]
+}

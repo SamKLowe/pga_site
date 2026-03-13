@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>PGA Draft Board</title>
+  <style>
+    :root {
+      --green-dark:  #1a3d2b;
+      --green-mid:   #245c3e;
+      --green-light: #2e7d52;
+      --gold:        #c9a84c;
+      --gold-light:  #e8c96b;
+      --text:        #f0ede4;
+      --text-muted:  #a8a08c;
+      --card-bg:     #1e3a2e;
+      --card-border: #2e5c42;
+      --red:         #e05252;
+      --blue:        #5b9bd5;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      background: var(--green-dark);
+      color: var(--text);
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      min-height: 100vh;
+    }
+
+    header {
+      background: var(--green-mid);
+      border-bottom: 2px solid var(--gold);
+      padding: 16px 24px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+    header h1 { font-size: 1.4rem; color: var(--gold); letter-spacing: 0.5px; }
+    .header-meta { font-size: 0.8rem; color: var(--text-muted); text-align: right; }
+    .round-badge {
+      background: var(--green-light);
+      color: var(--gold-light);
+      border: 1px solid var(--gold);
+      border-radius: 12px;
+      padding: 2px 10px;
+      font-size: 0.75rem;
+      font-weight: 600;
+    }
+
+    main { max-width: 960px; margin: 0 auto; padding: 20px 16px; }
+
+    /* Winner cards */
+    .winners {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 16px;
+      margin-bottom: 28px;
+    }
+    @media (max-width: 540px) { .winners { grid-template-columns: 1fr; } }
+
+    .winner-card {
+      background: var(--card-bg);
+      border: 1px solid var(--card-border);
+      border-top: 3px solid var(--gold);
+      border-radius: 8px;
+      padding: 16px;
+    }
+    .winner-card .label {
+      font-size: 0.7rem;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      color: var(--gold);
+      margin-bottom: 6px;
+    }
+    .winner-card .winner-name { font-size: 1.2rem; font-weight: 700; }
+    .winner-card .winner-detail { font-size: 0.85rem; color: var(--text-muted); margin-top: 4px; }
+
+    /* Standings table */
+    .section-title {
+      font-size: 0.75rem;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      color: var(--gold);
+      margin-bottom: 10px;
+    }
+
+    .standings { display: flex; flex-direction: column; gap: 8px; }
+
+    .entry {
+      background: var(--card-bg);
+      border: 1px solid var(--card-border);
+      border-radius: 8px;
+      overflow: hidden;
+    }
+    .entry.first  { border-left: 4px solid var(--gold); }
+    .entry.second { border-left: 4px solid #a0a0a0; }
+    .entry.third  { border-left: 4px solid #cd7f32; }
+
+    .entry-header {
+      display: flex;
+      align-items: center;
+      padding: 12px 16px;
+      cursor: pointer;
+      gap: 12px;
+      user-select: none;
+    }
+    .entry-header:hover { background: rgba(255,255,255,0.04); }
+
+    .rank {
+      width: 28px;
+      font-size: 0.85rem;
+      font-weight: 700;
+      color: var(--text-muted);
+      flex-shrink: 0;
+    }
+    .entry.first  .rank { color: var(--gold); }
+    .entry.second .rank { color: #c0c0c0; }
+    .entry.third  .rank { color: #cd7f32; }
+
+    .p-name { flex: 1; font-weight: 600; font-size: 1rem; }
+    .p-score { font-size: 1.1rem; font-weight: 700; min-width: 50px; text-align: right; }
+    .p-score.under { color: #6dbf6d; }
+    .p-score.over  { color: var(--red); }
+    .p-score.even  { color: var(--text-muted); }
+
+    .chevron { color: var(--text-muted); font-size: 0.7rem; transition: transform 0.2s; }
+    .entry.open .chevron { transform: rotate(180deg); }
+
+    .entry-detail {
+      display: none;
+      padding: 0 16px 14px 56px;
+    }
+    .entry.open .entry-detail { display: block; }
+
+    .picks-grid { display: flex; flex-direction: column; gap: 4px; }
+    .pick-row {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      font-size: 0.85rem;
+      padding: 3px 0;
+    }
+    .pick-row.dropped { opacity: 0.45; text-decoration: line-through; }
+    .pick-score { min-width: 42px; text-align: right; font-weight: 600; }
+    .pick-score.under { color: #6dbf6d; }
+    .pick-score.over  { color: var(--red); }
+    .pick-score.even  { color: var(--text-muted); }
+    .pick-badge {
+      font-size: 0.65rem;
+      padding: 1px 6px;
+      border-radius: 10px;
+      background: var(--green-light);
+      color: var(--gold-light);
+    }
+    .pick-badge.cut { background: #4a2020; color: var(--red); }
+
+    .loading { text-align: center; padding: 60px; color: var(--text-muted); }
+    .error   { text-align: center; padding: 60px; color: var(--red); }
+  </style>
+</head>
+<body>
+  <header>
+    <div>
+      <h1 id="tournament-name">PGA Draft Board</h1>
+      <div class="header-meta" id="last-updated">Loading...</div>
+    </div>
+    <span class="round-badge" id="round-badge">R?</span>
+  </header>
+
+  <main>
+    <div class="winners" id="winners">
+      <div class="winner-card">
+        <div class="label">Current Leader Pick</div>
+        <div class="winner-name" id="leader-pick-name">—</div>
+        <div class="winner-detail" id="leader-pick-detail">Who drafted the tournament leader</div>
+      </div>
+      <div class="winner-card">
+        <div class="label">Top-4 Combined Leader</div>
+        <div class="winner-name" id="combined-leader-name">—</div>
+        <div class="winner-detail" id="combined-leader-detail">Best combined score (drop 2)</div>
+      </div>
+    </div>
+
+    <div class="section-title">Full Standings</div>
+    <div class="standings" id="standings">
+      <div class="loading">Loading standings...</div>
+    </div>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>

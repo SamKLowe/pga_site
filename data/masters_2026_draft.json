@@ -1,0 +1,17 @@
+{
+  "tournament": "The Masters 2026",
+  "participants": [
+    { "name": "Steve",   "picks": ["Scottie Scheffler", "Rory McIlroy", "Jon Rahm", "Xander Schauffele", "Collin Morikawa", "Brooks Koepka"] },
+    { "name": "Mike",    "picks": ["Ludvig Aberg", "Hideki Matsuyama", "Patrick Cantlay", "Shane Lowry", "Tony Finau", "Tommy Fleetwood"] },
+    { "name": "Jake",    "picks": ["Viktor Hovland", "Jordan Spieth", "Justin Thomas", "Joaquin Niemann", "Min Woo Lee", "Russell Henley"] },
+    { "name": "Chris",   "picks": ["Cameron Smith", "Dustin Johnson", "Matt Fitzpatrick", "Sungjae Im", "Sepp Straka", "Adam Scott"] },
+    { "name": "Dave",    "picks": ["Jason Day", "Patrick Reed", "Bryson DeChambeau", "Keegan Bradley", "Davis Riley", "Sahith Theegala"] },
+    { "name": "Tom",     "picks": ["Sam Burns", "Will Zalatoris", "Cameron Young", "Max Homa", "Kurt Kitayama", "Tyrrell Hatton"] },
+    { "name": "Alex",    "picks": ["Nick Taylor", "Mackenzie Hughes", "Corey Conners", "Taylor Pendrith", "Adam Hadwin", "Roger Sloan"] },
+    { "name": "Ryan",    "picks": ["Rickie Fowler", "Billy Horschel", "Harris English", "Denny McCarthy", "Brendan Steele", "Scott Stallings"] },
+    { "name": "Kyle",    "picks": ["Brian Harman", "Akshay Bhatia", "Wyndham Clark", "Emiliano Grillo", "Erik van Rooyen", "Talor Gooch"] },
+    { "name": "Nick",    "picks": ["Andrew Putnam", "Taylor Moore", "Beau Hossler", "Ben Griffin", "Austin Eckroat", "Luke List"] },
+    { "name": "Tyler",   "picks": ["Mark Hubbard", "J.T. Poston", "Callum Tarren", "Peter Malnati", "Alex Smalley", "Zach Johnson"] },
+    { "name": "Brandon", "picks": ["Si Woo Kim", "Adam Svensson", "Nick Hardy", "Tom Hoge", "C.T. Pan", "Kevin Streelman"] }
+  ]
+}
