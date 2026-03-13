@@ -15,7 +15,7 @@ def main():
 
     draft_path = os.path.join(root, "data", f"{key}_draft.json")
     scores_path = os.path.join(root, "data", f"{key}_scores.json")
-    output_path = os.path.join(root, "web", "standings.json")
+    output_path = os.path.join(root, "docs", "standings.json")
 
     print(f"Fetching scores for tournament: {key}")
     leaderboard = fetch_leaderboard(event_id)
