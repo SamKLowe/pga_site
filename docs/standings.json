@@ -2,11 +2,11 @@
   "tournament": "THE PLAYERS Championship 2026",
   "round": 2,
   "is_complete": false,
-  "last_updated": "2026-03-13T18:39:25.291005+00:00",
+  "last_updated": "2026-03-13T19:01:18.099438+00:00",
   "standings": [
     {
       "participant": "Steve",
-      "combined_score": -28,
+      "combined_score": -27,
       "top4": [
         {
           "name": "Xander Schauffele",
@@ -28,7 +28,7 @@
         },
         {
           "name": "Scottie Scheffler",
-          "total_score": -1,
+          "total_score": 0,
           "status": "STATUS_ACTIVE",
           "found": true
         }
@@ -182,7 +182,7 @@
     },
     {
       "participant": "Jake",
-      "combined_score": -15,
+      "combined_score": -14,
       "top4": [
         {
           "name": "Viktor Hovland",
@@ -204,7 +204,7 @@
         },
         {
           "name": "Tommy Fleetwood",
-          "total_score": -3,
+          "total_score": -2,
           "status": "STATUS_ACTIVE",
           "found": true
         }
@@ -212,7 +212,7 @@
       "dropped": [
         {
           "name": "Max Homa",
-          "total_score": -3,
+          "total_score": -2,
           "status": "STATUS_ACTIVE",
           "found": true
         },
@@ -314,10 +314,16 @@
     },
     {
       "participant": "Kyle",
-      "combined_score": -1,
+      "combined_score": -2,
       "top4": [
         {
           "name": "Keegan Bradley",
+          "total_score": -1,
+          "status": "STATUS_ACTIVE",
+          "found": true
+        },
+        {
+          "name": "Si Woo Kim",
           "total_score": -1,
           "status": "STATUS_ACTIVE",
           "found": true
@@ -333,26 +339,20 @@
           "total_score": 0,
           "status": "NOT_FOUND",
           "found": false
-        },
+        }
+      ],
+      "dropped": [
         {
           "name": "Tyrrell Hatton",
           "total_score": 0,
           "status": "NOT_FOUND",
           "found": false
-        }
-      ],
-      "dropped": [
+        },
         {
           "name": "Tom Kim",
           "total_score": 0,
           "status": "NOT_FOUND",
           "found": false
-        },
-        {
-          "name": "Si Woo Kim",
-          "total_score": 0,
-          "status": "STATUS_ACTIVE",
-          "found": true
         }
       ]
     },
@@ -476,7 +476,7 @@
       "dropped": [
         {
           "name": "J.T. Poston",
-          "total_score": 5,
+          "total_score": 6,
           "status": "STATUS_ACTIVE",
           "found": true
         },
@@ -490,7 +490,7 @@
     },
     {
       "participant": "Brandon",
-      "combined_score": 3,
+      "combined_score": 4,
       "top4": [
         {
           "name": "Chesson Hadley",
@@ -512,7 +512,7 @@
         },
         {
           "name": "Mark Hubbard",
-          "total_score": 3,
+          "total_score": 4,
           "status": "STATUS_ACTIVE",
           "found": true
         }
@@ -520,13 +520,13 @@
       "dropped": [
         {
           "name": "Kevin Yu",
-          "total_score": 7,
+          "total_score": 8,
           "status": "STATUS_ACTIVE",
           "found": true
         },
         {
           "name": "Davis Riley",
-          "total_score": 12,
+          "total_score": 14,
           "status": "STATUS_ACTIVE",
           "found": true
         }
