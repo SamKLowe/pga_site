@@ -2,11 +2,18 @@
   "event_name": "THE PLAYERS Championship",
   "round": 3,
   "is_complete": false,
-  "last_updated": "2026-03-14T20:39:23.245416+00:00",
+  "last_updated": "2026-03-14T20:59:32.893902+00:00",
   "players": [
     {
       "name": "Ludvig \u00c5berg",
-      "total_score": -11,
+      "total_score": -12,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Xander Schauffele",
+      "total_score": -10,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999
@@ -33,28 +40,7 @@
       "position": 999
     },
     {
-      "name": "Xander Schauffele",
-      "total_score": -9,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Justin Rose",
-      "total_score": -8,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
       "name": "Matt Fitzpatrick",
-      "total_score": -8,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Sepp Straka",
       "total_score": -8,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -68,14 +54,35 @@
       "position": 999
     },
     {
-      "name": "Viktor Hovland",
+      "name": "Sahith Theegala",
       "total_score": -7,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999
     },
     {
-      "name": "Corey Conners",
+      "name": "Justin Rose",
+      "total_score": -7,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Brian Harman",
+      "total_score": -7,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Sepp Straka",
+      "total_score": -7,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Justin Thomas",
       "total_score": -7,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -89,7 +96,7 @@
       "position": 999
     },
     {
-      "name": "Sahith Theegala",
+      "name": "Ryo Hisatsune",
       "total_score": -6,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -103,14 +110,7 @@
       "position": 999
     },
     {
-      "name": "Russell Henley",
-      "total_score": -6,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Brian Harman",
+      "name": "Viktor Hovland",
       "total_score": -6,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -124,7 +124,7 @@
       "position": 999
     },
     {
-      "name": "Justin Thomas",
+      "name": "Corey Conners",
       "total_score": -6,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -159,13 +159,6 @@
       "position": 999
     },
     {
-      "name": "Ryo Hisatsune",
-      "total_score": -5,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
       "name": "Alex Smalley",
       "total_score": -5,
       "round_scores": [],
@@ -174,6 +167,13 @@
     },
     {
       "name": "Patrick Rodgers",
+      "total_score": -5,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Russell Henley",
       "total_score": -5,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -222,6 +222,13 @@
       "position": 999
     },
     {
+      "name": "Lee Hodges",
+      "total_score": -4,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
       "name": "Si Woo Kim",
       "total_score": -3,
       "round_scores": [],
@@ -251,13 +258,6 @@
     },
     {
       "name": "Tommy Fleetwood",
-      "total_score": -3,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Lee Hodges",
       "total_score": -3,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -607,13 +607,6 @@
       "position": 999
     },
     {
-      "name": "Steven Fisk",
-      "total_score": 5,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
       "name": "Daniel Berger",
       "total_score": 5,
       "round_scores": [],
@@ -658,6 +651,13 @@
     {
       "name": "Kurt Kitayama",
       "total_score": 5,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Steven Fisk",
+      "total_score": 6,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999
