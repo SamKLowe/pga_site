@@ -2,7 +2,7 @@
   "event_name": "THE PLAYERS Championship",
   "round": 3,
   "is_complete": false,
-  "last_updated": "2026-03-14T21:54:02.938499+00:00",
+  "last_updated": "2026-03-14T22:22:48.450775+00:00",
   "players": [
     {
       "name": "Ludvig \u00c5berg",
@@ -21,13 +21,6 @@
     {
       "name": "Cameron Young",
       "total_score": -10,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Xander Schauffele",
-      "total_score": -9,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999
@@ -54,7 +47,14 @@
       "position": 999
     },
     {
-      "name": "Jacob Bridgeman",
+      "name": "Justin Thomas",
+      "total_score": -8,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Xander Schauffele",
       "total_score": -8,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -76,6 +76,13 @@
     },
     {
       "name": "Austin Smotherman",
+      "total_score": -7,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Jacob Bridgeman",
       "total_score": -7,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -124,20 +131,6 @@
       "position": 999
     },
     {
-      "name": "Maverick McNealy",
-      "total_score": -6,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Justin Thomas",
-      "total_score": -6,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
       "name": "Sudarshan Yellamaraju",
       "total_score": -5,
       "round_scores": [],
@@ -174,6 +167,13 @@
     },
     {
       "name": "Patrick Rodgers",
+      "total_score": -5,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Maverick McNealy",
       "total_score": -5,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -222,6 +222,13 @@
       "position": 999
     },
     {
+      "name": "Tommy Fleetwood",
+      "total_score": -4,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
       "name": "Si Woo Kim",
       "total_score": -3,
       "round_scores": [],
@@ -244,20 +251,6 @@
     },
     {
       "name": "Max Homa",
-      "total_score": -3,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Tommy Fleetwood",
-      "total_score": -3,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Lee Hodges",
       "total_score": -3,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -349,6 +342,13 @@
     },
     {
       "name": "Andrew Putnam",
+      "total_score": -1,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Lee Hodges",
       "total_score": -1,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
