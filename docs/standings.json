@@ -2,11 +2,11 @@
   "tournament": "THE PLAYERS Championship 2026",
   "round": 3,
   "is_complete": false,
-  "last_updated": "2026-03-14T21:34:59.986615+00:00",
+  "last_updated": "2026-03-14T21:54:02.938499+00:00",
   "standings": [
     {
       "participant": "Steve",
-      "combined_score": -38,
+      "combined_score": -37,
       "top4": [
         {
           "name": "Ludvig \u00c5berg",
@@ -16,7 +16,7 @@
         },
         {
           "name": "Cameron Young",
-          "total_score": -11,
+          "total_score": -10,
           "status": "STATUS_ACTIVE",
           "found": true
         },
@@ -49,12 +49,56 @@
       ]
     },
     {
-      "participant": "Chris",
+      "participant": "Mike",
       "combined_score": -28,
       "top4": [
         {
+          "name": "Jacob Bridgeman",
+          "total_score": -8,
+          "status": "STATUS_ACTIVE",
+          "found": true
+        },
+        {
+          "name": "Corey Conners",
+          "total_score": -7,
+          "status": "STATUS_ACTIVE",
+          "found": true
+        },
+        {
+          "name": "Sepp Straka",
+          "total_score": -7,
+          "status": "STATUS_ACTIVE",
+          "found": true
+        },
+        {
+          "name": "Justin Thomas",
+          "total_score": -6,
+          "status": "STATUS_ACTIVE",
+          "found": true
+        }
+      ],
+      "dropped": [
+        {
+          "name": "Lee Hodges",
+          "total_score": -3,
+          "status": "STATUS_ACTIVE",
+          "found": true
+        },
+        {
+          "name": "Tony Finau",
+          "total_score": 3,
+          "status": "STATUS_ACTIVE",
+          "found": true
+        }
+      ]
+    },
+    {
+      "participant": "Chris",
+      "combined_score": -27,
+      "top4": [
+        {
           "name": "Matt Fitzpatrick",
-          "total_score": -10,
+          "total_score": -8,
           "status": "STATUS_ACTIVE",
           "found": true
         },
@@ -65,14 +109,14 @@
           "found": true
         },
         {
-          "name": "Russell Henley",
+          "name": "Maverick McNealy",
           "total_score": -6,
           "status": "STATUS_ACTIVE",
           "found": true
         },
         {
-          "name": "Maverick McNealy",
-          "total_score": -5,
+          "name": "Russell Henley",
+          "total_score": -6,
           "status": "STATUS_ACTIVE",
           "found": true
         }
@@ -93,61 +137,17 @@
       ]
     },
     {
-      "participant": "Mike",
-      "combined_score": -27,
-      "top4": [
-        {
-          "name": "Corey Conners",
-          "total_score": -7,
-          "status": "STATUS_ACTIVE",
-          "found": true
-        },
-        {
-          "name": "Sepp Straka",
-          "total_score": -7,
-          "status": "STATUS_ACTIVE",
-          "found": true
-        },
-        {
-          "name": "Jacob Bridgeman",
-          "total_score": -7,
-          "status": "STATUS_ACTIVE",
-          "found": true
-        },
-        {
-          "name": "Justin Thomas",
-          "total_score": -6,
-          "status": "STATUS_ACTIVE",
-          "found": true
-        }
-      ],
-      "dropped": [
-        {
-          "name": "Lee Hodges",
-          "total_score": -2,
-          "status": "STATUS_ACTIVE",
-          "found": true
-        },
-        {
-          "name": "Tony Finau",
-          "total_score": 3,
-          "status": "STATUS_ACTIVE",
-          "found": true
-        }
-      ]
-    },
-    {
       "participant": "Dave",
-      "combined_score": -22,
+      "combined_score": -23,
       "top4": [
-        {
-          "name": "Justin Rose",
-          "total_score": -6,
-          "status": "STATUS_ACTIVE",
-          "found": true
-        },
         {
           "name": "Austin Smotherman",
+          "total_score": -7,
+          "status": "STATUS_ACTIVE",
+          "found": true
+        },
+        {
+          "name": "Justin Rose",
           "total_score": -6,
           "status": "STATUS_ACTIVE",
           "found": true
@@ -182,11 +182,11 @@
     },
     {
       "participant": "Tom",
-      "combined_score": -21,
+      "combined_score": -20,
       "top4": [
         {
           "name": "Brian Harman",
-          "total_score": -9,
+          "total_score": -8,
           "status": "STATUS_ACTIVE",
           "found": true
         },

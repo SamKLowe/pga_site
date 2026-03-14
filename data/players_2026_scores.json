@@ -2,7 +2,7 @@
   "event_name": "THE PLAYERS Championship",
   "round": 3,
   "is_complete": false,
-  "last_updated": "2026-03-14T21:34:59.986615+00:00",
+  "last_updated": "2026-03-14T21:54:02.938499+00:00",
   "players": [
     {
       "name": "Ludvig \u00c5berg",
@@ -12,29 +12,15 @@
       "position": 999
     },
     {
-      "name": "Cameron Young",
-      "total_score": -11,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Matt Fitzpatrick",
+      "name": "Michael Thorbjornsen",
       "total_score": -10,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999
     },
     {
-      "name": "Brian Harman",
-      "total_score": -9,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Michael Thorbjornsen",
-      "total_score": -9,
+      "name": "Cameron Young",
+      "total_score": -10,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999
@@ -47,7 +33,28 @@
       "position": 999
     },
     {
+      "name": "Brian Harman",
+      "total_score": -8,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Matt Fitzpatrick",
+      "total_score": -8,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
       "name": "Viktor Hovland",
+      "total_score": -8,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Jacob Bridgeman",
       "total_score": -8,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -68,7 +75,7 @@
       "position": 999
     },
     {
-      "name": "Jacob Bridgeman",
+      "name": "Austin Smotherman",
       "total_score": -7,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -117,7 +124,7 @@
       "position": 999
     },
     {
-      "name": "Austin Smotherman",
+      "name": "Maverick McNealy",
       "total_score": -6,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -167,13 +174,6 @@
     },
     {
       "name": "Patrick Rodgers",
-      "total_score": -5,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Maverick McNealy",
       "total_score": -5,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -257,6 +257,13 @@
       "position": 999
     },
     {
+      "name": "Lee Hodges",
+      "total_score": -3,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
       "name": "Nick Taylor",
       "total_score": -2,
       "round_scores": [],
@@ -293,13 +300,6 @@
     },
     {
       "name": "Chad Ramey",
-      "total_score": -2,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Lee Hodges",
       "total_score": -2,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
