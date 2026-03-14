@@ -2,7 +2,7 @@
   "tournament": "THE PLAYERS Championship 2026",
   "round": 3,
   "is_complete": false,
-  "last_updated": "2026-03-14T13:35:23.879249+00:00",
+  "last_updated": "2026-03-14T14:03:41.970199+00:00",
   "standings": [
     {
       "participant": "Steve",
@@ -27,18 +27,18 @@
           "found": true
         },
         {
-          "name": "Jon Rahm",
+          "name": "Scottie Scheffler",
           "total_score": 0,
-          "status": "NOT_FOUND",
-          "found": false
+          "status": "STATUS_ACTIVE",
+          "found": true
         }
       ],
       "dropped": [
         {
-          "name": "Scottie Scheffler",
-          "total_score": 1,
-          "status": "STATUS_ACTIVE",
-          "found": true
+          "name": "Jon Rahm",
+          "total_score": 0,
+          "status": "NOT_FOUND",
+          "found": false
         },
         {
           "name": "Rory McIlroy",
@@ -269,6 +269,50 @@
       ]
     },
     {
+      "participant": "Nick",
+      "combined_score": -3,
+      "top4": [
+        {
+          "name": "Taylor Moore",
+          "total_score": -1,
+          "status": "STATUS_ACTIVE",
+          "found": true
+        },
+        {
+          "name": "J.T. Poston",
+          "total_score": -1,
+          "status": "STATUS_ACTIVE",
+          "found": true
+        },
+        {
+          "name": "Taylor Pendrith",
+          "total_score": -1,
+          "status": "STATUS_ACTIVE",
+          "found": true
+        },
+        {
+          "name": "Austin Eckroat",
+          "total_score": 0,
+          "status": "NOT_FOUND",
+          "found": false
+        }
+      ],
+      "dropped": [
+        {
+          "name": "Ben Griffin",
+          "total_score": 4,
+          "status": "STATUS_ACTIVE",
+          "found": true
+        },
+        {
+          "name": "Denny McCarthy",
+          "total_score": 7,
+          "status": "STATUS_ACTIVE",
+          "found": true
+        }
+      ]
+    },
+    {
       "participant": "Ryan",
       "combined_score": -2,
       "top4": [
@@ -357,50 +401,6 @@
       ]
     },
     {
-      "participant": "Nick",
-      "combined_score": -1,
-      "top4": [
-        {
-          "name": "Taylor Moore",
-          "total_score": -1,
-          "status": "STATUS_ACTIVE",
-          "found": true
-        },
-        {
-          "name": "Taylor Pendrith",
-          "total_score": -1,
-          "status": "STATUS_ACTIVE",
-          "found": true
-        },
-        {
-          "name": "Austin Eckroat",
-          "total_score": 0,
-          "status": "NOT_FOUND",
-          "found": false
-        },
-        {
-          "name": "J.T. Poston",
-          "total_score": 1,
-          "status": "STATUS_ACTIVE",
-          "found": true
-        }
-      ],
-      "dropped": [
-        {
-          "name": "Ben Griffin",
-          "total_score": 4,
-          "status": "STATUS_ACTIVE",
-          "found": true
-        },
-        {
-          "name": "Denny McCarthy",
-          "total_score": 7,
-          "status": "STATUS_ACTIVE",
-          "found": true
-        }
-      ]
-    },
-    {
       "participant": "Alex",
       "combined_score": 1,
       "top4": [
@@ -446,7 +446,7 @@
     },
     {
       "participant": "Tyler",
-      "combined_score": 2,
+      "combined_score": 1,
       "top4": [
         {
           "name": "Nick Taylor",
@@ -468,7 +468,7 @@
         },
         {
           "name": "Eric Cole",
-          "total_score": 2,
+          "total_score": 1,
           "status": "STATUS_ACTIVE",
           "found": true
         }

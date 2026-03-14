@@ -2,7 +2,7 @@
   "event_name": "THE PLAYERS Championship",
   "round": 3,
   "is_complete": false,
-  "last_updated": "2026-03-14T13:35:23.879249+00:00",
+  "last_updated": "2026-03-14T14:03:41.970199+00:00",
   "players": [
     {
       "name": "Ludvig \u00c5berg",
@@ -243,6 +243,13 @@
       "position": 999
     },
     {
+      "name": "J.T. Poston",
+      "total_score": -1,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
       "name": "Keegan Bradley",
       "total_score": -1,
       "round_scores": [],
@@ -292,7 +299,21 @@
       "position": 999
     },
     {
-      "name": "Daniel Berger",
+      "name": "Kevin Roy",
+      "total_score": 0,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Scottie Scheffler",
+      "total_score": 0,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Takumi Kanaya",
       "total_score": 0,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -369,35 +390,14 @@
       "position": 999
     },
     {
+      "name": "Eric Cole",
+      "total_score": 1,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
       "name": "Stephan Jaeger",
-      "total_score": 1,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Steven Fisk",
-      "total_score": 1,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "J.T. Poston",
-      "total_score": 1,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Nico Echavarria",
-      "total_score": 1,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Rory McIlroy",
       "total_score": 1,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -418,21 +418,7 @@
       "position": 999
     },
     {
-      "name": "Takumi Kanaya",
-      "total_score": 1,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Scottie Scheffler",
-      "total_score": 1,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Ricky Castillo",
+      "name": "Rory McIlroy",
       "total_score": 1,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -460,29 +446,29 @@
       "position": 999
     },
     {
-      "name": "Zach Bauchou",
+      "name": "Michael Brennan",
       "total_score": 2,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999
     },
     {
-      "name": "Eric Cole",
+      "name": "Daniel Berger",
       "total_score": 2,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999
     },
     {
-      "name": "Kevin Roy",
+      "name": "Steven Fisk",
       "total_score": 2,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999
     },
     {
-      "name": "S\u00e9amus Power",
-      "total_score": 3,
+      "name": "Nico Echavarria",
+      "total_score": 2,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999
@@ -502,7 +488,14 @@
       "position": 999
     },
     {
-      "name": "Rico Hoey",
+      "name": "Zach Bauchou",
+      "total_score": 3,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Ricky Castillo",
       "total_score": 3,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -579,7 +572,7 @@
       "position": 999
     },
     {
-      "name": "Michael Brennan",
+      "name": "Rico Hoey",
       "total_score": 4,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -637,6 +630,13 @@
     {
       "name": "Ben Griffin",
       "total_score": 4,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "S\u00e9amus Power",
+      "total_score": 5,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999
