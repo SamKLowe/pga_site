@@ -2,7 +2,7 @@
   "tournament": "THE PLAYERS Championship 2026",
   "round": 3,
   "is_complete": false,
-  "last_updated": "2026-03-14T12:44:16.689746+00:00",
+  "last_updated": "2026-03-14T13:35:23.879249+00:00",
   "standings": [
     {
       "participant": "Steve",
@@ -402,7 +402,7 @@
     },
     {
       "participant": "Alex",
-      "combined_score": 0,
+      "combined_score": 1,
       "top4": [
         {
           "name": "Brooks Koepka",
@@ -424,7 +424,7 @@
         },
         {
           "name": "Patrick Cantlay",
-          "total_score": 2,
+          "total_score": 3,
           "status": "STATUS_ACTIVE",
           "found": true
         }
