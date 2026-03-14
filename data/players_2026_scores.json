@@ -1,12 +1,12 @@
 {
   "event_name": "THE PLAYERS Championship",
   "round": 3,
-  "is_complete": false,
-  "last_updated": "2026-03-14T22:51:51.184147+00:00",
+  "is_complete": true,
+  "last_updated": "2026-03-14T23:25:35.720281+00:00",
   "players": [
     {
       "name": "Ludvig \u00c5berg",
-      "total_score": -14,
+      "total_score": -13,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999
