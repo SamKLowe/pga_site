@@ -2,11 +2,11 @@
   "tournament": "THE PLAYERS Championship 2026",
   "round": 3,
   "is_complete": false,
-  "last_updated": "2026-03-14T22:22:48.450775+00:00",
+  "last_updated": "2026-03-14T22:51:51.184147+00:00",
   "standings": [
     {
       "participant": "Steve",
-      "combined_score": -36,
+      "combined_score": -35,
       "top4": [
         {
           "name": "Ludvig \u00c5berg",
@@ -16,7 +16,7 @@
         },
         {
           "name": "Cameron Young",
-          "total_score": -10,
+          "total_score": -9,
           "status": "STATUS_ACTIVE",
           "found": true
         },
@@ -50,17 +50,17 @@
     },
     {
       "participant": "Mike",
-      "combined_score": -29,
+      "combined_score": -30,
       "top4": [
         {
-          "name": "Justin Thomas",
+          "name": "Corey Conners",
           "total_score": -8,
           "status": "STATUS_ACTIVE",
           "found": true
         },
         {
-          "name": "Corey Conners",
-          "total_score": -7,
+          "name": "Justin Thomas",
+          "total_score": -8,
           "status": "STATUS_ACTIVE",
           "found": true
         },

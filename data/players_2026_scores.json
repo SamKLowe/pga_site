@@ -2,7 +2,7 @@
   "event_name": "THE PLAYERS Championship",
   "round": 3,
   "is_complete": false,
-  "last_updated": "2026-03-14T22:22:48.450775+00:00",
+  "last_updated": "2026-03-14T22:51:51.184147+00:00",
   "players": [
     {
       "name": "Ludvig \u00c5berg",
@@ -20,7 +20,7 @@
     },
     {
       "name": "Cameron Young",
-      "total_score": -10,
+      "total_score": -9,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999
@@ -41,6 +41,13 @@
     },
     {
       "name": "Viktor Hovland",
+      "total_score": -8,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Corey Conners",
       "total_score": -8,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -90,13 +97,6 @@
     },
     {
       "name": "Sepp Straka",
-      "total_score": -7,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Corey Conners",
       "total_score": -7,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
