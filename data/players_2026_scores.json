@@ -2,7 +2,7 @@
   "event_name": "THE PLAYERS Championship",
   "round": 4,
   "is_complete": false,
-  "last_updated": "2026-03-15T15:46:21.048419+00:00",
+  "last_updated": "2026-03-15T16:02:14.630556+00:00",
   "players": [
     {
       "name": "Ludvig \u00c5berg",
@@ -131,14 +131,28 @@
       "position": 999
     },
     {
-      "name": "Min Woo Lee",
+      "name": "Sam Burns",
       "total_score": -5,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999
     },
     {
-      "name": "Akshay Bhatia",
+      "name": "Tommy Fleetwood",
+      "total_score": -5,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Alex Smalley",
+      "total_score": -5,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Maverick McNealy",
       "total_score": -5,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -173,63 +187,7 @@
       "position": 999
     },
     {
-      "name": "Patrick Rodgers",
-      "total_score": -5,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Alex Smalley",
-      "total_score": -5,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Maverick McNealy",
-      "total_score": -5,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Bud Cauley",
-      "total_score": -4,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Sam Burns",
-      "total_score": -4,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Max Homa",
-      "total_score": -4,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Joe Highsmith",
-      "total_score": -4,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Keith Mitchell",
-      "total_score": -4,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Tommy Fleetwood",
+      "name": "Min Woo Lee",
       "total_score": -4,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -257,7 +215,7 @@
       "position": 999
     },
     {
-      "name": "Chad Ramey",
+      "name": "Bud Cauley",
       "total_score": -3,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -265,6 +223,34 @@
     },
     {
       "name": "Wyndham Clark",
+      "total_score": -3,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Chad Ramey",
+      "total_score": -3,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Max Homa",
+      "total_score": -3,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Si Woo Kim",
+      "total_score": -3,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Keith Mitchell",
       "total_score": -3,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -279,6 +265,20 @@
     },
     {
       "name": "Chris Gotterup",
+      "total_score": -3,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Akshay Bhatia",
+      "total_score": -3,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Patrick Rodgers",
       "total_score": -3,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -313,14 +313,21 @@
       "position": 999
     },
     {
-      "name": "Si Woo Kim",
-      "total_score": -2,
+      "name": "Rickie Fowler",
+      "total_score": -1,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999
     },
     {
-      "name": "Rickie Fowler",
+      "name": "Sam Stevens",
+      "total_score": -1,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Alex Noren",
       "total_score": -1,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -348,21 +355,14 @@
       "position": 999
     },
     {
-      "name": "Nick Taylor",
+      "name": "Joe Highsmith",
       "total_score": -1,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999
     },
     {
-      "name": "Max McGreevy",
-      "total_score": -1,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Sam Stevens",
+      "name": "Nicolai H\u00f8jgaard",
       "total_score": 0,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -376,13 +376,6 @@
       "position": 999
     },
     {
-      "name": "Nicolai H\u00f8jgaard",
-      "total_score": 0,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
       "name": "Taylor Moore",
       "total_score": 0,
       "round_scores": [],
@@ -390,7 +383,14 @@
       "position": 999
     },
     {
-      "name": "Alex Noren",
+      "name": "Nick Taylor",
+      "total_score": 0,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Max McGreevy",
       "total_score": 0,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -425,13 +425,6 @@
       "position": 999
     },
     {
-      "name": "Stephan Jaeger",
-      "total_score": 1,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
       "name": "Matti Schmid",
       "total_score": 1,
       "round_scores": [],
@@ -439,8 +432,8 @@
       "position": 999
     },
     {
-      "name": "Rico Hoey",
-      "total_score": 3,
+      "name": "Stephan Jaeger",
+      "total_score": 2,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999
@@ -523,13 +516,6 @@
       "position": 999
     },
     {
-      "name": "Kristoffer Reitan",
-      "total_score": 4,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
       "name": "Erik van Rooyen",
       "total_score": 4,
       "round_scores": [],
@@ -600,6 +586,13 @@
       "position": 999
     },
     {
+      "name": "Rico Hoey",
+      "total_score": 5,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
       "name": "Thorbj\u00f8rn Olesen",
       "total_score": 5,
       "round_scores": [],
@@ -637,6 +630,20 @@
     {
       "name": "Kurt Kitayama",
       "total_score": 5,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Kristoffer Reitan",
+      "total_score": 6,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Daniel Berger",
+      "total_score": 6,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999
@@ -698,7 +705,7 @@
       "position": 999
     },
     {
-      "name": "Daniel Berger",
+      "name": "S\u00e9amus Power",
       "total_score": 7,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -741,13 +748,6 @@
     },
     {
       "name": "Ricky Castillo",
-      "total_score": 8,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "S\u00e9amus Power",
       "total_score": 8,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
