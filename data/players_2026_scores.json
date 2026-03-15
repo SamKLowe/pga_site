@@ -2,7 +2,7 @@
   "event_name": "THE PLAYERS Championship",
   "round": 4,
   "is_complete": false,
-  "last_updated": "2026-03-15T11:54:48.064805+00:00",
+  "last_updated": "2026-03-15T12:47:35.386404+00:00",
   "players": [
     {
       "name": "Ludvig \u00c5berg",
@@ -404,6 +404,27 @@
       "position": 999
     },
     {
+      "name": "Hideki Matsuyama",
+      "total_score": 1,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Rickie Fowler",
+      "total_score": 1,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Jordan Spieth",
+      "total_score": 1,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
       "name": "Eric Cole",
       "total_score": 1,
       "round_scores": [],
@@ -432,35 +453,14 @@
       "position": 999
     },
     {
-      "name": "Rickie Fowler",
-      "total_score": 1,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Jordan Spieth",
-      "total_score": 1,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Hideki Matsuyama",
-      "total_score": 2,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Michael Brennan",
+      "name": "Tony Finau",
       "total_score": 3,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999
     },
     {
-      "name": "Tony Finau",
+      "name": "Michael Brennan",
       "total_score": 3,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -537,7 +537,14 @@
       "position": 999
     },
     {
-      "name": "S\u00e9amus Power",
+      "name": "Kristoffer Reitan",
+      "total_score": 4,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Daniel Berger",
       "total_score": 4,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -600,21 +607,7 @@
       "position": 999
     },
     {
-      "name": "Steven Fisk",
-      "total_score": 5,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Rico Hoey",
-      "total_score": 5,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Daniel Berger",
+      "name": "S\u00e9amus Power",
       "total_score": 5,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -663,14 +656,14 @@
       "position": 999
     },
     {
-      "name": "Ricky Castillo",
+      "name": "Steven Fisk",
       "total_score": 6,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999
     },
     {
-      "name": "Kristoffer Reitan",
+      "name": "Rico Hoey",
       "total_score": 6,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -726,6 +719,20 @@
       "position": 999
     },
     {
+      "name": "Danny Walker",
+      "total_score": 7,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Ricky Castillo",
+      "total_score": 7,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
       "name": "Denny McCarthy",
       "total_score": 7,
       "round_scores": [],
@@ -749,13 +756,6 @@
     {
       "name": "Aldrich Potgieter",
       "total_score": 7,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Danny Walker",
-      "total_score": 8,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999
@@ -817,15 +817,15 @@
       "position": 999
     },
     {
-      "name": "Takumi Kanaya",
+      "name": "Michael Kim",
       "total_score": 10,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999
     },
     {
-      "name": "Michael Kim",
-      "total_score": 10,
+      "name": "Takumi Kanaya",
+      "total_score": 11,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999
