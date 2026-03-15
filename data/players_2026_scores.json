@@ -2,7 +2,7 @@
   "event_name": "THE PLAYERS Championship",
   "round": 4,
   "is_complete": false,
-  "last_updated": "2026-03-15T20:53:54.402446+00:00",
+  "last_updated": "2026-03-15T21:25:35.652524+00:00",
   "players": [
     {
       "name": "Matt Fitzpatrick",
@@ -20,13 +20,13 @@
     },
     {
       "name": "Robert MacIntyre",
-      "total_score": -11,
+      "total_score": -10,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999
     },
     {
-      "name": "Sepp Straka",
+      "name": "Xander Schauffele",
       "total_score": -10,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -47,7 +47,7 @@
       "position": 999
     },
     {
-      "name": "Xander Schauffele",
+      "name": "Jacob Bridgeman",
       "total_score": -9,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -68,7 +68,7 @@
       "position": 999
     },
     {
-      "name": "Jacob Bridgeman",
+      "name": "Sepp Straka",
       "total_score": -8,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -83,13 +83,6 @@
     },
     {
       "name": "Patrick Rodgers",
-      "total_score": -7,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Viktor Hovland",
       "total_score": -7,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -124,6 +117,13 @@
       "position": 999
     },
     {
+      "name": "Justin Rose",
+      "total_score": -6,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
       "name": "Russell Henley",
       "total_score": -6,
       "round_scores": [],
@@ -131,7 +131,21 @@
       "position": 999
     },
     {
-      "name": "Justin Rose",
+      "name": "Austin Smotherman",
+      "total_score": -6,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Corey Conners",
+      "total_score": -6,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Viktor Hovland",
       "total_score": -6,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -152,27 +166,6 @@
       "position": 999
     },
     {
-      "name": "William Mouw",
-      "total_score": -5,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Austin Smotherman",
-      "total_score": -5,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Corey Conners",
-      "total_score": -5,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
       "name": "J.J. Spaun",
       "total_score": -4,
       "round_scores": [],
@@ -181,6 +174,13 @@
     },
     {
       "name": "Alex Smalley",
+      "total_score": -4,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "William Mouw",
       "total_score": -4,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
