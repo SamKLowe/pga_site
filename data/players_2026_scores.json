@@ -1,19 +1,19 @@
 {
   "event_name": "THE PLAYERS Championship",
   "round": 4,
-  "is_complete": false,
-  "last_updated": "2026-03-15T21:51:00.391113+00:00",
+  "is_complete": true,
+  "last_updated": "2026-03-15T22:24:37.656416+00:00",
   "players": [
     {
-      "name": "Matt Fitzpatrick",
+      "name": "Cameron Young",
       "total_score": -13,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999
     },
     {
-      "name": "Cameron Young",
-      "total_score": -13,
+      "name": "Matt Fitzpatrick",
+      "total_score": -12,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999
@@ -89,13 +89,6 @@
       "position": 999
     },
     {
-      "name": "Michael Thorbjornsen",
-      "total_score": -7,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
       "name": "Sam Burns",
       "total_score": -6,
       "round_scores": [],
@@ -145,13 +138,6 @@
       "position": 999
     },
     {
-      "name": "Corey Conners",
-      "total_score": -6,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
       "name": "Viktor Hovland",
       "total_score": -6,
       "round_scores": [],
@@ -159,7 +145,21 @@
       "position": 999
     },
     {
+      "name": "Corey Conners",
+      "total_score": -6,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
       "name": "Scottie Scheffler",
+      "total_score": -5,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Michael Thorbjornsen",
       "total_score": -5,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
