@@ -2,7 +2,7 @@
   "tournament": "THE PLAYERS Championship 2026",
   "round": 0,
   "is_complete": false,
-  "last_updated": "2026-03-18T13:25:41.756482+00:00",
+  "last_updated": "2026-03-18T14:46:33.512178+00:00",
   "standings": [
     {
       "participant": "Steve",
@@ -257,8 +257,8 @@
         {
           "name": "Akshay Bhatia",
           "total_score": 0,
-          "status": "STATUS_ACTIVE",
-          "found": true
+          "status": "NOT_FOUND",
+          "found": false
         },
         {
           "name": "Brian Harman",
