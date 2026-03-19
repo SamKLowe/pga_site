@@ -1,8 +1,8 @@
 {
   "event_name": "Valspar Championship",
   "round": 1,
-  "is_complete": false,
-  "last_updated": "2026-03-19T23:15:32.907925+00:00",
+  "is_complete": true,
+  "last_updated": "2026-03-19T23:46:43.442967+00:00",
   "players": [
     {
       "name": "Sungjae Im",
@@ -104,6 +104,13 @@
     },
     {
       "name": "Patrick Fishburn",
+      "total_score": -3,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Rasmus Neergaard-Petersen",
       "total_score": -3,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -237,13 +244,6 @@
     },
     {
       "name": "David Ford",
-      "total_score": -2,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Rasmus Neergaard-Petersen",
       "total_score": -2,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -698,13 +698,6 @@
       "position": 999
     },
     {
-      "name": "Isaiah Salinda",
-      "total_score": 2,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
       "name": "Steven Fisk",
       "total_score": 3,
       "round_scores": [],
@@ -776,6 +769,13 @@
     },
     {
       "name": "Jackson Suber",
+      "total_score": 3,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Isaiah Salinda",
       "total_score": 3,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
