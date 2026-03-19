@@ -2,7 +2,7 @@
   "tournament": "THE PLAYERS Championship 2026",
   "round": 1,
   "is_complete": false,
-  "last_updated": "2026-03-19T22:02:28.244744+00:00",
+  "last_updated": "2026-03-19T22:46:33.658436+00:00",
   "standings": [
     {
       "participant": "Mike",
@@ -93,50 +93,6 @@
       ]
     },
     {
-      "participant": "Dave",
-      "combined_score": -5,
-      "top4": [
-        {
-          "name": "Andrew Putnam",
-          "total_score": -4,
-          "status": "STATUS_ACTIVE",
-          "found": true
-        },
-        {
-          "name": "Ryo Hisatsune",
-          "total_score": -1,
-          "status": "STATUS_ACTIVE",
-          "found": true
-        },
-        {
-          "name": "Justin Rose",
-          "total_score": 0,
-          "status": "NOT_FOUND",
-          "found": false
-        },
-        {
-          "name": "Keith Mitchell",
-          "total_score": 0,
-          "status": "NOT_FOUND",
-          "found": false
-        }
-      ],
-      "dropped": [
-        {
-          "name": "Rickie Fowler",
-          "total_score": 0,
-          "status": "NOT_FOUND",
-          "found": false
-        },
-        {
-          "name": "Austin Smotherman",
-          "total_score": 0,
-          "status": "STATUS_ACTIVE",
-          "found": true
-        }
-      ]
-    },
-    {
       "participant": "Alex",
       "combined_score": -5,
       "top4": [
@@ -181,29 +137,29 @@
       ]
     },
     {
-      "participant": "Jake",
+      "participant": "Dave",
       "combined_score": -4,
       "top4": [
         {
-          "name": "Jordan Spieth",
-          "total_score": -3,
+          "name": "Andrew Putnam",
+          "total_score": -4,
           "status": "STATUS_ACTIVE",
           "found": true
         },
         {
-          "name": "Viktor Hovland",
-          "total_score": -1,
-          "status": "STATUS_ACTIVE",
-          "found": true
-        },
-        {
-          "name": "Jason Day",
+          "name": "Justin Rose",
           "total_score": 0,
           "status": "NOT_FOUND",
           "found": false
         },
         {
-          "name": "Tommy Fleetwood",
+          "name": "Keith Mitchell",
+          "total_score": 0,
+          "status": "NOT_FOUND",
+          "found": false
+        },
+        {
+          "name": "Rickie Fowler",
           "total_score": 0,
           "status": "NOT_FOUND",
           "found": false
@@ -211,14 +167,14 @@
       ],
       "dropped": [
         {
-          "name": "Min Woo Lee",
+          "name": "Austin Smotherman",
           "total_score": 0,
-          "status": "NOT_FOUND",
-          "found": false
+          "status": "STATUS_ACTIVE",
+          "found": true
         },
         {
-          "name": "Max Homa",
-          "total_score": 5,
+          "name": "Ryo Hisatsune",
+          "total_score": 0,
           "status": "STATUS_ACTIVE",
           "found": true
         }
@@ -265,6 +221,50 @@
           "total_score": 0,
           "status": "NOT_FOUND",
           "found": false
+        }
+      ]
+    },
+    {
+      "participant": "Jake",
+      "combined_score": -3,
+      "top4": [
+        {
+          "name": "Jordan Spieth",
+          "total_score": -2,
+          "status": "STATUS_ACTIVE",
+          "found": true
+        },
+        {
+          "name": "Viktor Hovland",
+          "total_score": -1,
+          "status": "STATUS_ACTIVE",
+          "found": true
+        },
+        {
+          "name": "Jason Day",
+          "total_score": 0,
+          "status": "NOT_FOUND",
+          "found": false
+        },
+        {
+          "name": "Tommy Fleetwood",
+          "total_score": 0,
+          "status": "NOT_FOUND",
+          "found": false
+        }
+      ],
+      "dropped": [
+        {
+          "name": "Min Woo Lee",
+          "total_score": 0,
+          "status": "NOT_FOUND",
+          "found": false
+        },
+        {
+          "name": "Max Homa",
+          "total_score": 7,
+          "status": "STATUS_ACTIVE",
+          "found": true
         }
       ]
     },
@@ -357,50 +357,6 @@
       ]
     },
     {
-      "participant": "Nick",
-      "combined_score": -1,
-      "top4": [
-        {
-          "name": "Ben Griffin",
-          "total_score": -2,
-          "status": "STATUS_ACTIVE",
-          "found": true
-        },
-        {
-          "name": "Denny McCarthy",
-          "total_score": -1,
-          "status": "STATUS_ACTIVE",
-          "found": true
-        },
-        {
-          "name": "J.T. Poston",
-          "total_score": 0,
-          "status": "NOT_FOUND",
-          "found": false
-        },
-        {
-          "name": "Taylor Moore",
-          "total_score": 2,
-          "status": "STATUS_ACTIVE",
-          "found": true
-        }
-      ],
-      "dropped": [
-        {
-          "name": "Taylor Pendrith",
-          "total_score": 5,
-          "status": "STATUS_ACTIVE",
-          "found": true
-        },
-        {
-          "name": "Austin Eckroat",
-          "total_score": 7,
-          "status": "STATUS_ACTIVE",
-          "found": true
-        }
-      ]
-    },
-    {
       "participant": "Ryan",
       "combined_score": 0,
       "top4": [
@@ -441,6 +397,50 @@
           "total_score": 0,
           "status": "NOT_FOUND",
           "found": false
+        }
+      ]
+    },
+    {
+      "participant": "Nick",
+      "combined_score": 0,
+      "top4": [
+        {
+          "name": "Denny McCarthy",
+          "total_score": -1,
+          "status": "STATUS_ACTIVE",
+          "found": true
+        },
+        {
+          "name": "Ben Griffin",
+          "total_score": -1,
+          "status": "STATUS_ACTIVE",
+          "found": true
+        },
+        {
+          "name": "J.T. Poston",
+          "total_score": 0,
+          "status": "NOT_FOUND",
+          "found": false
+        },
+        {
+          "name": "Taylor Moore",
+          "total_score": 2,
+          "status": "STATUS_ACTIVE",
+          "found": true
+        }
+      ],
+      "dropped": [
+        {
+          "name": "Taylor Pendrith",
+          "total_score": 5,
+          "status": "STATUS_ACTIVE",
+          "found": true
+        },
+        {
+          "name": "Austin Eckroat",
+          "total_score": 7,
+          "status": "STATUS_ACTIVE",
+          "found": true
         }
       ]
     },
