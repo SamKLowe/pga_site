@@ -1,26 +1,19 @@
 {
   "event_name": "Valspar Championship",
-  "round": 0,
+  "round": 1,
   "is_complete": false,
-  "last_updated": "2026-03-19T11:23:59.942351+00:00",
+  "last_updated": "2026-03-19T11:56:54.558440+00:00",
   "players": [
     {
-      "name": "Justin Lower",
-      "total_score": 0,
+      "name": "Emiliano Grillo",
+      "total_score": -1,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999
     },
     {
       "name": "Alex Smalley",
-      "total_score": 0,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Max McGreevy",
-      "total_score": 0,
+      "total_score": -1,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999
@@ -33,14 +26,14 @@
       "position": 999
     },
     {
-      "name": "Danny Willett",
+      "name": "Justin Lower",
       "total_score": 0,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999
     },
     {
-      "name": "Emiliano Grillo",
+      "name": "Max McGreevy",
       "total_score": 0,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -945,6 +938,13 @@
     {
       "name": "Luke Clanton",
       "total_score": 0,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Danny Willett",
+      "total_score": 1,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999
