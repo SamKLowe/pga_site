@@ -2,7 +2,7 @@
   "event_name": "Valspar Championship",
   "round": 1,
   "is_complete": false,
-  "last_updated": "2026-03-19T18:05:03.946547+00:00",
+  "last_updated": "2026-03-19T19:12:08.323518+00:00",
   "players": [
     {
       "name": "Sungjae Im",
@@ -47,6 +47,13 @@
       "position": 999
     },
     {
+      "name": "Jordan Spieth",
+      "total_score": -4,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
       "name": "Alex Smalley",
       "total_score": -3,
       "round_scores": [],
@@ -75,14 +82,14 @@
       "position": 999
     },
     {
-      "name": "Jesper Svensson",
+      "name": "David Lipsky",
       "total_score": -3,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999
     },
     {
-      "name": "David Lipsky",
+      "name": "Neal Shipley",
       "total_score": -3,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -117,7 +124,21 @@
       "position": 999
     },
     {
-      "name": "Stephan Jaeger",
+      "name": "Jesper Svensson",
+      "total_score": -2,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "John VanDerLaan",
+      "total_score": -2,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Marco Penge",
       "total_score": -2,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -131,7 +152,7 @@
       "position": 999
     },
     {
-      "name": "Jordan Spieth",
+      "name": "Adam Schenk",
       "total_score": -2,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -180,20 +201,6 @@
       "position": 999
     },
     {
-      "name": "John VanDerLaan",
-      "total_score": -1,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Adrien Saddier",
-      "total_score": -1,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
       "name": "Doug Ghim",
       "total_score": -1,
       "round_scores": [],
@@ -201,56 +208,21 @@
       "position": 999
     },
     {
-      "name": "Patton Kizzire",
+      "name": "S\u00e9amus Power",
       "total_score": -1,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999
     },
     {
-      "name": "Joel Dahmen",
+      "name": "Bud Cauley",
       "total_score": -1,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999
     },
     {
-      "name": "Taylor Moore",
-      "total_score": -1,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Marco Penge",
-      "total_score": -1,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Lucas Glover",
-      "total_score": -1,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Sam Ryder",
-      "total_score": -1,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Matt Fitzpatrick",
-      "total_score": -1,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Adam Schenk",
+      "name": "Stephan Jaeger",
       "total_score": -1,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -264,6 +236,13 @@
       "position": 999
     },
     {
+      "name": "Matt Fitzpatrick",
+      "total_score": -1,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
       "name": "Ryo Hisatsune",
       "total_score": -1,
       "round_scores": [],
@@ -271,7 +250,7 @@
       "position": 999
     },
     {
-      "name": "Dylan Wu",
+      "name": "Kevin Streelman",
       "total_score": -1,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -285,7 +264,49 @@
       "position": 999
     },
     {
+      "name": "Kristoffer Reitan",
+      "total_score": -1,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Vince Whaley",
+      "total_score": -1,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
       "name": "Johnny Keefer",
+      "total_score": -1,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Davis Chatfield",
+      "total_score": -1,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Blades Brown",
+      "total_score": -1,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Isaiah Salinda",
+      "total_score": -1,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Adrien Dumont de Chassart",
       "total_score": -1,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -362,6 +383,13 @@
       "position": 999
     },
     {
+      "name": "Adrien Saddier",
+      "total_score": 0,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
       "name": "Kris Ventura",
       "total_score": 0,
       "round_scores": [],
@@ -376,35 +404,21 @@
       "position": 999
     },
     {
-      "name": "Austin Eckroat",
+      "name": "Gary Woodland",
       "total_score": 0,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999
     },
     {
-      "name": "Rafael Campos",
+      "name": "Taylor Moore",
       "total_score": 0,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999
     },
     {
-      "name": "S\u00e9amus Power",
-      "total_score": 0,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Bud Cauley",
-      "total_score": 0,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Adam Svensson",
+      "name": "Nicolai H\u00f8jgaard",
       "total_score": 0,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -425,14 +439,14 @@
       "position": 999
     },
     {
-      "name": "Jacob Bridgeman",
+      "name": "Garrick Higgo",
       "total_score": 0,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999
     },
     {
-      "name": "Garrick Higgo",
+      "name": "Jacob Bridgeman",
       "total_score": 0,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -460,28 +474,14 @@
       "position": 999
     },
     {
+      "name": "Dylan Wu",
+      "total_score": 0,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
       "name": "Mac Meissner",
-      "total_score": 0,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Rico Hoey",
-      "total_score": 0,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Kevin Streelman",
-      "total_score": 0,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Max Homa",
       "total_score": 0,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -495,21 +495,7 @@
       "position": 999
     },
     {
-      "name": "Kristoffer Reitan",
-      "total_score": 0,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Vince Whaley",
-      "total_score": 0,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Zecheng Dou",
+      "name": "Rico Hoey",
       "total_score": 0,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -523,49 +509,7 @@
       "position": 999
     },
     {
-      "name": "Neal Shipley",
-      "total_score": 0,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Dan Brown",
-      "total_score": 0,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "David Skinns",
-      "total_score": 0,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Davis Chatfield",
-      "total_score": 0,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
       "name": "Paul Waring",
-      "total_score": 0,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Paul Peterson",
-      "total_score": 0,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Blades Brown",
       "total_score": 0,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -579,13 +523,6 @@
       "position": 999
     },
     {
-      "name": "Greg Koch",
-      "total_score": 0,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
       "name": "David Ford",
       "total_score": 0,
       "round_scores": [],
@@ -593,42 +530,7 @@
       "position": 999
     },
     {
-      "name": "Patrick Fishburn",
-      "total_score": 0,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Isaiah Salinda",
-      "total_score": 0,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Rasmus Neergaard-Petersen",
-      "total_score": 0,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
       "name": "Jimmy Stanger",
-      "total_score": 0,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Adrien Dumont de Chassart",
-      "total_score": 0,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Tyler Wilkes",
       "total_score": 0,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -643,13 +545,6 @@
     },
     {
       "name": "Pontus Nyholm",
-      "total_score": 0,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Luke Clanton",
       "total_score": 0,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -705,13 +600,6 @@
       "position": 999
     },
     {
-      "name": "Erik van Rooyen",
-      "total_score": 1,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
       "name": "John Parry",
       "total_score": 1,
       "round_scores": [],
@@ -719,21 +607,7 @@
       "position": 999
     },
     {
-      "name": "Gary Woodland",
-      "total_score": 1,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Adam Hadwin",
-      "total_score": 1,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Rasmus H\u00f8jgaard",
+      "name": "Patton Kizzire",
       "total_score": 1,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -747,35 +621,84 @@
       "position": 999
     },
     {
-      "name": "Michael Kim",
+      "name": "Joel Dahmen",
       "total_score": 1,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999
     },
     {
-      "name": "Nicolai H\u00f8jgaard",
+      "name": "Lucas Glover",
       "total_score": 1,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999
     },
     {
-      "name": "Michael Brennan",
+      "name": "Sam Ryder",
       "total_score": 1,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999
     },
     {
-      "name": "Taylor Pendrith",
+      "name": "Max Homa",
       "total_score": 1,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999
     },
     {
-      "name": "Nick Dunlap",
+      "name": "Zecheng Dou",
+      "total_score": 1,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Dan Brown",
+      "total_score": 1,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "David Skinns",
+      "total_score": 1,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Paul Peterson",
+      "total_score": 1,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Patrick Fishburn",
+      "total_score": 1,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Rasmus Neergaard-Petersen",
+      "total_score": 1,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Tyler Wilkes",
+      "total_score": 1,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Luke Clanton",
       "total_score": 1,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -859,7 +782,7 @@
       "position": 999
     },
     {
-      "name": "Gordon Sargent",
+      "name": "Erik van Rooyen",
       "total_score": 2,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -873,6 +796,27 @@
       "position": 999
     },
     {
+      "name": "Rafael Campos",
+      "total_score": 2,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Rasmus H\u00f8jgaard",
+      "total_score": 2,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Adam Svensson",
+      "total_score": 2,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
       "name": "Peter Malnati",
       "total_score": 2,
       "round_scores": [],
@@ -880,7 +824,21 @@
       "position": 999
     },
     {
-      "name": "Sahith Theegala",
+      "name": "Taylor Pendrith",
+      "total_score": 2,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Nick Dunlap",
+      "total_score": 2,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Greg Koch",
       "total_score": 2,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -901,7 +859,42 @@
       "position": 999
     },
     {
-      "name": "Jeffrey Kang",
+      "name": "Austin Eckroat",
+      "total_score": 3,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Adam Hadwin",
+      "total_score": 3,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Sahith Theegala",
+      "total_score": 3,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Gordon Sargent",
+      "total_score": 4,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Michael Kim",
+      "total_score": 4,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Michael Brennan",
       "total_score": 4,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -930,6 +923,13 @@
     },
     {
       "name": "Jeremy Paul",
+      "total_score": 5,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Jeffrey Kang",
       "total_score": 5,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
