@@ -2,7 +2,7 @@
   "tournament": "THE PLAYERS Championship 2026",
   "round": 2,
   "is_complete": false,
-  "last_updated": "2026-03-20T20:16:01.030917+00:00",
+  "last_updated": "2026-03-20T20:51:51.965000+00:00",
   "standings": [
     {
       "participant": "Mike",
@@ -27,7 +27,7 @@
           "found": true
         },
         {
-          "name": "Justin Thomas",
+          "name": "Lee Hodges",
           "total_score": -1,
           "status": "STATUS_ACTIVE",
           "found": true
@@ -35,16 +35,16 @@
       ],
       "dropped": [
         {
+          "name": "Justin Thomas",
+          "total_score": -1,
+          "status": "STATUS_ACTIVE",
+          "found": true
+        },
+        {
           "name": "Sepp Straka",
           "total_score": 0,
           "status": "NOT_FOUND",
           "found": false
-        },
-        {
-          "name": "Lee Hodges",
-          "total_score": 0,
-          "status": "STATUS_ACTIVE",
-          "found": true
         }
       ]
     },
@@ -94,7 +94,7 @@
     },
     {
       "participant": "Alex",
-      "combined_score": -6,
+      "combined_score": -9,
       "top4": [
         {
           "name": "Billy Horschel",
@@ -103,14 +103,14 @@
           "found": true
         },
         {
-          "name": "Brooks Koepka",
-          "total_score": -1,
+          "name": "Patrick Cantlay",
+          "total_score": -3,
           "status": "STATUS_ACTIVE",
           "found": true
         },
         {
-          "name": "Patrick Cantlay",
-          "total_score": -1,
+          "name": "Brooks Koepka",
+          "total_score": -2,
           "status": "STATUS_ACTIVE",
           "found": true
         },
@@ -174,7 +174,7 @@
         },
         {
           "name": "Austin Smotherman",
-          "total_score": 4,
+          "total_score": 6,
           "status": "STATUS_ACTIVE",
           "found": true
         }
@@ -256,13 +256,13 @@
       "dropped": [
         {
           "name": "Keegan Bradley",
-          "total_score": 2,
+          "total_score": 1,
           "status": "STATUS_ACTIVE",
           "found": true
         },
         {
           "name": "Matt Kuchar",
-          "total_score": 4,
+          "total_score": 5,
           "status": "STATUS_ACTIVE",
           "found": true
         }
@@ -285,13 +285,13 @@
           "found": false
         },
         {
-          "name": "Viktor Hovland",
+          "name": "Tommy Fleetwood",
           "total_score": 0,
-          "status": "STATUS_ACTIVE",
-          "found": true
+          "status": "NOT_FOUND",
+          "found": false
         },
         {
-          "name": "Tommy Fleetwood",
+          "name": "Min Woo Lee",
           "total_score": 0,
           "status": "NOT_FOUND",
           "found": false
@@ -299,10 +299,10 @@
       ],
       "dropped": [
         {
-          "name": "Min Woo Lee",
-          "total_score": 0,
-          "status": "NOT_FOUND",
-          "found": false
+          "name": "Viktor Hovland",
+          "total_score": 1,
+          "status": "STATUS_ACTIVE",
+          "found": true
         },
         {
           "name": "Max Homa",
@@ -388,7 +388,7 @@
       "dropped": [
         {
           "name": "Mark Hubbard",
-          "total_score": 4,
+          "total_score": 5,
           "status": "STATUS_ACTIVE",
           "found": true
         },
@@ -446,14 +446,8 @@
     },
     {
       "participant": "Tyler",
-      "combined_score": 1,
+      "combined_score": 2,
       "top4": [
-        {
-          "name": "Christiaan Bezuidenhout",
-          "total_score": 0,
-          "status": "STATUS_ACTIVE",
-          "found": true
-        },
         {
           "name": "Callum Tarren",
           "total_score": 0,
@@ -465,6 +459,12 @@
           "total_score": 0,
           "status": "NOT_FOUND",
           "found": false
+        },
+        {
+          "name": "Christiaan Bezuidenhout",
+          "total_score": 1,
+          "status": "STATUS_ACTIVE",
+          "found": true
         },
         {
           "name": "Eric Cole",
@@ -490,11 +490,11 @@
     },
     {
       "participant": "Nick",
-      "combined_score": 5,
+      "combined_score": 4,
       "top4": [
         {
           "name": "Denny McCarthy",
-          "total_score": -1,
+          "total_score": -2,
           "status": "STATUS_ACTIVE",
           "found": true
         },
