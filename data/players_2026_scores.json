@@ -2,7 +2,7 @@
   "event_name": "Valspar Championship",
   "round": 2,
   "is_complete": false,
-  "last_updated": "2026-03-20T11:42:42.983986+00:00",
+  "last_updated": "2026-03-20T12:02:55.935469+00:00",
   "players": [
     {
       "name": "Sungjae Im",
@@ -42,6 +42,13 @@
     {
       "name": "Andrew Putnam",
       "total_score": -4,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "David Lipsky",
+      "total_score": -3,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999
@@ -112,13 +119,6 @@
     {
       "name": "Ricky Castillo",
       "total_score": -3,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "David Lipsky",
-      "total_score": -2,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999
