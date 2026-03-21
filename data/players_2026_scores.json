@@ -1,12 +1,12 @@
 {
   "event_name": "Valspar Championship",
   "round": 3,
-  "is_complete": false,
-  "last_updated": "2026-03-21T21:41:58.773719+00:00",
+  "is_complete": true,
+  "last_updated": "2026-03-21T21:58:56.499782+00:00",
   "players": [
     {
       "name": "Sungjae Im",
-      "total_score": -10,
+      "total_score": -11,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999
