@@ -2,11 +2,11 @@
   "tournament": "THE PLAYERS Championship 2026",
   "round": 3,
   "is_complete": false,
-  "last_updated": "2026-03-21T19:51:24.634950+00:00",
+  "last_updated": "2026-03-21T20:23:25.512822+00:00",
   "standings": [
     {
       "participant": "Mike",
-      "combined_score": -15,
+      "combined_score": -14,
       "top4": [
         {
           "name": "Corey Conners",
@@ -16,7 +16,7 @@
         },
         {
           "name": "Tony Finau",
-          "total_score": -5,
+          "total_score": -4,
           "status": "STATUS_ACTIVE",
           "found": true
         },
@@ -50,17 +50,17 @@
     },
     {
       "participant": "Chris",
-      "combined_score": -13,
+      "combined_score": -14,
       "top4": [
         {
           "name": "Matt Fitzpatrick",
-          "total_score": -6,
+          "total_score": -8,
           "status": "STATUS_ACTIVE",
           "found": true
         },
         {
           "name": "Alex Smalley",
-          "total_score": -5,
+          "total_score": -4,
           "status": "STATUS_ACTIVE",
           "found": true
         },
@@ -94,7 +94,7 @@
     },
     {
       "participant": "Alex",
-      "combined_score": -10,
+      "combined_score": -9,
       "top4": [
         {
           "name": "Brooks Koepka",
@@ -104,7 +104,7 @@
         },
         {
           "name": "Patrick Cantlay",
-          "total_score": -4,
+          "total_score": -3,
           "status": "STATUS_ACTIVE",
           "found": true
         },
@@ -131,50 +131,6 @@
         {
           "name": "Billy Horschel",
           "total_score": 1,
-          "status": "STATUS_ACTIVE",
-          "found": true
-        }
-      ]
-    },
-    {
-      "participant": "Jake",
-      "combined_score": -5,
-      "top4": [
-        {
-          "name": "Jordan Spieth",
-          "total_score": -5,
-          "status": "STATUS_ACTIVE",
-          "found": true
-        },
-        {
-          "name": "Jason Day",
-          "total_score": 0,
-          "status": "NOT_FOUND",
-          "found": false
-        },
-        {
-          "name": "Tommy Fleetwood",
-          "total_score": 0,
-          "status": "NOT_FOUND",
-          "found": false
-        },
-        {
-          "name": "Min Woo Lee",
-          "total_score": 0,
-          "status": "NOT_FOUND",
-          "found": false
-        }
-      ],
-      "dropped": [
-        {
-          "name": "Viktor Hovland",
-          "total_score": 3,
-          "status": "STATUS_ACTIVE",
-          "found": true
-        },
-        {
-          "name": "Max Homa",
-          "total_score": 10,
           "status": "STATUS_ACTIVE",
           "found": true
         }
@@ -219,6 +175,50 @@
         {
           "name": "Matt Kuchar",
           "total_score": 8,
+          "status": "STATUS_ACTIVE",
+          "found": true
+        }
+      ]
+    },
+    {
+      "participant": "Jake",
+      "combined_score": -4,
+      "top4": [
+        {
+          "name": "Jordan Spieth",
+          "total_score": -4,
+          "status": "STATUS_ACTIVE",
+          "found": true
+        },
+        {
+          "name": "Jason Day",
+          "total_score": 0,
+          "status": "NOT_FOUND",
+          "found": false
+        },
+        {
+          "name": "Tommy Fleetwood",
+          "total_score": 0,
+          "status": "NOT_FOUND",
+          "found": false
+        },
+        {
+          "name": "Min Woo Lee",
+          "total_score": 0,
+          "status": "NOT_FOUND",
+          "found": false
+        }
+      ],
+      "dropped": [
+        {
+          "name": "Viktor Hovland",
+          "total_score": 3,
+          "status": "STATUS_ACTIVE",
+          "found": true
+        },
+        {
+          "name": "Max Homa",
+          "total_score": 10,
           "status": "STATUS_ACTIVE",
           "found": true
         }
