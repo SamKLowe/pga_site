@@ -2,7 +2,7 @@
   "tournament": "THE PLAYERS Championship 2026",
   "round": 3,
   "is_complete": false,
-  "last_updated": "2026-03-21T20:50:04.245885+00:00",
+  "last_updated": "2026-03-21T21:12:46.107544+00:00",
   "standings": [
     {
       "participant": "Mike",
@@ -50,7 +50,7 @@
     },
     {
       "participant": "Chris",
-      "combined_score": -14,
+      "combined_score": -13,
       "top4": [
         {
           "name": "Matt Fitzpatrick",
@@ -60,7 +60,7 @@
         },
         {
           "name": "Alex Smalley",
-          "total_score": -4,
+          "total_score": -3,
           "status": "STATUS_ACTIVE",
           "found": true
         },

@@ -2,17 +2,10 @@
   "event_name": "Valspar Championship",
   "round": 3,
   "is_complete": false,
-  "last_updated": "2026-03-21T20:50:04.245885+00:00",
+  "last_updated": "2026-03-21T21:12:46.107544+00:00",
   "players": [
     {
       "name": "Sungjae Im",
-      "total_score": -11,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "David Lipsky",
       "total_score": -10,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -26,6 +19,13 @@
       "position": 999
     },
     {
+      "name": "David Lipsky",
+      "total_score": -9,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
       "name": "Matt Fitzpatrick",
       "total_score": -8,
       "round_scores": [],
@@ -33,14 +33,14 @@
       "position": 999
     },
     {
-      "name": "Chandler Blanchet",
-      "total_score": -8,
+      "name": "Marco Penge",
+      "total_score": -7,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999
     },
     {
-      "name": "Marco Penge",
+      "name": "Chandler Blanchet",
       "total_score": -7,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -89,13 +89,6 @@
       "position": 999
     },
     {
-      "name": "Danny Walker",
-      "total_score": -4,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
       "name": "Brooks Koepka",
       "total_score": -4,
       "round_scores": [],
@@ -117,14 +110,7 @@
       "position": 999
     },
     {
-      "name": "Alex Smalley",
-      "total_score": -4,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Doug Ghim",
+      "name": "Jordan Smith",
       "total_score": -4,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -166,6 +152,13 @@
       "position": 999
     },
     {
+      "name": "Danny Walker",
+      "total_score": -3,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
       "name": "Jacob Bridgeman",
       "total_score": -3,
       "round_scores": [],
@@ -173,7 +166,14 @@
       "position": 999
     },
     {
-      "name": "Jordan Smith",
+      "name": "Alex Smalley",
+      "total_score": -3,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Doug Ghim",
       "total_score": -3,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
