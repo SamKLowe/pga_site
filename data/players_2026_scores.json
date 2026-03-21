@@ -2,11 +2,18 @@
   "event_name": "Valspar Championship",
   "round": 3,
   "is_complete": false,
-  "last_updated": "2026-03-21T19:34:32.582703+00:00",
+  "last_updated": "2026-03-21T19:51:24.634950+00:00",
   "players": [
     {
       "name": "Sungjae Im",
-      "total_score": -11,
+      "total_score": -12,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Brandt Snedeker",
+      "total_score": -9,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999
@@ -19,22 +26,15 @@
       "position": 999
     },
     {
-      "name": "Brandt Snedeker",
-      "total_score": -8,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
       "name": "Chandler Blanchet",
-      "total_score": -8,
+      "total_score": -7,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999
     },
     {
       "name": "S.H. Kim",
-      "total_score": -7,
+      "total_score": -6,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999
@@ -54,6 +54,13 @@
       "position": 999
     },
     {
+      "name": "Matt Fitzpatrick",
+      "total_score": -6,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
       "name": "Tom Kim",
       "total_score": -5,
       "round_scores": [],
@@ -61,7 +68,7 @@
       "position": 999
     },
     {
-      "name": "Patrick Cantlay",
+      "name": "Rico Hoey",
       "total_score": -5,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -82,13 +89,6 @@
       "position": 999
     },
     {
-      "name": "Danny Walker",
-      "total_score": -5,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
       "name": "Tony Finau",
       "total_score": -5,
       "round_scores": [],
@@ -96,7 +96,14 @@
       "position": 999
     },
     {
-      "name": "Matt Fitzpatrick",
+      "name": "Marco Penge",
+      "total_score": -5,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Alex Smalley",
       "total_score": -5,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -110,7 +117,14 @@
       "position": 999
     },
     {
-      "name": "Rico Hoey",
+      "name": "Patrick Cantlay",
+      "total_score": -4,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Danny Walker",
       "total_score": -4,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -124,22 +138,15 @@
       "position": 999
     },
     {
-      "name": "Alex Smalley",
-      "total_score": -4,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Marco Penge",
-      "total_score": -4,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
       "name": "Doug Ghim",
       "total_score": -4,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "S\u00e9amus Power",
+      "total_score": -3,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999
@@ -152,7 +159,7 @@
       "position": 999
     },
     {
-      "name": "S\u00e9amus Power",
+      "name": "David Skinns",
       "total_score": -3,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -259,20 +266,6 @@
     {
       "name": "Patrick Fishburn",
       "total_score": -2,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "David Skinns",
-      "total_score": -2,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Blades Brown",
-      "total_score": -1,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999
@@ -411,7 +404,7 @@
       "position": 999
     },
     {
-      "name": "Billy Horschel",
+      "name": "Blades Brown",
       "total_score": 0,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -467,7 +460,7 @@
       "position": 999
     },
     {
-      "name": "David Ford",
+      "name": "Billy Horschel",
       "total_score": 1,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -489,6 +482,13 @@
     },
     {
       "name": "Matti Schmid",
+      "total_score": 2,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "David Ford",
       "total_score": 2,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
