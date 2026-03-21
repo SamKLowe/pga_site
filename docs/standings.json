@@ -2,11 +2,11 @@
   "tournament": "THE PLAYERS Championship 2026",
   "round": 3,
   "is_complete": false,
-  "last_updated": "2026-03-21T16:26:33.240185+00:00",
+  "last_updated": "2026-03-21T16:54:31.500818+00:00",
   "standings": [
     {
       "participant": "Mike",
-      "combined_score": -15,
+      "combined_score": -14,
       "top4": [
         {
           "name": "Corey Conners",
@@ -28,7 +28,7 @@
         },
         {
           "name": "Lee Hodges",
-          "total_score": -3,
+          "total_score": -2,
           "status": "STATUS_ACTIVE",
           "found": true
         }
@@ -36,7 +36,7 @@
       "dropped": [
         {
           "name": "Justin Thomas",
-          "total_score": -2,
+          "total_score": -1,
           "status": "STATUS_ACTIVE",
           "found": true
         },
@@ -94,7 +94,7 @@
     },
     {
       "participant": "Alex",
-      "combined_score": -10,
+      "combined_score": -9,
       "top4": [
         {
           "name": "Brooks Koepka",
@@ -104,7 +104,7 @@
         },
         {
           "name": "Patrick Cantlay",
-          "total_score": -4,
+          "total_score": -3,
           "status": "STATUS_ACTIVE",
           "found": true
         },
@@ -138,17 +138,17 @@
     },
     {
       "participant": "Dave",
-      "combined_score": -6,
+      "combined_score": -5,
       "top4": [
         {
-          "name": "Andrew Putnam",
+          "name": "Ryo Hisatsune",
           "total_score": -3,
           "status": "STATUS_ACTIVE",
           "found": true
         },
         {
-          "name": "Ryo Hisatsune",
-          "total_score": -3,
+          "name": "Andrew Putnam",
+          "total_score": -2,
           "status": "STATUS_ACTIVE",
           "found": true
         },
@@ -177,6 +177,50 @@
           "total_score": 8,
           "status": "STATUS_ACTIVE",
           "found": true
+        }
+      ]
+    },
+    {
+      "participant": "Steve",
+      "combined_score": -3,
+      "top4": [
+        {
+          "name": "Xander Schauffele",
+          "total_score": -3,
+          "status": "STATUS_ACTIVE",
+          "found": true
+        },
+        {
+          "name": "Cameron Young",
+          "total_score": 0,
+          "status": "NOT_FOUND",
+          "found": false
+        },
+        {
+          "name": "Scottie Scheffler",
+          "total_score": 0,
+          "status": "NOT_FOUND",
+          "found": false
+        },
+        {
+          "name": "Rory McIlroy",
+          "total_score": 0,
+          "status": "NOT_FOUND",
+          "found": false
+        }
+      ],
+      "dropped": [
+        {
+          "name": "Jon Rahm",
+          "total_score": 0,
+          "status": "NOT_FOUND",
+          "found": false
+        },
+        {
+          "name": "Ludvig \u00c5berg",
+          "total_score": 0,
+          "status": "NOT_FOUND",
+          "found": false
         }
       ]
     },
@@ -225,56 +269,12 @@
       ]
     },
     {
-      "participant": "Steve",
-      "combined_score": -2,
-      "top4": [
-        {
-          "name": "Xander Schauffele",
-          "total_score": -2,
-          "status": "STATUS_ACTIVE",
-          "found": true
-        },
-        {
-          "name": "Cameron Young",
-          "total_score": 0,
-          "status": "NOT_FOUND",
-          "found": false
-        },
-        {
-          "name": "Scottie Scheffler",
-          "total_score": 0,
-          "status": "NOT_FOUND",
-          "found": false
-        },
-        {
-          "name": "Rory McIlroy",
-          "total_score": 0,
-          "status": "NOT_FOUND",
-          "found": false
-        }
-      ],
-      "dropped": [
-        {
-          "name": "Jon Rahm",
-          "total_score": 0,
-          "status": "NOT_FOUND",
-          "found": false
-        },
-        {
-          "name": "Ludvig \u00c5berg",
-          "total_score": 0,
-          "status": "NOT_FOUND",
-          "found": false
-        }
-      ]
-    },
-    {
       "participant": "Kyle",
-      "combined_score": -2,
+      "combined_score": -3,
       "top4": [
         {
           "name": "Tom Kim",
-          "total_score": -2,
+          "total_score": -3,
           "status": "STATUS_ACTIVE",
           "found": true
         },
@@ -394,7 +394,7 @@
         },
         {
           "name": "Bud Cauley",
-          "total_score": 3,
+          "total_score": 4,
           "status": "STATUS_ACTIVE",
           "found": true
         }
