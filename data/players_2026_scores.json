@@ -2,7 +2,7 @@
   "event_name": "Valspar Championship",
   "round": 3,
   "is_complete": false,
-  "last_updated": "2026-03-21T21:12:46.107544+00:00",
+  "last_updated": "2026-03-21T21:41:58.773719+00:00",
   "players": [
     {
       "name": "Sungjae Im",
@@ -26,22 +26,15 @@
       "position": 999
     },
     {
-      "name": "Matt Fitzpatrick",
+      "name": "Marco Penge",
       "total_score": -8,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999
     },
     {
-      "name": "Marco Penge",
-      "total_score": -7,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Chandler Blanchet",
-      "total_score": -7,
+      "name": "Matt Fitzpatrick",
+      "total_score": -8,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999
@@ -75,6 +68,13 @@
       "position": 999
     },
     {
+      "name": "Chandler Blanchet",
+      "total_score": -5,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
       "name": "Kevin Yu",
       "total_score": -4,
       "round_scores": [],
@@ -96,14 +96,14 @@
       "position": 999
     },
     {
-      "name": "Tony Finau",
+      "name": "Gary Woodland",
       "total_score": -4,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999
     },
     {
-      "name": "Gary Woodland",
+      "name": "Tony Finau",
       "total_score": -4,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -160,13 +160,6 @@
     },
     {
       "name": "Jacob Bridgeman",
-      "total_score": -3,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Alex Smalley",
       "total_score": -3,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -258,6 +251,13 @@
     },
     {
       "name": "Patrick Fishburn",
+      "total_score": -2,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Alex Smalley",
       "total_score": -2,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
