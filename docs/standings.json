@@ -2,11 +2,11 @@
   "tournament": "THE PLAYERS Championship 2026",
   "round": 3,
   "is_complete": false,
-  "last_updated": "2026-03-21T18:32:38.359090+00:00",
+  "last_updated": "2026-03-21T19:02:41.525586+00:00",
   "standings": [
     {
       "participant": "Mike",
-      "combined_score": -14,
+      "combined_score": -15,
       "top4": [
         {
           "name": "Tony Finau",
@@ -16,7 +16,7 @@
         },
         {
           "name": "Corey Conners",
-          "total_score": -4,
+          "total_score": -5,
           "status": "STATUS_ACTIVE",
           "found": true
         },
@@ -45,6 +45,50 @@
           "total_score": 1,
           "status": "STATUS_ACTIVE",
           "found": true
+        }
+      ]
+    },
+    {
+      "participant": "Alex",
+      "combined_score": -13,
+      "top4": [
+        {
+          "name": "Brooks Koepka",
+          "total_score": -7,
+          "status": "STATUS_ACTIVE",
+          "found": true
+        },
+        {
+          "name": "Patrick Cantlay",
+          "total_score": -5,
+          "status": "STATUS_ACTIVE",
+          "found": true
+        },
+        {
+          "name": "Billy Horschel",
+          "total_score": -1,
+          "status": "STATUS_ACTIVE",
+          "found": true
+        },
+        {
+          "name": "Collin Morikawa",
+          "total_score": 0,
+          "status": "NOT_FOUND",
+          "found": false
+        }
+      ],
+      "dropped": [
+        {
+          "name": "Shane Lowry",
+          "total_score": 0,
+          "status": "NOT_FOUND",
+          "found": false
+        },
+        {
+          "name": "Harris English",
+          "total_score": 0,
+          "status": "NOT_FOUND",
+          "found": false
         }
       ]
     },
@@ -93,56 +137,12 @@
       ]
     },
     {
-      "participant": "Alex",
-      "combined_score": -11,
-      "top4": [
-        {
-          "name": "Brooks Koepka",
-          "total_score": -6,
-          "status": "STATUS_ACTIVE",
-          "found": true
-        },
-        {
-          "name": "Patrick Cantlay",
-          "total_score": -4,
-          "status": "STATUS_ACTIVE",
-          "found": true
-        },
-        {
-          "name": "Billy Horschel",
-          "total_score": -1,
-          "status": "STATUS_ACTIVE",
-          "found": true
-        },
-        {
-          "name": "Collin Morikawa",
-          "total_score": 0,
-          "status": "NOT_FOUND",
-          "found": false
-        }
-      ],
-      "dropped": [
-        {
-          "name": "Shane Lowry",
-          "total_score": 0,
-          "status": "NOT_FOUND",
-          "found": false
-        },
-        {
-          "name": "Harris English",
-          "total_score": 0,
-          "status": "NOT_FOUND",
-          "found": false
-        }
-      ]
-    },
-    {
       "participant": "Kyle",
-      "combined_score": -4,
+      "combined_score": -5,
       "top4": [
         {
           "name": "Tom Kim",
-          "total_score": -4,
+          "total_score": -5,
           "status": "STATUS_ACTIVE",
           "found": true
         },
@@ -314,11 +314,11 @@
     },
     {
       "participant": "Steve",
-      "combined_score": -1,
+      "combined_score": -2,
       "top4": [
         {
           "name": "Xander Schauffele",
-          "total_score": -1,
+          "total_score": -2,
           "status": "STATUS_ACTIVE",
           "found": true
         },
