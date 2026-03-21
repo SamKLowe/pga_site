@@ -2,7 +2,7 @@
   "tournament": "THE PLAYERS Championship 2026",
   "round": 3,
   "is_complete": false,
-  "last_updated": "2026-03-21T16:54:31.500818+00:00",
+  "last_updated": "2026-03-21T17:23:07.856041+00:00",
   "standings": [
     {
       "participant": "Mike",
@@ -35,16 +35,16 @@
       ],
       "dropped": [
         {
-          "name": "Justin Thomas",
-          "total_score": -1,
-          "status": "STATUS_ACTIVE",
-          "found": true
-        },
-        {
           "name": "Sepp Straka",
           "total_score": 0,
           "status": "NOT_FOUND",
           "found": false
+        },
+        {
+          "name": "Justin Thomas",
+          "total_score": 0,
+          "status": "STATUS_ACTIVE",
+          "found": true
         }
       ]
     },
@@ -94,11 +94,11 @@
     },
     {
       "participant": "Alex",
-      "combined_score": -9,
+      "combined_score": -10,
       "top4": [
         {
           "name": "Brooks Koepka",
-          "total_score": -4,
+          "total_score": -5,
           "status": "STATUS_ACTIVE",
           "found": true
         },
@@ -137,8 +137,52 @@
       ]
     },
     {
-      "participant": "Dave",
+      "participant": "Brandon",
       "combined_score": -5,
+      "top4": [
+        {
+          "name": "Kevin Yu",
+          "total_score": -5,
+          "status": "STATUS_ACTIVE",
+          "found": true
+        },
+        {
+          "name": "Chesson Hadley",
+          "total_score": 0,
+          "status": "NOT_FOUND",
+          "found": false
+        },
+        {
+          "name": "Thomas Detry",
+          "total_score": 0,
+          "status": "NOT_FOUND",
+          "found": false
+        },
+        {
+          "name": "Adam Scott",
+          "total_score": 0,
+          "status": "NOT_FOUND",
+          "found": false
+        }
+      ],
+      "dropped": [
+        {
+          "name": "Mark Hubbard",
+          "total_score": 6,
+          "status": "STATUS_ACTIVE",
+          "found": true
+        },
+        {
+          "name": "Davis Riley",
+          "total_score": 6,
+          "status": "STATUS_ACTIVE",
+          "found": true
+        }
+      ]
+    },
+    {
+      "participant": "Dave",
+      "combined_score": -4,
       "top4": [
         {
           "name": "Ryo Hisatsune",
@@ -148,7 +192,7 @@
         },
         {
           "name": "Andrew Putnam",
-          "total_score": -2,
+          "total_score": -1,
           "status": "STATUS_ACTIVE",
           "found": true
         },
@@ -181,56 +225,12 @@
       ]
     },
     {
-      "participant": "Steve",
-      "combined_score": -3,
-      "top4": [
-        {
-          "name": "Xander Schauffele",
-          "total_score": -3,
-          "status": "STATUS_ACTIVE",
-          "found": true
-        },
-        {
-          "name": "Cameron Young",
-          "total_score": 0,
-          "status": "NOT_FOUND",
-          "found": false
-        },
-        {
-          "name": "Scottie Scheffler",
-          "total_score": 0,
-          "status": "NOT_FOUND",
-          "found": false
-        },
-        {
-          "name": "Rory McIlroy",
-          "total_score": 0,
-          "status": "NOT_FOUND",
-          "found": false
-        }
-      ],
-      "dropped": [
-        {
-          "name": "Jon Rahm",
-          "total_score": 0,
-          "status": "NOT_FOUND",
-          "found": false
-        },
-        {
-          "name": "Ludvig \u00c5berg",
-          "total_score": 0,
-          "status": "NOT_FOUND",
-          "found": false
-        }
-      ]
-    },
-    {
       "participant": "Jake",
-      "combined_score": -3,
+      "combined_score": -2,
       "top4": [
         {
           "name": "Jordan Spieth",
-          "total_score": -3,
+          "total_score": -2,
           "status": "STATUS_ACTIVE",
           "found": true
         },
@@ -270,17 +270,11 @@
     },
     {
       "participant": "Kyle",
-      "combined_score": -3,
+      "combined_score": -2,
       "top4": [
         {
           "name": "Tom Kim",
-          "total_score": -3,
-          "status": "STATUS_ACTIVE",
-          "found": true
-        },
-        {
-          "name": "Keegan Bradley",
-          "total_score": 0,
+          "total_score": -2,
           "status": "STATUS_ACTIVE",
           "found": true
         },
@@ -295,14 +289,20 @@
           "total_score": 0,
           "status": "NOT_FOUND",
           "found": false
-        }
-      ],
-      "dropped": [
+        },
         {
           "name": "Si Woo Kim",
           "total_score": 0,
           "status": "NOT_FOUND",
           "found": false
+        }
+      ],
+      "dropped": [
+        {
+          "name": "Keegan Bradley",
+          "total_score": 1,
+          "status": "STATUS_ACTIVE",
+          "found": true
         },
         {
           "name": "Matt Kuchar",
@@ -313,29 +313,29 @@
       ]
     },
     {
-      "participant": "Brandon",
-      "combined_score": -2,
+      "participant": "Steve",
+      "combined_score": -1,
       "top4": [
         {
-          "name": "Kevin Yu",
-          "total_score": -2,
+          "name": "Xander Schauffele",
+          "total_score": -1,
           "status": "STATUS_ACTIVE",
           "found": true
         },
         {
-          "name": "Chesson Hadley",
+          "name": "Cameron Young",
           "total_score": 0,
           "status": "NOT_FOUND",
           "found": false
         },
         {
-          "name": "Thomas Detry",
+          "name": "Scottie Scheffler",
           "total_score": 0,
           "status": "NOT_FOUND",
           "found": false
         },
         {
-          "name": "Adam Scott",
+          "name": "Rory McIlroy",
           "total_score": 0,
           "status": "NOT_FOUND",
           "found": false
@@ -343,16 +343,16 @@
       ],
       "dropped": [
         {
-          "name": "Mark Hubbard",
-          "total_score": 6,
-          "status": "STATUS_ACTIVE",
-          "found": true
+          "name": "Jon Rahm",
+          "total_score": 0,
+          "status": "NOT_FOUND",
+          "found": false
         },
         {
-          "name": "Davis Riley",
-          "total_score": 6,
-          "status": "STATUS_ACTIVE",
-          "found": true
+          "name": "Ludvig \u00c5berg",
+          "total_score": 0,
+          "status": "NOT_FOUND",
+          "found": false
         }
       ]
     },
@@ -490,11 +490,11 @@
     },
     {
       "participant": "Nick",
-      "combined_score": 4,
+      "combined_score": 5,
       "top4": [
         {
           "name": "Denny McCarthy",
-          "total_score": -2,
+          "total_score": -1,
           "status": "STATUS_ACTIVE",
           "found": true
         },
