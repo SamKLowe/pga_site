@@ -2,15 +2,15 @@
   "tournament": "THE PLAYERS Championship 2026",
   "round": 4,
   "is_complete": false,
-  "last_updated": "2026-03-22T20:51:31.162095+00:00",
+  "last_updated": "2026-03-22T21:23:59.358360+00:00",
   "standings": [
     {
       "participant": "Mike",
-      "combined_score": -19,
+      "combined_score": -18,
       "top4": [
         {
           "name": "Corey Conners",
-          "total_score": -6,
+          "total_score": -5,
           "status": "STATUS_ACTIVE",
           "found": true
         },
@@ -45,6 +45,50 @@
           "total_score": 0,
           "status": "NOT_FOUND",
           "found": false
+        }
+      ]
+    },
+    {
+      "participant": "Chris",
+      "combined_score": -11,
+      "top4": [
+        {
+          "name": "Matt Fitzpatrick",
+          "total_score": -10,
+          "status": "STATUS_ACTIVE",
+          "found": true
+        },
+        {
+          "name": "Patrick Rodgers",
+          "total_score": -1,
+          "status": "STATUS_ACTIVE",
+          "found": true
+        },
+        {
+          "name": "Maverick McNealy",
+          "total_score": 0,
+          "status": "NOT_FOUND",
+          "found": false
+        },
+        {
+          "name": "Russell Henley",
+          "total_score": 0,
+          "status": "NOT_FOUND",
+          "found": false
+        }
+      ],
+      "dropped": [
+        {
+          "name": "Alex Smalley",
+          "total_score": 0,
+          "status": "STATUS_ACTIVE",
+          "found": true
+        },
+        {
+          "name": "Sahith Theegala",
+          "total_score": 7,
+          "status": "STATUS_ACTIVE",
+          "found": true
         }
       ]
     },
@@ -87,50 +131,6 @@
         {
           "name": "Billy Horschel",
           "total_score": 3,
-          "status": "STATUS_ACTIVE",
-          "found": true
-        }
-      ]
-    },
-    {
-      "participant": "Chris",
-      "combined_score": -10,
-      "top4": [
-        {
-          "name": "Matt Fitzpatrick",
-          "total_score": -9,
-          "status": "STATUS_ACTIVE",
-          "found": true
-        },
-        {
-          "name": "Patrick Rodgers",
-          "total_score": -1,
-          "status": "STATUS_ACTIVE",
-          "found": true
-        },
-        {
-          "name": "Maverick McNealy",
-          "total_score": 0,
-          "status": "NOT_FOUND",
-          "found": false
-        },
-        {
-          "name": "Russell Henley",
-          "total_score": 0,
-          "status": "NOT_FOUND",
-          "found": false
-        }
-      ],
-      "dropped": [
-        {
-          "name": "Alex Smalley",
-          "total_score": 0,
-          "status": "STATUS_ACTIVE",
-          "found": true
-        },
-        {
-          "name": "Sahith Theegala",
-          "total_score": 7,
           "status": "STATUS_ACTIVE",
           "found": true
         }
@@ -314,11 +314,11 @@
     },
     {
       "participant": "Brandon",
-      "combined_score": -3,
+      "combined_score": -2,
       "top4": [
         {
           "name": "Kevin Yu",
-          "total_score": -3,
+          "total_score": -2,
           "status": "STATUS_ACTIVE",
           "found": true
         },
@@ -533,5 +533,9 @@
       ]
     }
   ],
-  "leader_pick": null
+  "leader_pick": {
+    "drafted_by": "Chris",
+    "golfer": "Matt Fitzpatrick",
+    "score": -10
+  }
 }

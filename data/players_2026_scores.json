@@ -2,24 +2,24 @@
   "event_name": "Valspar Championship",
   "round": 4,
   "is_complete": false,
-  "last_updated": "2026-03-22T20:51:31.162095+00:00",
+  "last_updated": "2026-03-22T21:23:59.358360+00:00",
   "players": [
     {
-      "name": "Jordan Smith",
-      "total_score": -9,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
       "name": "Matt Fitzpatrick",
-      "total_score": -9,
+      "total_score": -10,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999
     },
     {
       "name": "David Lipsky",
+      "total_score": -10,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Jordan Smith",
       "total_score": -9,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -34,7 +34,7 @@
     },
     {
       "name": "Marco Penge",
-      "total_score": -8,
+      "total_score": -7,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999
@@ -61,7 +61,7 @@
       "position": 999
     },
     {
-      "name": "Brandt Snedeker",
+      "name": "S.H. Kim",
       "total_score": -7,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -96,14 +96,7 @@
       "position": 999
     },
     {
-      "name": "Corey Conners",
-      "total_score": -6,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "S.H. Kim",
+      "name": "Brandt Snedeker",
       "total_score": -6,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -131,7 +124,7 @@
       "position": 999
     },
     {
-      "name": "Chandler Blanchet",
+      "name": "Corey Conners",
       "total_score": -5,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -159,13 +152,6 @@
       "position": 999
     },
     {
-      "name": "Rico Hoey",
-      "total_score": -4,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
       "name": "Brooks Koepka",
       "total_score": -4,
       "round_scores": [],
@@ -174,6 +160,13 @@
     },
     {
       "name": "Tony Finau",
+      "total_score": -4,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Chandler Blanchet",
       "total_score": -4,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -201,7 +194,7 @@
       "position": 999
     },
     {
-      "name": "Kevin Yu",
+      "name": "Rico Hoey",
       "total_score": -3,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -272,6 +265,13 @@
     },
     {
       "name": "David Skinns",
+      "total_score": -2,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Kevin Yu",
       "total_score": -2,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
