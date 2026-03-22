@@ -2,7 +2,7 @@
   "event_name": "Valspar Championship",
   "round": 4,
   "is_complete": false,
-  "last_updated": "2026-03-22T14:25:39.931235+00:00",
+  "last_updated": "2026-03-22T14:53:13.051968+00:00",
   "players": [
     {
       "name": "Sungjae Im",
@@ -75,6 +75,13 @@
       "position": 999
     },
     {
+      "name": "Alejandro Tosti",
+      "total_score": -4,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
       "name": "Kevin Yu",
       "total_score": -4,
       "round_scores": [],
@@ -112,13 +119,6 @@
     {
       "name": "Jordan Smith",
       "total_score": -4,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Alejandro Tosti",
-      "total_score": -3,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999
@@ -195,6 +195,27 @@
     },
     {
       "name": "Emiliano Grillo",
+      "total_score": -2,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Webb Simpson",
+      "total_score": -2,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Justin Lower",
+      "total_score": -2,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Denny McCarthy",
       "total_score": -2,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -299,35 +320,7 @@
       "position": 999
     },
     {
-      "name": "John VanDerLaan",
-      "total_score": -1,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Chandler Phillips",
-      "total_score": -1,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
       "name": "Takumi Kanaya",
-      "total_score": -1,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "John Parry",
-      "total_score": -1,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Webb Simpson",
       "total_score": -1,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -341,15 +334,15 @@
       "position": 999
     },
     {
-      "name": "Justin Lower",
+      "name": "John Parry",
       "total_score": -1,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999
     },
     {
-      "name": "Denny McCarthy",
-      "total_score": -1,
+      "name": "Pierceson Coody",
+      "total_score": 0,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999
@@ -363,13 +356,6 @@
     },
     {
       "name": "Nicolai H\u00f8jgaard",
-      "total_score": 0,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Blades Brown",
       "total_score": 0,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -397,6 +383,20 @@
       "position": 999
     },
     {
+      "name": "Chad Ramey",
+      "total_score": 0,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Joel Dahmen",
+      "total_score": 0,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
       "name": "Christiaan Bezuidenhout",
       "total_score": 0,
       "round_scores": [],
@@ -404,14 +404,21 @@
       "position": 999
     },
     {
-      "name": "Mackenzie Hughes",
+      "name": "John VanDerLaan",
       "total_score": 0,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999
     },
     {
-      "name": "Kevin Streelman",
+      "name": "Chandler Phillips",
+      "total_score": 0,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "David Ford",
       "total_score": 1,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -419,13 +426,6 @@
     },
     {
       "name": "Matti Schmid",
-      "total_score": 1,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Pierceson Coody",
       "total_score": 1,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -446,22 +446,22 @@
       "position": 999
     },
     {
-      "name": "Joel Dahmen",
+      "name": "Blades Brown",
       "total_score": 1,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999
     },
     {
-      "name": "Chad Ramey",
+      "name": "Michael Kim",
       "total_score": 1,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999
     },
     {
-      "name": "David Ford",
-      "total_score": 2,
+      "name": "Mackenzie Hughes",
+      "total_score": 1,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999
@@ -474,7 +474,7 @@
       "position": 999
     },
     {
-      "name": "Michael Kim",
+      "name": "Billy Horschel",
       "total_score": 2,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -551,6 +551,13 @@
       "position": 999
     },
     {
+      "name": "Vince Whaley",
+      "total_score": 3,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
       "name": "Rasmus H\u00f8jgaard",
       "total_score": 3,
       "round_scores": [],
@@ -558,7 +565,7 @@
       "position": 999
     },
     {
-      "name": "Billy Horschel",
+      "name": "Kevin Streelman",
       "total_score": 3,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -635,7 +642,7 @@
       "position": 999
     },
     {
-      "name": "Vince Whaley",
+      "name": "Kevin Roy",
       "total_score": 4,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -700,13 +707,6 @@
     {
       "name": "Brian Campbell",
       "total_score": 4,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Kevin Roy",
-      "total_score": 5,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999
