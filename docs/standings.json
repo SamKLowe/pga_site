@@ -2,11 +2,11 @@
   "tournament": "THE PLAYERS Championship 2026",
   "round": 4,
   "is_complete": false,
-  "last_updated": "2026-03-22T15:23:35.549715+00:00",
+  "last_updated": "2026-03-22T15:48:33.959450+00:00",
   "standings": [
     {
       "participant": "Mike",
-      "combined_score": -14,
+      "combined_score": -15,
       "top4": [
         {
           "name": "Corey Conners",
@@ -28,7 +28,7 @@
         },
         {
           "name": "Lee Hodges",
-          "total_score": -2,
+          "total_score": -3,
           "status": "STATUS_ACTIVE",
           "found": true
         }
@@ -137,6 +137,50 @@
       ]
     },
     {
+      "participant": "Steve",
+      "combined_score": -6,
+      "top4": [
+        {
+          "name": "Xander Schauffele",
+          "total_score": -6,
+          "status": "STATUS_ACTIVE",
+          "found": true
+        },
+        {
+          "name": "Cameron Young",
+          "total_score": 0,
+          "status": "NOT_FOUND",
+          "found": false
+        },
+        {
+          "name": "Scottie Scheffler",
+          "total_score": 0,
+          "status": "NOT_FOUND",
+          "found": false
+        },
+        {
+          "name": "Rory McIlroy",
+          "total_score": 0,
+          "status": "NOT_FOUND",
+          "found": false
+        }
+      ],
+      "dropped": [
+        {
+          "name": "Jon Rahm",
+          "total_score": 0,
+          "status": "NOT_FOUND",
+          "found": false
+        },
+        {
+          "name": "Ludvig \u00c5berg",
+          "total_score": 0,
+          "status": "NOT_FOUND",
+          "found": false
+        }
+      ]
+    },
+    {
       "participant": "Dave",
       "combined_score": -5,
       "top4": [
@@ -221,50 +265,6 @@
           "total_score": 8,
           "status": "STATUS_ACTIVE",
           "found": true
-        }
-      ]
-    },
-    {
-      "participant": "Steve",
-      "combined_score": -4,
-      "top4": [
-        {
-          "name": "Xander Schauffele",
-          "total_score": -4,
-          "status": "STATUS_ACTIVE",
-          "found": true
-        },
-        {
-          "name": "Cameron Young",
-          "total_score": 0,
-          "status": "NOT_FOUND",
-          "found": false
-        },
-        {
-          "name": "Scottie Scheffler",
-          "total_score": 0,
-          "status": "NOT_FOUND",
-          "found": false
-        },
-        {
-          "name": "Rory McIlroy",
-          "total_score": 0,
-          "status": "NOT_FOUND",
-          "found": false
-        }
-      ],
-      "dropped": [
-        {
-          "name": "Jon Rahm",
-          "total_score": 0,
-          "status": "NOT_FOUND",
-          "found": false
-        },
-        {
-          "name": "Ludvig \u00c5berg",
-          "total_score": 0,
-          "status": "NOT_FOUND",
-          "found": false
         }
       ]
     },
@@ -438,7 +438,7 @@
         },
         {
           "name": "Bud Cauley",
-          "total_score": 8,
+          "total_score": 7,
           "status": "STATUS_ACTIVE",
           "found": true
         }
@@ -446,11 +446,11 @@
     },
     {
       "participant": "Tyler",
-      "combined_score": 2,
+      "combined_score": 1,
       "top4": [
         {
           "name": "Christiaan Bezuidenhout",
-          "total_score": 0,
+          "total_score": -1,
           "status": "STATUS_ACTIVE",
           "found": true
         },
