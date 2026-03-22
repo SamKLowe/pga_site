@@ -2,7 +2,7 @@
   "tournament": "THE PLAYERS Championship 2026",
   "round": 4,
   "is_complete": false,
-  "last_updated": "2026-03-22T13:09:03.186715+00:00",
+  "last_updated": "2026-03-22T13:51:45.256233+00:00",
   "standings": [
     {
       "participant": "Mike",
@@ -42,7 +42,7 @@
         },
         {
           "name": "Justin Thomas",
-          "total_score": 1,
+          "total_score": 0,
           "status": "STATUS_ACTIVE",
           "found": true
         }
@@ -130,7 +130,7 @@
         },
         {
           "name": "Billy Horschel",
-          "total_score": 2,
+          "total_score": 3,
           "status": "STATUS_ACTIVE",
           "found": true
         }
@@ -358,11 +358,11 @@
     },
     {
       "participant": "Tom",
-      "combined_score": 0,
+      "combined_score": -1,
       "top4": [
         {
           "name": "Chad Ramey",
-          "total_score": 0,
+          "total_score": -1,
           "status": "STATUS_ACTIVE",
           "found": true
         },
@@ -394,7 +394,7 @@
         },
         {
           "name": "Bud Cauley",
-          "total_score": 7,
+          "total_score": 8,
           "status": "STATUS_ACTIVE",
           "found": true
         }
@@ -446,11 +446,11 @@
     },
     {
       "participant": "Tyler",
-      "combined_score": 2,
+      "combined_score": 1,
       "top4": [
         {
           "name": "Christiaan Bezuidenhout",
-          "total_score": 0,
+          "total_score": -1,
           "status": "STATUS_ACTIVE",
           "found": true
         },
