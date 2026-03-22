@@ -2,7 +2,7 @@
   "event_name": "Valspar Championship",
   "round": 4,
   "is_complete": false,
-  "last_updated": "2026-03-22T11:59:02.870695+00:00",
+  "last_updated": "2026-03-22T13:09:03.186715+00:00",
   "players": [
     {
       "name": "Sungjae Im",
@@ -264,6 +264,13 @@
       "position": 999
     },
     {
+      "name": "Alejandro Tosti",
+      "total_score": -1,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
       "name": "John Parry",
       "total_score": -1,
       "round_scores": [],
@@ -329,6 +336,34 @@
     {
       "name": "Hank Lebioda",
       "total_score": -1,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Pierceson Coody",
+      "total_score": 0,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Kensei Hirata",
+      "total_score": 0,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Henrik Norlander",
+      "total_score": 0,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Nicolai H\u00f8jgaard",
+      "total_score": 0,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999
@@ -404,28 +439,14 @@
       "position": 999
     },
     {
-      "name": "Nicolai H\u00f8jgaard",
-      "total_score": 0,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Alejandro Tosti",
-      "total_score": 0,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Andrew Novak",
+      "name": "Davis Thompson",
       "total_score": 1,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999
     },
     {
-      "name": "Keegan Bradley",
+      "name": "Matti Schmid",
       "total_score": 1,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -446,21 +467,14 @@
       "position": 999
     },
     {
-      "name": "Henrik Norlander",
+      "name": "Andrew Novak",
       "total_score": 1,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999
     },
     {
-      "name": "Pierceson Coody",
-      "total_score": 1,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Kensei Hirata",
+      "name": "Keegan Bradley",
       "total_score": 1,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -468,20 +482,6 @@
     },
     {
       "name": "Billy Horschel",
-      "total_score": 1,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Kevin Streelman",
-      "total_score": 2,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Matti Schmid",
       "total_score": 2,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -558,7 +558,7 @@
       "position": 999
     },
     {
-      "name": "Davis Thompson",
+      "name": "David Ford",
       "total_score": 3,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -566,6 +566,13 @@
     },
     {
       "name": "Rasmus H\u00f8jgaard",
+      "total_score": 3,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Kevin Streelman",
       "total_score": 3,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -636,20 +643,6 @@
     },
     {
       "name": "Vince Whaley",
-      "total_score": 4,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "David Ford",
-      "total_score": 4,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Bud Cauley",
       "total_score": 4,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -805,6 +798,13 @@
     {
       "name": "Beau Hossler",
       "total_score": 6,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Bud Cauley",
+      "total_score": 7,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999
