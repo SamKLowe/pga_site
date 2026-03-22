@@ -2,7 +2,7 @@
   "event_name": "Valspar Championship",
   "round": 4,
   "is_complete": false,
-  "last_updated": "2026-03-22T19:36:23.091585+00:00",
+  "last_updated": "2026-03-22T19:52:36.401578+00:00",
   "players": [
     {
       "name": "Matt Fitzpatrick",
@@ -47,13 +47,6 @@
       "position": 999
     },
     {
-      "name": "Sungjae Im",
-      "total_score": -8,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
       "name": "Emiliano Grillo",
       "total_score": -7,
       "round_scores": [],
@@ -62,6 +55,13 @@
     },
     {
       "name": "Stephan Jaeger",
+      "total_score": -7,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Sungjae Im",
       "total_score": -7,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -82,21 +82,7 @@
       "position": 999
     },
     {
-      "name": "Danny Walker",
-      "total_score": -6,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
       "name": "Patrick Cantlay",
-      "total_score": -6,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Corey Conners",
       "total_score": -6,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -117,7 +103,14 @@
       "position": 999
     },
     {
-      "name": "Gary Woodland",
+      "name": "Danny Walker",
+      "total_score": -5,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Matthieu Pavon",
       "total_score": -5,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -131,7 +124,7 @@
       "position": 999
     },
     {
-      "name": "Tony Finau",
+      "name": "Corey Conners",
       "total_score": -5,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -152,6 +145,13 @@
       "position": 999
     },
     {
+      "name": "Adrien Dumont de Chassart",
+      "total_score": -5,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
       "name": "Webb Simpson",
       "total_score": -4,
       "round_scores": [],
@@ -160,6 +160,20 @@
     },
     {
       "name": "Lee Hodges",
+      "total_score": -4,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Gary Woodland",
+      "total_score": -4,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Tony Finau",
       "total_score": -4,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -180,13 +194,6 @@
       "position": 999
     },
     {
-      "name": "Adrien Dumont de Chassart",
-      "total_score": -4,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
       "name": "Denny McCarthy",
       "total_score": -3,
       "round_scores": [],
@@ -195,13 +202,6 @@
     },
     {
       "name": "Dylan Wu",
-      "total_score": -3,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Matthieu Pavon",
       "total_score": -3,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -257,7 +257,7 @@
       "position": 999
     },
     {
-      "name": "Patrick Rodgers",
+      "name": "S\u00e9amus Power",
       "total_score": -2,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -265,6 +265,13 @@
     },
     {
       "name": "David Skinns",
+      "total_score": -2,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Tom Kim",
       "total_score": -2,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -292,6 +299,13 @@
       "position": 999
     },
     {
+      "name": "Patrick Rodgers",
+      "total_score": -1,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
       "name": "Matt Wallace",
       "total_score": -1,
       "round_scores": [],
@@ -300,20 +314,6 @@
     },
     {
       "name": "Doug Ghim",
-      "total_score": -1,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "S\u00e9amus Power",
-      "total_score": -1,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Tom Kim",
       "total_score": -1,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
