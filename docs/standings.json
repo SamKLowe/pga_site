@@ -2,21 +2,21 @@
   "tournament": "THE PLAYERS Championship 2026",
   "round": 4,
   "is_complete": false,
-  "last_updated": "2026-03-22T19:52:36.401578+00:00",
+  "last_updated": "2026-03-22T20:23:55.521278+00:00",
   "standings": [
     {
       "participant": "Mike",
-      "combined_score": -18,
+      "combined_score": -17,
       "top4": [
         {
-          "name": "Corey Conners",
+          "name": "Jacob Bridgeman",
           "total_score": -5,
           "status": "STATUS_ACTIVE",
           "found": true
         },
         {
-          "name": "Jacob Bridgeman",
-          "total_score": -5,
+          "name": "Corey Conners",
+          "total_score": -4,
           "status": "STATUS_ACTIVE",
           "found": true
         },
@@ -50,17 +50,17 @@
     },
     {
       "participant": "Alex",
-      "combined_score": -11,
+      "combined_score": -13,
       "top4": [
         {
           "name": "Patrick Cantlay",
-          "total_score": -6,
+          "total_score": -7,
           "status": "STATUS_ACTIVE",
           "found": true
         },
         {
           "name": "Brooks Koepka",
-          "total_score": -5,
+          "total_score": -6,
           "status": "STATUS_ACTIVE",
           "found": true
         },
@@ -225,6 +225,50 @@
       ]
     },
     {
+      "participant": "Brandon",
+      "combined_score": -5,
+      "top4": [
+        {
+          "name": "Kevin Yu",
+          "total_score": -5,
+          "status": "STATUS_ACTIVE",
+          "found": true
+        },
+        {
+          "name": "Chesson Hadley",
+          "total_score": 0,
+          "status": "NOT_FOUND",
+          "found": false
+        },
+        {
+          "name": "Thomas Detry",
+          "total_score": 0,
+          "status": "NOT_FOUND",
+          "found": false
+        },
+        {
+          "name": "Adam Scott",
+          "total_score": 0,
+          "status": "NOT_FOUND",
+          "found": false
+        }
+      ],
+      "dropped": [
+        {
+          "name": "Mark Hubbard",
+          "total_score": 6,
+          "status": "STATUS_ACTIVE",
+          "found": true
+        },
+        {
+          "name": "Davis Riley",
+          "total_score": 6,
+          "status": "STATUS_ACTIVE",
+          "found": true
+        }
+      ]
+    },
+    {
       "participant": "Dave",
       "combined_score": -4,
       "top4": [
@@ -269,56 +313,12 @@
       ]
     },
     {
-      "participant": "Brandon",
+      "participant": "Kyle",
       "combined_score": -4,
       "top4": [
         {
-          "name": "Kevin Yu",
-          "total_score": -4,
-          "status": "STATUS_ACTIVE",
-          "found": true
-        },
-        {
-          "name": "Chesson Hadley",
-          "total_score": 0,
-          "status": "NOT_FOUND",
-          "found": false
-        },
-        {
-          "name": "Thomas Detry",
-          "total_score": 0,
-          "status": "NOT_FOUND",
-          "found": false
-        },
-        {
-          "name": "Adam Scott",
-          "total_score": 0,
-          "status": "NOT_FOUND",
-          "found": false
-        }
-      ],
-      "dropped": [
-        {
-          "name": "Mark Hubbard",
-          "total_score": 6,
-          "status": "STATUS_ACTIVE",
-          "found": true
-        },
-        {
-          "name": "Davis Riley",
-          "total_score": 6,
-          "status": "STATUS_ACTIVE",
-          "found": true
-        }
-      ]
-    },
-    {
-      "participant": "Kyle",
-      "combined_score": -2,
-      "top4": [
-        {
           "name": "Tom Kim",
-          "total_score": -2,
+          "total_score": -4,
           "status": "STATUS_ACTIVE",
           "found": true
         },
@@ -533,9 +533,5 @@
       ]
     }
   ],
-  "leader_pick": {
-    "drafted_by": "Chris",
-    "golfer": "Matt Fitzpatrick",
-    "score": -9
-  }
+  "leader_pick": null
 }
