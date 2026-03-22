@@ -2,7 +2,7 @@
   "event_name": "Valspar Championship",
   "round": 4,
   "is_complete": false,
-  "last_updated": "2026-03-22T11:45:27.673308+00:00",
+  "last_updated": "2026-03-22T11:59:02.870695+00:00",
   "players": [
     {
       "name": "Sungjae Im",
@@ -635,7 +635,7 @@
       "position": 999
     },
     {
-      "name": "Bud Cauley",
+      "name": "Vince Whaley",
       "total_score": 4,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -643,6 +643,13 @@
     },
     {
       "name": "David Ford",
+      "total_score": 4,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Bud Cauley",
       "total_score": 4,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -707,13 +714,6 @@
     {
       "name": "Brian Campbell",
       "total_score": 4,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Vince Whaley",
-      "total_score": 5,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999
