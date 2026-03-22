@@ -2,11 +2,11 @@
   "event_name": "Valspar Championship",
   "round": 4,
   "is_complete": false,
-  "last_updated": "2026-03-22T21:23:59.358360+00:00",
+  "last_updated": "2026-03-22T21:48:56.256406+00:00",
   "players": [
     {
       "name": "Matt Fitzpatrick",
-      "total_score": -10,
+      "total_score": -11,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999
@@ -34,7 +34,14 @@
     },
     {
       "name": "Marco Penge",
-      "total_score": -7,
+      "total_score": -8,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Sungjae Im",
+      "total_score": -8,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999
@@ -68,13 +75,6 @@
       "position": 999
     },
     {
-      "name": "Sungjae Im",
-      "total_score": -7,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
       "name": "A.J. Ewart",
       "total_score": -6,
       "round_scores": [],
@@ -90,13 +90,6 @@
     },
     {
       "name": "Jordan Spieth",
-      "total_score": -6,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Brandt Snedeker",
       "total_score": -6,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -166,6 +159,13 @@
       "position": 999
     },
     {
+      "name": "Tom Kim",
+      "total_score": -4,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
       "name": "Chandler Blanchet",
       "total_score": -4,
       "round_scores": [],
@@ -173,7 +173,7 @@
       "position": 999
     },
     {
-      "name": "Tom Kim",
+      "name": "Brandt Snedeker",
       "total_score": -4,
       "round_scores": [],
       "status": "STATUS_ACTIVE",

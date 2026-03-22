@@ -2,7 +2,7 @@
   "tournament": "THE PLAYERS Championship 2026",
   "round": 4,
   "is_complete": false,
-  "last_updated": "2026-03-22T21:23:59.358360+00:00",
+  "last_updated": "2026-03-22T21:48:56.256406+00:00",
   "standings": [
     {
       "participant": "Mike",
@@ -50,11 +50,11 @@
     },
     {
       "participant": "Chris",
-      "combined_score": -11,
+      "combined_score": -12,
       "top4": [
         {
           "name": "Matt Fitzpatrick",
-          "total_score": -10,
+          "total_score": -11,
           "status": "STATUS_ACTIVE",
           "found": true
         },
@@ -536,6 +536,6 @@
   "leader_pick": {
     "drafted_by": "Chris",
     "golfer": "Matt Fitzpatrick",
-    "score": -10
+    "score": -11
   }
 }
