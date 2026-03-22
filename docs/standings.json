@@ -2,15 +2,15 @@
   "tournament": "THE PLAYERS Championship 2026",
   "round": 4,
   "is_complete": false,
-  "last_updated": "2026-03-22T19:05:13.887084+00:00",
+  "last_updated": "2026-03-22T19:36:23.091585+00:00",
   "standings": [
     {
       "participant": "Mike",
-      "combined_score": -18,
+      "combined_score": -20,
       "top4": [
         {
           "name": "Corey Conners",
-          "total_score": -5,
+          "total_score": -6,
           "status": "STATUS_ACTIVE",
           "found": true
         },
@@ -21,13 +21,13 @@
           "found": true
         },
         {
-          "name": "Lee Hodges",
-          "total_score": -4,
+          "name": "Tony Finau",
+          "total_score": -5,
           "status": "STATUS_ACTIVE",
           "found": true
         },
         {
-          "name": "Tony Finau",
+          "name": "Lee Hodges",
           "total_score": -4,
           "status": "STATUS_ACTIVE",
           "found": true
@@ -49,52 +49,8 @@
       ]
     },
     {
-      "participant": "Alex",
-      "combined_score": -13,
-      "top4": [
-        {
-          "name": "Patrick Cantlay",
-          "total_score": -7,
-          "status": "STATUS_ACTIVE",
-          "found": true
-        },
-        {
-          "name": "Brooks Koepka",
-          "total_score": -6,
-          "status": "STATUS_ACTIVE",
-          "found": true
-        },
-        {
-          "name": "Collin Morikawa",
-          "total_score": 0,
-          "status": "NOT_FOUND",
-          "found": false
-        },
-        {
-          "name": "Shane Lowry",
-          "total_score": 0,
-          "status": "NOT_FOUND",
-          "found": false
-        }
-      ],
-      "dropped": [
-        {
-          "name": "Harris English",
-          "total_score": 0,
-          "status": "NOT_FOUND",
-          "found": false
-        },
-        {
-          "name": "Billy Horschel",
-          "total_score": 3,
-          "status": "STATUS_ACTIVE",
-          "found": true
-        }
-      ]
-    },
-    {
       "participant": "Chris",
-      "combined_score": -12,
+      "combined_score": -11,
       "top4": [
         {
           "name": "Matt Fitzpatrick",
@@ -104,7 +60,7 @@
         },
         {
           "name": "Patrick Rodgers",
-          "total_score": -3,
+          "total_score": -2,
           "status": "STATUS_ACTIVE",
           "found": true
         },
@@ -131,6 +87,50 @@
         {
           "name": "Sahith Theegala",
           "total_score": 7,
+          "status": "STATUS_ACTIVE",
+          "found": true
+        }
+      ]
+    },
+    {
+      "participant": "Alex",
+      "combined_score": -11,
+      "top4": [
+        {
+          "name": "Patrick Cantlay",
+          "total_score": -6,
+          "status": "STATUS_ACTIVE",
+          "found": true
+        },
+        {
+          "name": "Brooks Koepka",
+          "total_score": -5,
+          "status": "STATUS_ACTIVE",
+          "found": true
+        },
+        {
+          "name": "Collin Morikawa",
+          "total_score": 0,
+          "status": "NOT_FOUND",
+          "found": false
+        },
+        {
+          "name": "Shane Lowry",
+          "total_score": 0,
+          "status": "NOT_FOUND",
+          "found": false
+        }
+      ],
+      "dropped": [
+        {
+          "name": "Harris English",
+          "total_score": 0,
+          "status": "NOT_FOUND",
+          "found": false
+        },
+        {
+          "name": "Billy Horschel",
+          "total_score": 3,
           "status": "STATUS_ACTIVE",
           "found": true
         }
@@ -181,56 +181,12 @@
       ]
     },
     {
-      "participant": "Dave",
+      "participant": "Jake",
       "combined_score": -6,
       "top4": [
         {
-          "name": "Ryo Hisatsune",
-          "total_score": -4,
-          "status": "STATUS_ACTIVE",
-          "found": true
-        },
-        {
-          "name": "Andrew Putnam",
-          "total_score": -2,
-          "status": "STATUS_ACTIVE",
-          "found": true
-        },
-        {
-          "name": "Justin Rose",
-          "total_score": 0,
-          "status": "NOT_FOUND",
-          "found": false
-        },
-        {
-          "name": "Keith Mitchell",
-          "total_score": 0,
-          "status": "NOT_FOUND",
-          "found": false
-        }
-      ],
-      "dropped": [
-        {
-          "name": "Rickie Fowler",
-          "total_score": 0,
-          "status": "NOT_FOUND",
-          "found": false
-        },
-        {
-          "name": "Austin Smotherman",
-          "total_score": 8,
-          "status": "STATUS_ACTIVE",
-          "found": true
-        }
-      ]
-    },
-    {
-      "participant": "Jake",
-      "combined_score": -5,
-      "top4": [
-        {
           "name": "Jordan Spieth",
-          "total_score": -5,
+          "total_score": -6,
           "status": "STATUS_ACTIVE",
           "found": true
         },
@@ -263,6 +219,50 @@
         {
           "name": "Max Homa",
           "total_score": 10,
+          "status": "STATUS_ACTIVE",
+          "found": true
+        }
+      ]
+    },
+    {
+      "participant": "Dave",
+      "combined_score": -4,
+      "top4": [
+        {
+          "name": "Andrew Putnam",
+          "total_score": -2,
+          "status": "STATUS_ACTIVE",
+          "found": true
+        },
+        {
+          "name": "Ryo Hisatsune",
+          "total_score": -2,
+          "status": "STATUS_ACTIVE",
+          "found": true
+        },
+        {
+          "name": "Justin Rose",
+          "total_score": 0,
+          "status": "NOT_FOUND",
+          "found": false
+        },
+        {
+          "name": "Keith Mitchell",
+          "total_score": 0,
+          "status": "NOT_FOUND",
+          "found": false
+        }
+      ],
+      "dropped": [
+        {
+          "name": "Rickie Fowler",
+          "total_score": 0,
+          "status": "NOT_FOUND",
+          "found": false
+        },
+        {
+          "name": "Austin Smotherman",
+          "total_score": 8,
           "status": "STATUS_ACTIVE",
           "found": true
         }
