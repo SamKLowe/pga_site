@@ -1,0 +1,17 @@
+{
+  "tournament": "Texas Children's Houston Open 2026",
+  "participants": [
+    { "name": "Sam",      "picks": ["Scottie Scheffler", "Sungjae Im", "Pierceson Coody", "Adrien Dumont de Chassart", "Aldrich Potgieter", "Chez Reavie"] },
+    { "name": "Riley",    "picks": ["Min Woo Lee", "Samuel Stevens", "Alex Smalley", "Nick Dunlap", "Danny Willett", "Garrick Higgo"] },
+    { "name": "Jim",      "picks": ["Sam Burns", "Rasmus Hojgaard", "Stephan Jaeger", "Greyson Sigg", "Lucas Glover", "Austin Greaser"] },
+    { "name": "Austin",   "picks": ["Chris Gotterup", "Taylor Pendrith", "Aaron Rai", "Sepp Straka", "Bud Cauley", "James Hahn"] },
+    { "name": "Nathan",   "picks": ["Jake Knapp", "Wyndham Clark", "Patrick Rodgers", "Christiaan Bezuidenhout", "Tom Kim", "Trey Mullinax"] },
+    { "name": "Janos",    "picks": ["Brooks Koepka", "Jason Day", "Will Zalatoris", "Emiliano Grillo", "Denny McCarthy", "Nate Lashley"] },
+    { "name": "Bree",     "picks": ["Rickie Fowler", "Keith Mitchell", "Davis Thompson", "Max Homa", "Jesper Svensson", "Vincent Norrman"] },
+    { "name": "Eric",     "picks": ["Kurt Kitayama", "Ryan Gerard", "Ryan Fox", "Cam Davis", "Adam Svensson", "Thorbjorn Olesen"] },
+    { "name": "Riguy",    "picks": ["Marco Penge", "Shane Lowry", "Ricky Castillo", "Eric Cole", "Matti Schmid", "S.H. Kim"] },
+    { "name": "Casey",    "picks": ["Harry Hall", "Adam Scott", "Max Greyserman", "Luke Clanton", "Rafael Campos", "Callum Shinkwin"] },
+    { "name": "Nicky",    "picks": ["Nicolai Hojgaard", "Harris English", "Sahith Theegala", "Maverick McNealy", "Billy Horschel", "Chris Kirk"] },
+    { "name": "Christian","picks": ["Ben Griffin", "Michael Thorbjornsen", "Tony Finau", "Si Woo Kim", "Tyler Duncan", "K.H. Lee"] }
+  ]
+}
