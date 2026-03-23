@@ -34,6 +34,18 @@ def fetch_leaderboard(event_id=None):
 
     event = events[0]
     event_name = event.get("name", "Unknown Tournament")
+
+    # If we requested a specific event but ESPN returned a different one,
+    # the tournament hasn't started yet — return zeros for all picks.
+    if event_id and str(event.get("id", "")) != str(event_id):
+        print(f"ESPN returned '{event_name}' instead of requested event {event_id} — tournament not started yet.")
+        return {
+            "event_name": event_name,
+            "round": 1,
+            "is_complete": False,
+            "last_updated": datetime.now(timezone.utc).isoformat(),
+            "players": [],
+        }
     competition = event.get("competitions", [{}])[0]
     status = competition.get("status", {})
     round_num = status.get("period", 1)
