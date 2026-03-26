@@ -2,7 +2,7 @@
   "tournament": "Texas Children's Houston Open 2026",
   "round": 1,
   "is_complete": false,
-  "last_updated": "2026-03-26T19:33:31.703907+00:00",
+  "last_updated": "2026-03-26T20:19:24.102561+00:00",
   "standings": [
     {
       "participant": "Jim",
@@ -42,7 +42,7 @@
         },
         {
           "name": "Lucas Glover",
-          "total_score": 2,
+          "total_score": 5,
           "status": "STATUS_ACTIVE",
           "found": true
         }
@@ -71,24 +71,24 @@
           "found": true
         },
         {
-          "name": "Davis Thompson",
-          "total_score": 0,
-          "status": "STATUS_ACTIVE",
-          "found": true
-        }
-      ],
-      "dropped": [
-        {
           "name": "Max Homa",
           "total_score": 0,
           "status": "NOT_FOUND",
           "found": false
-        },
+        }
+      ],
+      "dropped": [
         {
           "name": "Vincent Norrman",
           "total_score": 0,
           "status": "NOT_FOUND",
           "found": false
+        },
+        {
+          "name": "Davis Thompson",
+          "total_score": 1,
+          "status": "STATUS_ACTIVE",
+          "found": true
         }
       ]
     },
@@ -123,22 +123,66 @@
       ],
       "dropped": [
         {
-          "name": "S.H. Kim",
+          "name": "Matti Schmid",
           "total_score": 0,
           "status": "STATUS_ACTIVE",
           "found": true
         },
         {
-          "name": "Matti Schmid",
-          "total_score": 1,
+          "name": "S.H. Kim",
+          "total_score": 0,
           "status": "STATUS_ACTIVE",
           "found": true
         }
       ]
     },
     {
+      "participant": "Sam",
+      "combined_score": -5,
+      "top4": [
+        {
+          "name": "Pierceson Coody",
+          "total_score": -2,
+          "status": "STATUS_ACTIVE",
+          "found": true
+        },
+        {
+          "name": "Sungjae Im",
+          "total_score": -1,
+          "status": "STATUS_ACTIVE",
+          "found": true
+        },
+        {
+          "name": "Adrien Dumont de Chassart",
+          "total_score": -1,
+          "status": "STATUS_ACTIVE",
+          "found": true
+        },
+        {
+          "name": "Aldrich Potgieter",
+          "total_score": -1,
+          "status": "STATUS_ACTIVE",
+          "found": true
+        }
+      ],
+      "dropped": [
+        {
+          "name": "Scottie Scheffler",
+          "total_score": 0,
+          "status": "NOT_FOUND",
+          "found": false
+        },
+        {
+          "name": "Chez Reavie",
+          "total_score": 0,
+          "status": "NOT_FOUND",
+          "found": false
+        }
+      ]
+    },
+    {
       "participant": "Eric",
-      "combined_score": -6,
+      "combined_score": -5,
       "top4": [
         {
           "name": "Kurt Kitayama",
@@ -148,7 +192,7 @@
         },
         {
           "name": "Adam Svensson",
-          "total_score": -2,
+          "total_score": -1,
           "status": "STATUS_ACTIVE",
           "found": true
         },
@@ -182,17 +226,11 @@
     },
     {
       "participant": "Nicky",
-      "combined_score": -6,
+      "combined_score": -5,
       "top4": [
         {
           "name": "Sahith Theegala",
           "total_score": -3,
-          "status": "STATUS_ACTIVE",
-          "found": true
-        },
-        {
-          "name": "Harris English",
-          "total_score": -1,
           "status": "STATUS_ACTIVE",
           "found": true
         },
@@ -207,64 +245,26 @@
           "total_score": -1,
           "status": "STATUS_ACTIVE",
           "found": true
-        }
-      ],
-      "dropped": [
+        },
         {
           "name": "Nicolai Hojgaard",
           "total_score": 0,
           "status": "NOT_FOUND",
           "found": false
+        }
+      ],
+      "dropped": [
+        {
+          "name": "Harris English",
+          "total_score": 0,
+          "status": "STATUS_ACTIVE",
+          "found": true
         },
         {
           "name": "Maverick McNealy",
           "total_score": 0,
           "status": "NOT_FOUND",
           "found": false
-        }
-      ]
-    },
-    {
-      "participant": "Janos",
-      "combined_score": -5,
-      "top4": [
-        {
-          "name": "Brooks Koepka",
-          "total_score": -2,
-          "status": "STATUS_ACTIVE",
-          "found": true
-        },
-        {
-          "name": "Jason Day",
-          "total_score": -2,
-          "status": "STATUS_ACTIVE",
-          "found": true
-        },
-        {
-          "name": "Denny McCarthy",
-          "total_score": -1,
-          "status": "STATUS_ACTIVE",
-          "found": true
-        },
-        {
-          "name": "Will Zalatoris",
-          "total_score": 0,
-          "status": "STATUS_ACTIVE",
-          "found": true
-        }
-      ],
-      "dropped": [
-        {
-          "name": "Nate Lashley",
-          "total_score": 0,
-          "status": "NOT_FOUND",
-          "found": false
-        },
-        {
-          "name": "Emiliano Grillo",
-          "total_score": 1,
-          "status": "STATUS_ACTIVE",
-          "found": true
         }
       ]
     },
@@ -313,29 +313,73 @@
       ]
     },
     {
-      "participant": "Sam",
-      "combined_score": -2,
+      "participant": "Janos",
+      "combined_score": -3,
       "top4": [
         {
-          "name": "Pierceson Coody",
+          "name": "Jason Day",
+          "total_score": -2,
+          "status": "STATUS_ACTIVE",
+          "found": true
+        },
+        {
+          "name": "Denny McCarthy",
           "total_score": -1,
           "status": "STATUS_ACTIVE",
           "found": true
         },
         {
-          "name": "Aldrich Potgieter",
-          "total_score": -1,
+          "name": "Will Zalatoris",
+          "total_score": 0,
           "status": "STATUS_ACTIVE",
           "found": true
         },
         {
-          "name": "Scottie Scheffler",
+          "name": "Nate Lashley",
           "total_score": 0,
           "status": "NOT_FOUND",
           "found": false
+        }
+      ],
+      "dropped": [
+        {
+          "name": "Emiliano Grillo",
+          "total_score": 1,
+          "status": "STATUS_ACTIVE",
+          "found": true
         },
         {
-          "name": "Sungjae Im",
+          "name": "Brooks Koepka",
+          "total_score": 2,
+          "status": "STATUS_ACTIVE",
+          "found": true
+        }
+      ]
+    },
+    {
+      "participant": "Casey",
+      "combined_score": -3,
+      "top4": [
+        {
+          "name": "Harry Hall",
+          "total_score": -1,
+          "status": "STATUS_ACTIVE",
+          "found": true
+        },
+        {
+          "name": "Adam Scott",
+          "total_score": -1,
+          "status": "STATUS_ACTIVE",
+          "found": true
+        },
+        {
+          "name": "Luke Clanton",
+          "total_score": -1,
+          "status": "STATUS_ACTIVE",
+          "found": true
+        },
+        {
+          "name": "Max Greyserman",
           "total_score": 0,
           "status": "STATUS_ACTIVE",
           "found": true
@@ -343,16 +387,16 @@
       ],
       "dropped": [
         {
-          "name": "Adrien Dumont de Chassart",
-          "total_score": 0,
-          "status": "STATUS_ACTIVE",
-          "found": true
-        },
-        {
-          "name": "Chez Reavie",
+          "name": "Callum Shinkwin",
           "total_score": 0,
           "status": "NOT_FOUND",
           "found": false
+        },
+        {
+          "name": "Rafael Campos",
+          "total_score": 2,
+          "status": "STATUS_ACTIVE",
+          "found": true
         }
       ]
     },
@@ -394,60 +438,22 @@
         },
         {
           "name": "Taylor Pendrith",
-          "total_score": 1,
+          "total_score": 2,
           "status": "STATUS_ACTIVE",
           "found": true
-        }
-      ]
-    },
-    {
-      "participant": "Casey",
-      "combined_score": -1,
-      "top4": [
-        {
-          "name": "Harry Hall",
-          "total_score": -1,
-          "status": "STATUS_ACTIVE",
-          "found": true
-        },
-        {
-          "name": "Adam Scott",
-          "total_score": 0,
-          "status": "STATUS_ACTIVE",
-          "found": true
-        },
-        {
-          "name": "Max Greyserman",
-          "total_score": 0,
-          "status": "STATUS_ACTIVE",
-          "found": true
-        },
-        {
-          "name": "Luke Clanton",
-          "total_score": 0,
-          "status": "STATUS_ACTIVE",
-          "found": true
-        }
-      ],
-      "dropped": [
-        {
-          "name": "Rafael Campos",
-          "total_score": 0,
-          "status": "STATUS_ACTIVE",
-          "found": true
-        },
-        {
-          "name": "Callum Shinkwin",
-          "total_score": 0,
-          "status": "NOT_FOUND",
-          "found": false
         }
       ]
     },
     {
       "participant": "Christian",
-      "combined_score": -1,
+      "combined_score": -2,
       "top4": [
+        {
+          "name": "Tony Finau",
+          "total_score": -1,
+          "status": "STATUS_ACTIVE",
+          "found": true
+        },
         {
           "name": "K.H. Lee",
           "total_score": -1,
@@ -461,45 +467,33 @@
           "found": true
         },
         {
-          "name": "Tony Finau",
+          "name": "Michael Thorbjornsen",
           "total_score": 0,
           "status": "STATUS_ACTIVE",
           "found": true
-        },
+        }
+      ],
+      "dropped": [
         {
           "name": "Si Woo Kim",
           "total_score": 0,
           "status": "NOT_FOUND",
           "found": false
-        }
-      ],
-      "dropped": [
+        },
         {
           "name": "Tyler Duncan",
           "total_score": 0,
           "status": "NOT_FOUND",
           "found": false
-        },
-        {
-          "name": "Michael Thorbjornsen",
-          "total_score": 1,
-          "status": "STATUS_ACTIVE",
-          "found": true
         }
       ]
     },
     {
       "participant": "Nathan",
-      "combined_score": 0,
+      "combined_score": 1,
       "top4": [
         {
           "name": "Jake Knapp",
-          "total_score": 0,
-          "status": "STATUS_ACTIVE",
-          "found": true
-        },
-        {
-          "name": "Patrick Rodgers",
           "total_score": 0,
           "status": "STATUS_ACTIVE",
           "found": true
@@ -513,6 +507,12 @@
         {
           "name": "Tom Kim",
           "total_score": 0,
+          "status": "STATUS_ACTIVE",
+          "found": true
+        },
+        {
+          "name": "Patrick Rodgers",
+          "total_score": 1,
           "status": "STATUS_ACTIVE",
           "found": true
         }
