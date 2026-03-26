@@ -2,7 +2,7 @@
   "event_name": "Texas Children's Houston Open",
   "round": 1,
   "is_complete": false,
-  "last_updated": "2026-03-26T22:59:02.845613+00:00",
+  "last_updated": "2026-03-26T23:02:53.907303+00:00",
   "players": [
     {
       "name": "Paul Waring",
@@ -33,20 +33,6 @@
       "position": 999
     },
     {
-      "name": "Taylor Moore",
-      "total_score": -5,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Gary Woodland",
-      "total_score": -5,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
       "name": "Marco Penge",
       "total_score": -4,
       "round_scores": [],
@@ -68,7 +54,7 @@
       "position": 999
     },
     {
-      "name": "Karl Vilips",
+      "name": "Gary Woodland",
       "total_score": -4,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -173,7 +159,35 @@
       "position": 999
     },
     {
+      "name": "Taylor Moore",
+      "total_score": -3,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
       "name": "Alex Smalley",
+      "total_score": -3,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Karl Vilips",
+      "total_score": -3,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Austin Eckroat",
+      "total_score": -3,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Matti Schmid",
       "total_score": -3,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -377,20 +391,6 @@
     },
     {
       "name": "Adam Schenk",
-      "total_score": -2,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Austin Eckroat",
-      "total_score": -2,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Matti Schmid",
       "total_score": -2,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -789,13 +789,6 @@
       "position": 999
     },
     {
-      "name": "Davis Thompson",
-      "total_score": 2,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
       "name": "Max McGreevy",
       "total_score": 2,
       "round_scores": [],
@@ -818,6 +811,13 @@
     },
     {
       "name": "S.H. Kim",
+      "total_score": 3,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Davis Thompson",
       "total_score": 3,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -866,6 +866,13 @@
       "position": 999
     },
     {
+      "name": "Rafael Campos",
+      "total_score": 4,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
       "name": "Kensei Hirata",
       "total_score": 4,
       "round_scores": [],
@@ -902,13 +909,6 @@
     },
     {
       "name": "Taylor Pendrith",
-      "total_score": 5,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Rafael Campos",
       "total_score": 5,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
