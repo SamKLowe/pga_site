@@ -80,6 +80,23 @@ def calculate_standings(draft, leaderboard):
             if leader_pick:
                 break
 
+        # If no one drafted the leader, find the lowest scoring drafted player
+        if not leader_pick:
+            best = None
+            for participant in draft["participants"]:
+                for pick in participant["picks"]:
+                    player = find_player(pick, score_map)
+                    if player and player["total_score"] is not None:
+                        if best is None or player["total_score"] < best["score"]:
+                            best = {
+                                "drafted_by": participant["name"],
+                                "golfer": player["name"],
+                                "score": player["total_score"],
+                            }
+            if best:
+                best["is_fallback"] = True
+            leader_pick = best
+
     return {
         "tournament": draft["tournament"],
         "round": leaderboard["round"],

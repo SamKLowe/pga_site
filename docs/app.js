@@ -38,8 +38,9 @@ function renderStandings(data) {
   if (data.leader_pick) {
     const lp = data.leader_pick;
     document.getElementById("leader-pick-name").textContent = lp.drafted_by;
-    document.getElementById("leader-pick-detail").textContent =
-      `${lp.golfer}  ${fmtScore(lp.score)}`;
+    document.getElementById("leader-pick-detail").textContent = lp.is_fallback
+      ? `Best pick: ${lp.golfer}  ${fmtScore(lp.score)}`
+      : `${lp.golfer}  ${fmtScore(lp.score)}`;
   }
 
   const best = data.standings[0];
