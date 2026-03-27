@@ -2,11 +2,19 @@
   "event_name": "Texas Children's Houston Open",
   "round": 2,
   "is_complete": false,
-  "last_updated": "2026-03-27T22:00:35.308387+00:00",
+  "last_updated": "2026-03-27T22:01:02.420517+00:00",
   "players": [
     {
       "name": "Gary Woodland",
       "total_score": -13,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999,
+      "thru": "F"
+    },
+    {
+      "name": "Nicolai H\u00f8jgaard",
+      "total_score": -10,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999,
@@ -19,14 +27,6 @@
       "status": "STATUS_ACTIVE",
       "position": 999,
       "thru": "F"
-    },
-    {
-      "name": "Nicolai H\u00f8jgaard",
-      "total_score": -9,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999,
-      "thru": "17"
     },
     {
       "name": "Michael Thorbjornsen",
@@ -533,15 +533,15 @@
       "thru": "F"
     },
     {
-      "name": "Ben Griffin",
+      "name": "William Mouw",
       "total_score": -2,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999,
-      "thru": "15"
+      "thru": "16"
     },
     {
-      "name": "William Mouw",
+      "name": "Ben Griffin",
       "total_score": -2,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -829,15 +829,15 @@
       "thru": "12"
     },
     {
-      "name": "Alejandro Tosti",
+      "name": "Jordan Smith",
       "total_score": 1,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999,
-      "thru": "11"
+      "thru": "12"
     },
     {
-      "name": "Jordan Smith",
+      "name": "Alejandro Tosti",
       "total_score": 1,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -1066,7 +1066,7 @@
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999,
-      "thru": "12"
+      "thru": "13"
     },
     {
       "name": "Lucas Glover",
