@@ -2,7 +2,7 @@
   "event_name": "Texas Children's Houston Open",
   "round": 2,
   "is_complete": false,
-  "last_updated": "2026-03-27T18:37:07.204685+00:00",
+  "last_updated": "2026-03-27T18:39:40.867094+00:00",
   "players": [
     {
       "name": "Gary Woodland",
@@ -180,7 +180,7 @@
       "position": 999
     },
     {
-      "name": "Marco Penge",
+      "name": "Sam Stevens",
       "total_score": -4,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -188,13 +188,6 @@
     },
     {
       "name": "Chris Gotterup",
-      "total_score": -4,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Sam Stevens",
       "total_score": -4,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -271,6 +264,13 @@
       "position": 999
     },
     {
+      "name": "Marco Penge",
+      "total_score": -3,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
       "name": "Matthieu Pavon",
       "total_score": -3,
       "round_scores": [],
@@ -320,6 +320,13 @@
       "position": 999
     },
     {
+      "name": "Luke Clanton",
+      "total_score": -2,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
       "name": "Eric Cole",
       "total_score": -2,
       "round_scores": [],
@@ -341,14 +348,14 @@
       "position": 999
     },
     {
-      "name": "Luke Clanton",
+      "name": "Danny Walker",
       "total_score": -2,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999
     },
     {
-      "name": "Danny Walker",
+      "name": "Danny Willett",
       "total_score": -2,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -384,13 +391,6 @@
     },
     {
       "name": "Shane Lowry",
-      "total_score": -2,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Danny Willett",
       "total_score": -2,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -635,6 +635,13 @@
       "position": 999
     },
     {
+      "name": "Doug Ghim",
+      "total_score": 0,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
       "name": "Ben Griffin",
       "total_score": 0,
       "round_scores": [],
@@ -712,13 +719,6 @@
       "position": 999
     },
     {
-      "name": "Doug Ghim",
-      "total_score": 1,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
       "name": "Kevin Yu",
       "total_score": 1,
       "round_scores": [],
@@ -768,14 +768,14 @@
       "position": 999
     },
     {
-      "name": "Nick Dunlap",
+      "name": "Wyndham Clark",
       "total_score": 2,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999
     },
     {
-      "name": "Wyndham Clark",
+      "name": "Nick Dunlap",
       "total_score": 2,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -819,6 +819,13 @@
     {
       "name": "Adam Schenk",
       "total_score": 3,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Kris Ventura",
+      "total_score": 4,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999
@@ -881,13 +888,6 @@
     },
     {
       "name": "Rafael Campos",
-      "total_score": 5,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Kris Ventura",
       "total_score": 5,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
