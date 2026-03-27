@@ -1,8 +1,8 @@
 {
   "event_name": "Texas Children's Houston Open",
   "round": 1,
-  "is_complete": false,
-  "last_updated": "2026-03-26T23:49:10.705216+00:00",
+  "is_complete": true,
+  "last_updated": "2026-03-27T02:50:37.460440+00:00",
   "players": [
     {
       "name": "Paul Waring",
@@ -195,6 +195,13 @@
     },
     {
       "name": "Matti Schmid",
+      "total_score": -3,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Cole Hammer",
       "total_score": -3,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -404,27 +411,6 @@
       "position": 999
     },
     {
-      "name": "Luke Clanton",
-      "total_score": -2,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Cole Hammer",
-      "total_score": -2,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Neal Shipley",
-      "total_score": -2,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
       "name": "Shane Lowry",
       "total_score": -1,
       "round_scores": [],
@@ -537,6 +523,13 @@
       "position": 999
     },
     {
+      "name": "Luke Clanton",
+      "total_score": -1,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
       "name": "Andrew Putnam",
       "total_score": 0,
       "round_scores": [],
@@ -635,6 +628,27 @@
       "position": 999
     },
     {
+      "name": "Haotong Li",
+      "total_score": 0,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Zach Bauchou",
+      "total_score": 0,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Neal Shipley",
+      "total_score": 0,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
       "name": "Garrick Higgo",
       "total_score": 1,
       "round_scores": [],
@@ -719,20 +733,6 @@
       "position": 999
     },
     {
-      "name": "Haotong Li",
-      "total_score": 1,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Zach Bauchou",
-      "total_score": 1,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
       "name": "Nick Dunlap",
       "total_score": 2,
       "round_scores": [],
@@ -803,13 +803,6 @@
       "position": 999
     },
     {
-      "name": "Chandler Blanchet",
-      "total_score": 2,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
       "name": "S.H. Kim",
       "total_score": 3,
       "round_scores": [],
@@ -825,6 +818,20 @@
     },
     {
       "name": "David Ford",
+      "total_score": 3,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Mason Howell",
+      "total_score": 3,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Chandler Blanchet",
       "total_score": 3,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -859,27 +866,6 @@
       "position": 999
     },
     {
-      "name": "Justin Lower",
-      "total_score": 4,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Mason Howell",
-      "total_score": 4,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Gordon Sargent",
-      "total_score": 4,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
       "name": "Kristoffer Reitan",
       "total_score": 5,
       "round_scores": [],
@@ -901,6 +887,13 @@
       "position": 999
     },
     {
+      "name": "A.J. Ewart",
+      "total_score": 5,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
       "name": "Kensei Hirata",
       "total_score": 5,
       "round_scores": [],
@@ -915,7 +908,7 @@
       "position": 999
     },
     {
-      "name": "John VanDerLaan",
+      "name": "Gordon Sargent",
       "total_score": 5,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -929,7 +922,14 @@
       "position": 999
     },
     {
-      "name": "A.J. Ewart",
+      "name": "Justin Lower",
+      "total_score": 6,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "John VanDerLaan",
       "total_score": 6,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
