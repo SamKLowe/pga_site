@@ -68,12 +68,27 @@ def fetch_leaderboard(event_id=None):
             if val is not None:
                 round_scores.append(val)
 
+        # Derive "thru" from holes completed in the current round
+        thru = "-"
+        for ls in comp.get("linescores", []):
+            if ls.get("period") == round_num:
+                holes = len(ls.get("linescores", []))
+                if holes == 18:
+                    thru = "F"
+                elif holes > 0:
+                    thru = str(holes)
+                break
+
+        if status_name in ("STATUS_CUT", "STATUS_WITHDRAWN"):
+            thru = "CUT"
+
         players.append({
             "name": name,
             "total_score": total_score,
             "round_scores": round_scores,
             "status": status_name,
             "position": comp.get("sortOrder", 999),
+            "thru": thru,
         })
 
     players.sort(key=lambda p: (p["total_score"], p["position"]))

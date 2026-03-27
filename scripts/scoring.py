@@ -98,7 +98,7 @@ def calculate_standings(draft, leaderboard):
             leader_pick = best
 
     top10 = [
-        {"name": p["name"], "total_score": p["total_score"], "status": p["status"]}
+        {"name": p["name"], "total_score": p["total_score"], "status": p["status"], "thru": p.get("thru", "-")}
         for p in leaderboard.get("players", [])[:10]
     ]
 
