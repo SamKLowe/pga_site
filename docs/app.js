@@ -88,6 +88,7 @@ function renderStandings(data) {
         <div class="pick-row ${isDropped ? "dropped" : ""}">
           <span class="pick-score ${scoreClass(pick.total_score)}">${fmtScore(pick.total_score)}</span>
           <span>${pick.name}</span>
+          <span class="pick-thru">${pick.thru || "-"}</span>
           ${badge}
         </div>`;
     }).join("");

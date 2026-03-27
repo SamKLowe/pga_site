@@ -37,6 +37,7 @@ def calculate_standings(draft, leaderboard):
                     "name": player["name"],
                     "total_score": player["total_score"],
                     "status": player["status"],
+                    "thru": player.get("thru", "-"),
                     "found": True,
                 })
             else:
@@ -44,6 +45,7 @@ def calculate_standings(draft, leaderboard):
                     "name": pick,
                     "total_score": 0,
                     "status": "NOT_FOUND",
+                    "thru": "-",
                     "found": False,
                 })
 
