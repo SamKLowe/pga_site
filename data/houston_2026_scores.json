@@ -2,7 +2,7 @@
   "event_name": "Texas Children's Houston Open",
   "round": 2,
   "is_complete": false,
-  "last_updated": "2026-03-27T22:05:00.290955+00:00",
+  "last_updated": "2026-03-27T22:39:10.575023+00:00",
   "players": [
     {
       "name": "Gary Woodland",
@@ -29,6 +29,14 @@
       "thru": "F"
     },
     {
+      "name": "Jason Day",
+      "total_score": -9,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999,
+      "thru": "F"
+    },
+    {
       "name": "Michael Thorbjornsen",
       "total_score": -8,
       "round_scores": [],
@@ -37,12 +45,12 @@
       "thru": "F"
     },
     {
-      "name": "Jason Day",
+      "name": "Sam Stevens",
       "total_score": -8,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999,
-      "thru": "16"
+      "thru": "F"
     },
     {
       "name": "Jackson Suber",
@@ -50,7 +58,7 @@
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999,
-      "thru": "10"
+      "thru": "12"
     },
     {
       "name": "Karl Vilips",
@@ -77,20 +85,12 @@
       "thru": "F"
     },
     {
-      "name": "Chad Ramey",
+      "name": "Paul Waring",
       "total_score": -7,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999,
-      "thru": "17"
-    },
-    {
-      "name": "Sam Stevens",
-      "total_score": -7,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999,
-      "thru": "16"
+      "thru": "13"
     },
     {
       "name": "Sam Ryder",
@@ -117,6 +117,14 @@
       "thru": "F"
     },
     {
+      "name": "Chad Ramey",
+      "total_score": -6,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999,
+      "thru": "F"
+    },
+    {
       "name": "Matt Wallace",
       "total_score": -6,
       "round_scores": [],
@@ -125,20 +133,28 @@
       "thru": "F"
     },
     {
+      "name": "Sahith Theegala",
+      "total_score": -6,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999,
+      "thru": "17"
+    },
+    {
+      "name": "Jhonattan Vegas",
+      "total_score": -6,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999,
+      "thru": "17"
+    },
+    {
       "name": "Johnny Keefer",
       "total_score": -6,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999,
-      "thru": "12"
-    },
-    {
-      "name": "Paul Waring",
-      "total_score": -6,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999,
-      "thru": "11"
+      "thru": "15"
     },
     {
       "name": "Max McGreevy",
@@ -186,7 +202,7 @@
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999,
-      "thru": "16"
+      "thru": "F"
     },
     {
       "name": "Sudarshan Yellamaraju",
@@ -194,31 +210,39 @@
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999,
-      "thru": "15"
+      "thru": "17"
     },
     {
-      "name": "Sahith Theegala",
+      "name": "Tom Kim",
       "total_score": -5,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999,
-      "thru": "15"
+      "thru": "16"
     },
     {
-      "name": "Jhonattan Vegas",
-      "total_score": -5,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999,
-      "thru": "15"
-    },
-    {
-      "name": "Mac Meissner",
+      "name": "Jeffrey Kang",
       "total_score": -5,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999,
       "thru": "14"
+    },
+    {
+      "name": "Shane Lowry",
+      "total_score": -4,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999,
+      "thru": "F"
+    },
+    {
+      "name": "Chris Kirk",
+      "total_score": -4,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999,
+      "thru": "F"
     },
     {
       "name": "Denny McCarthy",
@@ -277,7 +301,7 @@
       "thru": "F"
     },
     {
-      "name": "Shane Lowry",
+      "name": "Harry Hall",
       "total_score": -4,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -285,7 +309,7 @@
       "thru": "17"
     },
     {
-      "name": "Chris Kirk",
+      "name": "Aldrich Potgieter",
       "total_score": -4,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -293,20 +317,12 @@
       "thru": "16"
     },
     {
-      "name": "Sam Burns",
+      "name": "Mac Meissner",
       "total_score": -4,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999,
       "thru": "16"
-    },
-    {
-      "name": "Tom Kim",
-      "total_score": -4,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999,
-      "thru": "14"
     },
     {
       "name": "Rasmus H\u00f8jgaard",
@@ -314,15 +330,7 @@
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999,
-      "thru": "13"
-    },
-    {
-      "name": "Jeffrey Kang",
-      "total_score": -4,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999,
-      "thru": "12"
+      "thru": "15"
     },
     {
       "name": "Beau Hossler",
@@ -330,7 +338,23 @@
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999,
-      "thru": "12"
+      "thru": "15"
+    },
+    {
+      "name": "Pontus Nyholm",
+      "total_score": -4,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999,
+      "thru": "14"
+    },
+    {
+      "name": "Jimmy Stanger",
+      "total_score": -4,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999,
+      "thru": "14"
     },
     {
       "name": "Jesper Svensson",
@@ -338,7 +362,7 @@
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999,
-      "thru": "11"
+      "thru": "13"
     },
     {
       "name": "Davis Riley",
@@ -389,7 +413,23 @@
       "thru": "F"
     },
     {
+      "name": "William Mouw",
+      "total_score": -3,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999,
+      "thru": "F"
+    },
+    {
       "name": "Steven Fisk",
+      "total_score": -3,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999,
+      "thru": "F"
+    },
+    {
+      "name": "Chris Gotterup",
       "total_score": -3,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -405,52 +445,20 @@
       "thru": "F"
     },
     {
-      "name": "Matthieu Pavon",
+      "name": "Sam Burns",
       "total_score": -3,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999,
-      "thru": "17"
+      "thru": "F"
     },
     {
-      "name": "Ben Griffin",
+      "name": "Kurt Kitayama",
       "total_score": -3,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999,
       "thru": "16"
-    },
-    {
-      "name": "Danny Willett",
-      "total_score": -3,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999,
-      "thru": "16"
-    },
-    {
-      "name": "Chris Gotterup",
-      "total_score": -3,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999,
-      "thru": "16"
-    },
-    {
-      "name": "Harry Hall",
-      "total_score": -3,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999,
-      "thru": "15"
-    },
-    {
-      "name": "Aldrich Potgieter",
-      "total_score": -3,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999,
-      "thru": "14"
     },
     {
       "name": "Tom Hoge",
@@ -458,23 +466,7 @@
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999,
-      "thru": "14"
-    },
-    {
-      "name": "Pontus Nyholm",
-      "total_score": -3,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999,
-      "thru": "12"
-    },
-    {
-      "name": "Jimmy Stanger",
-      "total_score": -3,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999,
-      "thru": "12"
+      "thru": "16"
     },
     {
       "name": "Peter Malnati",
@@ -494,6 +486,14 @@
     },
     {
       "name": "Erik van Rooyen",
+      "total_score": -2,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999,
+      "thru": "F"
+    },
+    {
+      "name": "Ben Griffin",
       "total_score": -2,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -525,6 +525,22 @@
       "thru": "F"
     },
     {
+      "name": "Matthieu Pavon",
+      "total_score": -2,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999,
+      "thru": "F"
+    },
+    {
+      "name": "Danny Willett",
+      "total_score": -2,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999,
+      "thru": "F"
+    },
+    {
       "name": "Kevin Roy",
       "total_score": -2,
       "round_scores": [],
@@ -541,7 +557,7 @@
       "thru": "F"
     },
     {
-      "name": "William Mouw",
+      "name": "Michael Brennan",
       "total_score": -2,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -549,15 +565,7 @@
       "thru": "16"
     },
     {
-      "name": "Kurt Kitayama",
-      "total_score": -2,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999,
-      "thru": "14"
-    },
-    {
-      "name": "Michael Brennan",
+      "name": "Davis Chatfield",
       "total_score": -2,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -565,31 +573,15 @@
       "thru": "13"
     },
     {
-      "name": "Lee Hodges",
-      "total_score": -2,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999,
-      "thru": "12"
-    },
-    {
-      "name": "Patrick Fishburn",
-      "total_score": -2,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999,
-      "thru": "12"
-    },
-    {
-      "name": "Davis Chatfield",
-      "total_score": -2,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999,
-      "thru": "11"
-    },
-    {
       "name": "Mason Howell",
+      "total_score": -1,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999,
+      "thru": "F"
+    },
+    {
+      "name": "Nick Dunlap",
       "total_score": -1,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -661,20 +653,12 @@
       "thru": "F"
     },
     {
-      "name": "Doug Ghim",
-      "total_score": -1,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999,
-      "thru": "16"
-    },
-    {
       "name": "Garrick Higgo",
       "total_score": -1,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999,
-      "thru": "15"
+      "thru": "17"
     },
     {
       "name": "Takumi Kanaya",
@@ -682,7 +666,7 @@
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999,
-      "thru": "13"
+      "thru": "15"
     },
     {
       "name": "Hank Lebioda",
@@ -690,18 +674,18 @@
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999,
-      "thru": "13"
-    },
-    {
-      "name": "Adrien Saddier",
-      "total_score": -1,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999,
-      "thru": "12"
+      "thru": "15"
     },
     {
       "name": "Davis Thompson",
+      "total_score": 0,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999,
+      "thru": "F"
+    },
+    {
+      "name": "Doug Ghim",
       "total_score": 0,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -749,36 +733,12 @@
       "thru": "F"
     },
     {
-      "name": "Nick Dunlap",
-      "total_score": 0,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999,
-      "thru": "17"
-    },
-    {
       "name": "Rickie Fowler",
       "total_score": 0,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999,
-      "thru": "17"
-    },
-    {
-      "name": "Nico Echavarria",
-      "total_score": 0,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999,
-      "thru": "16"
-    },
-    {
-      "name": "Kevin Yu",
-      "total_score": 0,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999,
-      "thru": "14"
+      "thru": "F"
     },
     {
       "name": "Aaron Wise",
@@ -786,7 +746,39 @@
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999,
-      "thru": "13"
+      "thru": "16"
+    },
+    {
+      "name": "Lee Hodges",
+      "total_score": 0,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999,
+      "thru": "15"
+    },
+    {
+      "name": "Adrien Saddier",
+      "total_score": 0,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999,
+      "thru": "14"
+    },
+    {
+      "name": "Patrick Fishburn",
+      "total_score": 0,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999,
+      "thru": "14"
+    },
+    {
+      "name": "Rasmus Neergaard-Petersen",
+      "total_score": 0,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999,
+      "thru": "12"
     },
     {
       "name": "Pierceson Coody",
@@ -798,6 +790,14 @@
     },
     {
       "name": "Christo Lamprecht",
+      "total_score": 1,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999,
+      "thru": "F"
+    },
+    {
+      "name": "Nico Echavarria",
       "total_score": 1,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -821,12 +821,28 @@
       "thru": "F"
     },
     {
+      "name": "Ryan Gerard",
+      "total_score": 1,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999,
+      "thru": "17"
+    },
+    {
+      "name": "Kevin Yu",
+      "total_score": 1,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999,
+      "thru": "16"
+    },
+    {
       "name": "Dylan Wu",
       "total_score": 1,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999,
-      "thru": "13"
+      "thru": "15"
     },
     {
       "name": "Jordan Smith",
@@ -834,7 +850,7 @@
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999,
-      "thru": "12"
+      "thru": "14"
     },
     {
       "name": "Alejandro Tosti",
@@ -842,26 +858,26 @@
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999,
-      "thru": "11"
+      "thru": "13"
     },
     {
-      "name": "Casey Russell",
+      "name": "Isaiah Salinda",
       "total_score": 1,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999,
-      "thru": "10"
-    },
-    {
-      "name": "Rasmus Neergaard-Petersen",
-      "total_score": 1,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999,
-      "thru": "10"
+      "thru": "13"
     },
     {
       "name": "A.J. Ewart",
+      "total_score": 2,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999,
+      "thru": "F"
+    },
+    {
+      "name": "Wyndham Clark",
       "total_score": 2,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -877,28 +893,28 @@
       "thru": "F"
     },
     {
-      "name": "Wyndham Clark",
-      "total_score": 2,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999,
-      "thru": "17"
-    },
-    {
-      "name": "Ryan Gerard",
-      "total_score": 2,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999,
-      "thru": "15"
-    },
-    {
       "name": "Ryan Fox",
       "total_score": 2,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999,
-      "thru": "14"
+      "thru": "16"
+    },
+    {
+      "name": "Dan Brown",
+      "total_score": 2,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999,
+      "thru": "13"
+    },
+    {
+      "name": "Casey Russell",
+      "total_score": 2,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999,
+      "thru": "12"
     },
     {
       "name": "Gordon Sargent",
@@ -923,22 +939,6 @@
       "status": "STATUS_ACTIVE",
       "position": 999,
       "thru": "F"
-    },
-    {
-      "name": "Isaiah Salinda",
-      "total_score": 3,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999,
-      "thru": "11"
-    },
-    {
-      "name": "Dan Brown",
-      "total_score": 3,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999,
-      "thru": "11"
     },
     {
       "name": "Kris Ventura",
@@ -1010,7 +1010,7 @@
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999,
-      "thru": "13"
+      "thru": "15"
     },
     {
       "name": "Rafael Campos",
@@ -1026,7 +1026,15 @@
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999,
-      "thru": "16"
+      "thru": "F"
+    },
+    {
+      "name": "Kristoffer Reitan",
+      "total_score": 5,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999,
+      "thru": "15"
     },
     {
       "name": "S.H. Kim",
@@ -1059,14 +1067,6 @@
       "status": "STATUS_ACTIVE",
       "position": 999,
       "thru": "F"
-    },
-    {
-      "name": "Kristoffer Reitan",
-      "total_score": 7,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999,
-      "thru": "13"
     },
     {
       "name": "Lucas Glover",
