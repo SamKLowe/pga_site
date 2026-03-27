@@ -2,7 +2,7 @@
   "event_name": "Texas Children's Houston Open",
   "round": 2,
   "is_complete": false,
-  "last_updated": "2026-03-27T18:39:40.867094+00:00",
+  "last_updated": "2026-03-27T18:41:27.541340+00:00",
   "players": [
     {
       "name": "Gary Woodland",
@@ -355,6 +355,13 @@
       "position": 999
     },
     {
+      "name": "Shane Lowry",
+      "total_score": -2,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
       "name": "Danny Willett",
       "total_score": -2,
       "round_scores": [],
@@ -376,6 +383,13 @@
       "position": 999
     },
     {
+      "name": "Rickie Fowler",
+      "total_score": -2,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
       "name": "Brian Campbell",
       "total_score": -2,
       "round_scores": [],
@@ -384,20 +398,6 @@
     },
     {
       "name": "William Mouw",
-      "total_score": -2,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Shane Lowry",
-      "total_score": -2,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Rickie Fowler",
       "total_score": -2,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -565,6 +565,13 @@
       "position": 999
     },
     {
+      "name": "Tom Kim",
+      "total_score": -1,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
       "name": "Jeffrey Kang",
       "total_score": -1,
       "round_scores": [],
@@ -656,13 +663,6 @@
       "position": 999
     },
     {
-      "name": "Tom Kim",
-      "total_score": 0,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
       "name": "Dylan Wu",
       "total_score": 0,
       "round_scores": [],
@@ -747,14 +747,14 @@
       "position": 999
     },
     {
-      "name": "A.J. Ewart",
-      "total_score": 2,
+      "name": "Christo Lamprecht",
+      "total_score": 1,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999
     },
     {
-      "name": "Christo Lamprecht",
+      "name": "A.J. Ewart",
       "total_score": 2,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -838,6 +838,13 @@
       "position": 999
     },
     {
+      "name": "Kensei Hirata",
+      "total_score": 4,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
       "name": "Patrick Rodgers",
       "total_score": 4,
       "round_scores": [],
@@ -853,13 +860,6 @@
     },
     {
       "name": "Patton Kizzire",
-      "total_score": 4,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Kensei Hirata",
       "total_score": 4,
       "round_scores": [],
       "status": "STATUS_ACTIVE",

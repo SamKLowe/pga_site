@@ -2,7 +2,7 @@
   "tournament": "Texas Children's Houston Open 2026",
   "round": 2,
   "is_complete": false,
-  "last_updated": "2026-03-27T18:39:40.867094+00:00",
+  "last_updated": "2026-03-27T18:41:27.541340+00:00",
   "standings": [
     {
       "participant": "Riley",
@@ -270,7 +270,7 @@
     },
     {
       "participant": "Nathan",
-      "combined_score": -7,
+      "combined_score": -8,
       "top4": [
         {
           "name": "Jake Knapp",
@@ -286,7 +286,7 @@
         },
         {
           "name": "Tom Kim",
-          "total_score": 0,
+          "total_score": -1,
           "status": "STATUS_ACTIVE",
           "found": true
         },
