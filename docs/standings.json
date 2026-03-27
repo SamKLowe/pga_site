@@ -2,7 +2,7 @@
   "tournament": "Texas Children's Houston Open 2026",
   "round": 2,
   "is_complete": false,
-  "last_updated": "2026-03-27T18:37:07.204685+00:00",
+  "last_updated": "2026-03-27T18:40:49.055778+00:00",
   "standings": [
     {
       "participant": "Riley",
@@ -49,50 +49,6 @@
       ]
     },
     {
-      "participant": "Riguy",
-      "combined_score": -14,
-      "top4": [
-        {
-          "name": "Marco Penge",
-          "total_score": -4,
-          "status": "STATUS_ACTIVE",
-          "found": true
-        },
-        {
-          "name": "Ricky Castillo",
-          "total_score": -4,
-          "status": "STATUS_ACTIVE",
-          "found": true
-        },
-        {
-          "name": "Matti Schmid",
-          "total_score": -4,
-          "status": "STATUS_ACTIVE",
-          "found": true
-        },
-        {
-          "name": "Shane Lowry",
-          "total_score": -2,
-          "status": "STATUS_ACTIVE",
-          "found": true
-        }
-      ],
-      "dropped": [
-        {
-          "name": "Eric Cole",
-          "total_score": -2,
-          "status": "STATUS_ACTIVE",
-          "found": true
-        },
-        {
-          "name": "S.H. Kim",
-          "total_score": 6,
-          "status": "STATUS_ACTIVE",
-          "found": true
-        }
-      ]
-    },
-    {
       "participant": "Janos",
       "combined_score": -13,
       "top4": [
@@ -131,6 +87,50 @@
         {
           "name": "Brooks Koepka",
           "total_score": 4,
+          "status": "STATUS_ACTIVE",
+          "found": true
+        }
+      ]
+    },
+    {
+      "participant": "Riguy",
+      "combined_score": -13,
+      "top4": [
+        {
+          "name": "Ricky Castillo",
+          "total_score": -4,
+          "status": "STATUS_ACTIVE",
+          "found": true
+        },
+        {
+          "name": "Matti Schmid",
+          "total_score": -4,
+          "status": "STATUS_ACTIVE",
+          "found": true
+        },
+        {
+          "name": "Marco Penge",
+          "total_score": -3,
+          "status": "STATUS_ACTIVE",
+          "found": true
+        },
+        {
+          "name": "Shane Lowry",
+          "total_score": -2,
+          "status": "STATUS_ACTIVE",
+          "found": true
+        }
+      ],
+      "dropped": [
+        {
+          "name": "Eric Cole",
+          "total_score": -2,
+          "status": "STATUS_ACTIVE",
+          "found": true
+        },
+        {
+          "name": "S.H. Kim",
+          "total_score": 6,
           "status": "STATUS_ACTIVE",
           "found": true
         }
@@ -538,5 +538,57 @@
     "golfer": "Min Woo Lee",
     "score": -9,
     "is_fallback": true
-  }
+  },
+  "top10": [
+    {
+      "name": "Gary Woodland",
+      "total_score": -13,
+      "status": "STATUS_ACTIVE"
+    },
+    {
+      "name": "Min Woo Lee",
+      "total_score": -9,
+      "status": "STATUS_ACTIVE"
+    },
+    {
+      "name": "Michael Thorbjornsen",
+      "total_score": -8,
+      "status": "STATUS_ACTIVE"
+    },
+    {
+      "name": "Karl Vilips",
+      "total_score": -7,
+      "status": "STATUS_ACTIVE"
+    },
+    {
+      "name": "Adam Scott",
+      "total_score": -7,
+      "status": "STATUS_ACTIVE"
+    },
+    {
+      "name": "Zecheng Dou",
+      "total_score": -7,
+      "status": "STATUS_ACTIVE"
+    },
+    {
+      "name": "Paul Waring",
+      "total_score": -7,
+      "status": "STATUS_ACTIVE"
+    },
+    {
+      "name": "Sam Ryder",
+      "total_score": -6,
+      "status": "STATUS_ACTIVE"
+    },
+    {
+      "name": "Jake Knapp",
+      "total_score": -6,
+      "status": "STATUS_ACTIVE"
+    },
+    {
+      "name": "Matt Wallace",
+      "total_score": -6,
+      "status": "STATUS_ACTIVE"
+    }
+  ]
 }
