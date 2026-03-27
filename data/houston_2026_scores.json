@@ -2,7 +2,7 @@
   "event_name": "Texas Children's Houston Open",
   "round": 2,
   "is_complete": false,
-  "last_updated": "2026-03-27T18:40:49.055778+00:00",
+  "last_updated": "2026-03-27T18:39:40.867094+00:00",
   "players": [
     {
       "name": "Gary Woodland",
@@ -355,13 +355,6 @@
       "position": 999
     },
     {
-      "name": "Shane Lowry",
-      "total_score": -2,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
       "name": "Danny Willett",
       "total_score": -2,
       "round_scores": [],
@@ -391,6 +384,13 @@
     },
     {
       "name": "William Mouw",
+      "total_score": -2,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Shane Lowry",
       "total_score": -2,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
