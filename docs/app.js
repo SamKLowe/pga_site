@@ -58,7 +58,7 @@ function renderStandings(data) {
     row.className = "lb-row";
     row.innerHTML = `
       <span class="lb-pos">${i + 1}</span>
-      <span class="lb-name">${p.name}</span>
+      <span class="lb-name">${p.name}${p.drafted_by ? `<span class="lb-owner">${p.drafted_by}</span>` : ""}</span>
       <span class="lb-thru">${p.thru || "-"}</span>
       <span class="lb-score ${scoreClass(p.total_score)}">${fmtScore(p.total_score)}</span>`;
     lb.appendChild(row);

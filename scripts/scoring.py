@@ -99,10 +99,27 @@ def calculate_standings(draft, leaderboard):
                 best["is_fallback"] = True
             leader_pick = best
 
-    top10 = [
-        {"name": p["name"], "total_score": p["total_score"], "status": p["status"], "thru": p.get("thru", "-")}
-        for p in leaderboard.get("players", [])[:10]
-    ]
+    # Build a map of player name -> participant who drafted them
+    pick_owner = {}
+    for participant in draft["participants"]:
+        for pick in participant["picks"]:
+            pick_owner[normalize(pick)] = participant["name"]
+
+    top10 = []
+    for p in leaderboard.get("players", [])[:10]:
+        owner = None
+        p_key = normalize(p["name"])
+        for pick_key, name in pick_owner.items():
+            if pick_key in p_key or p_key in pick_key:
+                owner = name
+                break
+        top10.append({
+            "name": p["name"],
+            "total_score": p["total_score"],
+            "status": p["status"],
+            "thru": p.get("thru", "-"),
+            "drafted_by": owner,
+        })
 
     return {
         "tournament": draft["tournament"],
