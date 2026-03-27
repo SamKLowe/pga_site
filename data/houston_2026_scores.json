@@ -2,7 +2,7 @@
   "event_name": "Texas Children's Houston Open",
   "round": 2,
   "is_complete": false,
-  "last_updated": "2026-03-27T18:41:27.541340+00:00",
+  "last_updated": "2026-03-27T18:43:37.196269+00:00",
   "players": [
     {
       "name": "Gary Woodland",
@@ -320,6 +320,13 @@
       "position": 999
     },
     {
+      "name": "John Parry",
+      "total_score": -2,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
       "name": "Luke Clanton",
       "total_score": -2,
       "round_scores": [],
@@ -355,6 +362,13 @@
       "position": 999
     },
     {
+      "name": "Chad Ramey",
+      "total_score": -2,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
       "name": "Shane Lowry",
       "total_score": -2,
       "round_scores": [],
@@ -370,13 +384,6 @@
     },
     {
       "name": "Keith Mitchell",
-      "total_score": -2,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Chad Ramey",
       "total_score": -2,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -412,13 +419,6 @@
     },
     {
       "name": "Aaron Wise",
-      "total_score": -2,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Mac Meissner",
       "total_score": -2,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -509,13 +509,6 @@
       "position": 999
     },
     {
-      "name": "John Parry",
-      "total_score": -1,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
       "name": "Cole Hammer",
       "total_score": -1,
       "round_scores": [],
@@ -566,6 +559,13 @@
     },
     {
       "name": "Tom Kim",
+      "total_score": -1,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Mac Meissner",
       "total_score": -1,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -698,7 +698,7 @@
       "position": 999
     },
     {
-      "name": "David Ford",
+      "name": "Christo Lamprecht",
       "total_score": 1,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -706,6 +706,20 @@
     },
     {
       "name": "Haotong Li",
+      "total_score": 1,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "David Ford",
+      "total_score": 1,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999
+    },
+    {
+      "name": "Nick Dunlap",
       "total_score": 1,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -747,13 +761,6 @@
       "position": 999
     },
     {
-      "name": "Christo Lamprecht",
-      "total_score": 1,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
       "name": "A.J. Ewart",
       "total_score": 2,
       "round_scores": [],
@@ -775,7 +782,7 @@
       "position": 999
     },
     {
-      "name": "Nick Dunlap",
+      "name": "Garrick Higgo",
       "total_score": 2,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -783,13 +790,6 @@
     },
     {
       "name": "Nico Echavarria",
-      "total_score": 2,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999
-    },
-    {
-      "name": "Garrick Higgo",
       "total_score": 2,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
