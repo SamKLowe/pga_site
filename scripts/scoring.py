@@ -97,6 +97,11 @@ def calculate_standings(draft, leaderboard):
                 best["is_fallback"] = True
             leader_pick = best
 
+    top10 = [
+        {"name": p["name"], "total_score": p["total_score"], "status": p["status"]}
+        for p in leaderboard.get("players", [])[:10]
+    ]
+
     return {
         "tournament": draft["tournament"],
         "round": leaderboard["round"],
@@ -104,4 +109,5 @@ def calculate_standings(draft, leaderboard):
         "last_updated": leaderboard["last_updated"],
         "standings": standings,
         "leader_pick": leader_pick,
+        "top10": top10,
     }

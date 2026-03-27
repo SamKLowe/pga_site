@@ -50,6 +50,19 @@ function renderStandings(data) {
       `Combined top-4: ${fmtScore(best.combined_score)}`;
   }
 
+  // Tournament leaderboard
+  const lb = document.getElementById("leaderboard");
+  lb.innerHTML = "";
+  (data.top10 || []).forEach((p, i) => {
+    const row = document.createElement("div");
+    row.className = "lb-row";
+    row.innerHTML = `
+      <span class="lb-pos">${i + 1}</span>
+      <span class="lb-name">${p.name}</span>
+      <span class="lb-score ${scoreClass(p.total_score)}">${fmtScore(p.total_score)}</span>`;
+    lb.appendChild(row);
+  });
+
   // Standings list
   const container = document.getElementById("standings");
   container.innerHTML = "";

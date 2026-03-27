@@ -157,6 +157,28 @@
 
     .loading { text-align: center; padding: 60px; color: var(--text-muted); }
     .error   { text-align: center; padding: 60px; color: var(--red); }
+
+    /* Tournament leaderboard */
+    .leaderboard {
+      background: var(--card-bg);
+      border: 1px solid var(--card-border);
+      border-radius: 8px;
+      overflow: hidden;
+      margin-bottom: 28px;
+    }
+    .lb-row {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      padding: 10px 16px;
+      border-bottom: 1px solid var(--card-border);
+      font-size: 0.9rem;
+    }
+    .lb-row:last-child { border-bottom: none; }
+    .lb-row:first-child { border-top: 3px solid var(--gold); }
+    .lb-pos { width: 28px; font-weight: 700; color: var(--text-muted); flex-shrink: 0; }
+    .lb-name { flex: 1; }
+    .lb-score { font-weight: 700; min-width: 42px; text-align: right; }
   </style>
 </head>
 <body>
@@ -186,6 +208,9 @@
     <div class="standings" id="standings">
       <div class="loading">Loading standings...</div>
     </div>
+
+    <div class="section-title" style="margin-top:32px">Tournament Leaderboard</div>
+    <div class="leaderboard" id="leaderboard"></div>
   </main>
 
   <script src="app.js"></script>
