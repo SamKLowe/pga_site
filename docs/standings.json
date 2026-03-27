@@ -2,7 +2,7 @@
   "tournament": "Texas Children's Houston Open 2026",
   "round": 2,
   "is_complete": false,
-  "last_updated": "2026-03-27T23:17:20.130486+00:00",
+  "last_updated": "2026-03-27T23:53:51.105251+00:00",
   "standings": [
     {
       "participant": "Riley",
@@ -419,7 +419,7 @@
           "name": "Jesper Svensson",
           "total_score": -3,
           "status": "STATUS_ACTIVE",
-          "thru": "15",
+          "thru": "F",
           "found": true
         },
         {
@@ -630,7 +630,7 @@
       "name": "Jackson Suber",
       "total_score": -10,
       "status": "STATUS_ACTIVE",
-      "thru": "15",
+      "thru": "17",
       "drafted_by": null
     },
     {
