@@ -1,8 +1,8 @@
 {
   "event_name": "Texas Children's Houston Open",
   "round": 2,
-  "is_complete": false,
-  "last_updated": "2026-03-27T23:53:51.105251+00:00",
+  "is_complete": true,
+  "last_updated": "2026-03-28T02:40:12.821047+00:00",
   "players": [
     {
       "name": "Gary Woodland",
@@ -26,7 +26,7 @@
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999,
-      "thru": "17"
+      "thru": "F"
     },
     {
       "name": "Min Woo Lee",
@@ -677,6 +677,14 @@
       "thru": "F"
     },
     {
+      "name": "Rasmus Neergaard-Petersen",
+      "total_score": -1,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999,
+      "thru": "F"
+    },
+    {
       "name": "Taylor Moore",
       "total_score": -1,
       "round_scores": [],
@@ -699,14 +707,6 @@
       "status": "STATUS_ACTIVE",
       "position": 999,
       "thru": "F"
-    },
-    {
-      "name": "Rasmus Neergaard-Petersen",
-      "total_score": -1,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999,
-      "thru": "17"
     },
     {
       "name": "Ryan Gerard",
