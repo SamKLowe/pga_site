@@ -2,7 +2,7 @@
   "tournament": "Texas Children's Houston Open 2026",
   "round": 3,
   "is_complete": false,
-  "last_updated": "2026-03-28T20:37:46.460852+00:00",
+  "last_updated": "2026-03-28T21:04:26.125831+00:00",
   "standings": [
     {
       "participant": "Riley",
@@ -12,7 +12,7 @@
           "name": "Min Woo Lee",
           "total_score": -10,
           "status": "STATUS_ACTIVE",
-          "thru": "14",
+          "thru": "15",
           "found": true
         },
         {
@@ -26,7 +26,7 @@
           "name": "Alex Smalley",
           "total_score": -5,
           "status": "STATUS_ACTIVE",
-          "thru": "17",
+          "thru": "F",
           "found": true
         },
         {
@@ -62,7 +62,7 @@
           "name": "Michael Thorbjornsen",
           "total_score": -10,
           "status": "STATUS_ACTIVE",
-          "thru": "13",
+          "thru": "15",
           "found": true
         },
         {
@@ -112,7 +112,7 @@
           "name": "Sahith Theegala",
           "total_score": -10,
           "status": "STATUS_ACTIVE",
-          "thru": "17",
+          "thru": "F",
           "found": true
         },
         {
@@ -162,7 +162,7 @@
           "name": "Jason Day",
           "total_score": -10,
           "status": "STATUS_ACTIVE",
-          "thru": "13",
+          "thru": "15",
           "found": true
         },
         {
@@ -356,7 +356,7 @@
     },
     {
       "participant": "Nathan",
-      "combined_score": -9,
+      "combined_score": -11,
       "top4": [
         {
           "name": "Tom Kim",
@@ -366,17 +366,17 @@
           "found": true
         },
         {
+          "name": "Jake Knapp",
+          "total_score": -4,
+          "status": "STATUS_ACTIVE",
+          "thru": "17",
+          "found": true
+        },
+        {
           "name": "Christiaan Bezuidenhout",
           "total_score": -3,
           "status": "STATUS_ACTIVE",
           "thru": "F",
-          "found": true
-        },
-        {
-          "name": "Jake Knapp",
-          "total_score": -2,
-          "status": "STATUS_ACTIVE",
-          "thru": "15",
           "found": true
         },
         {
@@ -462,7 +462,7 @@
           "name": "Adam Scott",
           "total_score": -8,
           "status": "STATUS_ACTIVE",
-          "thru": "15",
+          "thru": "16",
           "found": true
         },
         {
@@ -512,7 +512,7 @@
           "name": "Keith Mitchell",
           "total_score": -5,
           "status": "STATUS_ACTIVE",
-          "thru": "16",
+          "thru": "F",
           "found": true
         },
         {
@@ -616,14 +616,21 @@
       "name": "Gary Woodland",
       "total_score": -16,
       "status": "STATUS_ACTIVE",
-      "thru": "13",
+      "thru": "15",
       "drafted_by": null
     },
     {
       "name": "Nicolai H\u00f8jgaard",
-      "total_score": -14,
+      "total_score": -15,
       "status": "STATUS_ACTIVE",
-      "thru": "13",
+      "thru": "15",
+      "drafted_by": null
+    },
+    {
+      "name": "Sam Stevens",
+      "total_score": -11,
+      "status": "STATUS_ACTIVE",
+      "thru": "16",
       "drafted_by": null
     },
     {
@@ -637,43 +644,36 @@
       "name": "Sahith Theegala",
       "total_score": -10,
       "status": "STATUS_ACTIVE",
-      "thru": "17",
+      "thru": "F",
       "drafted_by": "Nicky"
     },
     {
       "name": "Paul Waring",
       "total_score": -10,
       "status": "STATUS_ACTIVE",
-      "thru": "17",
+      "thru": "F",
       "drafted_by": null
-    },
-    {
-      "name": "Sam Stevens",
-      "total_score": -10,
-      "status": "STATUS_ACTIVE",
-      "thru": "15",
-      "drafted_by": null
-    },
-    {
-      "name": "Min Woo Lee",
-      "total_score": -10,
-      "status": "STATUS_ACTIVE",
-      "thru": "14",
-      "drafted_by": "Riley"
     },
     {
       "name": "Michael Thorbjornsen",
       "total_score": -10,
       "status": "STATUS_ACTIVE",
-      "thru": "13",
+      "thru": "15",
       "drafted_by": "Christian"
     },
     {
       "name": "Jason Day",
       "total_score": -10,
       "status": "STATUS_ACTIVE",
-      "thru": "13",
+      "thru": "15",
       "drafted_by": "Janos"
+    },
+    {
+      "name": "Min Woo Lee",
+      "total_score": -10,
+      "status": "STATUS_ACTIVE",
+      "thru": "15",
+      "drafted_by": "Riley"
     },
     {
       "name": "Johnny Keefer",
