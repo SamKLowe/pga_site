@@ -1,8 +1,8 @@
 {
   "event_name": "Texas Children's Houston Open",
   "round": 4,
-  "is_complete": false,
-  "last_updated": "2026-03-29T21:47:45.473035+00:00",
+  "is_complete": true,
+  "last_updated": "2026-03-29T22:37:23.855777+00:00",
   "players": [
     {
       "name": "Gary Woodland",
@@ -10,18 +10,26 @@
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999,
-      "thru": "17"
+      "thru": "F"
     },
     {
       "name": "Nicolai H\u00f8jgaard",
-      "total_score": -17,
+      "total_score": -16,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999,
-      "thru": "17"
+      "thru": "F"
     },
     {
       "name": "Johnny Keefer",
+      "total_score": -15,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999,
+      "thru": "F"
+    },
+    {
+      "name": "Min Woo Lee",
       "total_score": -15,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -34,15 +42,7 @@
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999,
-      "thru": "17"
-    },
-    {
-      "name": "Min Woo Lee",
-      "total_score": -14,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999,
-      "thru": "17"
+      "thru": "F"
     },
     {
       "name": "Jake Knapp",
@@ -74,7 +74,7 @@
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999,
-      "thru": "17"
+      "thru": "F"
     },
     {
       "name": "Bronson Burgoon",
@@ -146,7 +146,7 @@
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999,
-      "thru": "17"
+      "thru": "F"
     },
     {
       "name": "Max McGreevy",
