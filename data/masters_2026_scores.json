@@ -1,8 +1,8 @@
 {
   "event_name": "Masters Tournament",
   "round": 1,
-  "is_complete": false,
-  "last_updated": "2026-04-09T22:49:26.019514+00:00",
+  "is_complete": true,
+  "last_updated": "2026-04-09T23:41:02.341919+00:00",
   "players": [
     {
       "name": "Sam Burns",
@@ -55,14 +55,6 @@
       "thru": "F"
     },
     {
-      "name": "Justin Rose",
-      "total_score": -3,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999,
-      "thru": "17"
-    },
-    {
       "name": "Shane Lowry",
       "total_score": -2,
       "round_scores": [
@@ -83,12 +75,24 @@
       "thru": "F"
     },
     {
-      "name": "Scottie Scheffler",
+      "name": "Justin Rose",
       "total_score": -2,
-      "round_scores": [],
+      "round_scores": [
+        -2
+      ],
       "status": "STATUS_ACTIVE",
       "position": 999,
-      "thru": "16"
+      "thru": "F"
+    },
+    {
+      "name": "Scottie Scheffler",
+      "total_score": -2,
+      "round_scores": [
+        -2
+      ],
+      "status": "STATUS_ACTIVE",
+      "position": 999,
+      "thru": "F"
     },
     {
       "name": "Haotong Li",
@@ -151,28 +155,14 @@
       "thru": "F"
     },
     {
-      "name": "Ben Griffin",
-      "total_score": -1,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999,
-      "thru": "17"
-    },
-    {
       "name": "Gary Woodland",
       "total_score": -1,
-      "round_scores": [],
+      "round_scores": [
+        -1
+      ],
       "status": "STATUS_ACTIVE",
       "position": 999,
-      "thru": "16"
-    },
-    {
-      "name": "Harris English",
-      "total_score": -1,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999,
-      "thru": "15"
+      "thru": "F"
     },
     {
       "name": "Max Homa",
@@ -317,10 +307,22 @@
     {
       "name": "Justin Thomas",
       "total_score": 0,
-      "round_scores": [],
+      "round_scores": [
+        0
+      ],
       "status": "STATUS_ACTIVE",
       "position": 999,
-      "thru": "17"
+      "thru": "F"
+    },
+    {
+      "name": "Ben Griffin",
+      "total_score": 0,
+      "round_scores": [
+        0
+      ],
+      "status": "STATUS_ACTIVE",
+      "position": 999,
+      "thru": "F"
     },
     {
       "name": "Jake Knapp",
@@ -375,10 +377,30 @@
     {
       "name": "Sepp Straka",
       "total_score": 1,
+      "round_scores": [
+        1
+      ],
+      "status": "STATUS_ACTIVE",
+      "position": 999,
+      "thru": "F"
+    },
+    {
+      "name": "Harris English",
+      "total_score": 1,
+      "round_scores": [
+        1
+      ],
+      "status": "STATUS_ACTIVE",
+      "position": 999,
+      "thru": "F"
+    },
+    {
+      "name": "Michael Kim",
+      "total_score": 1,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999,
-      "thru": "17"
+      "thru": "7"
     },
     {
       "name": "Jos\u00e9 Mar\u00eda Olaz\u00e1bal",
@@ -461,14 +483,6 @@
       "thru": "F"
     },
     {
-      "name": "Si Woo Kim",
-      "total_score": 2,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999,
-      "thru": "15"
-    },
-    {
       "name": "Charl Schwartzel",
       "total_score": 3,
       "round_scores": [
@@ -519,7 +533,7 @@
       "thru": "F"
     },
     {
-      "name": "Michael Kim",
+      "name": "Corey Conners",
       "total_score": 3,
       "round_scores": [
         3
@@ -529,7 +543,7 @@
       "thru": "F"
     },
     {
-      "name": "Corey Conners",
+      "name": "Si Woo Kim",
       "total_score": 3,
       "round_scores": [
         3
@@ -619,6 +633,16 @@
       "thru": "F"
     },
     {
+      "name": "Marco Penge",
+      "total_score": 4,
+      "round_scores": [
+        4
+      ],
+      "status": "STATUS_ACTIVE",
+      "position": 999,
+      "thru": "F"
+    },
+    {
       "name": "Rasmus Neergaard-Petersen",
       "total_score": 5,
       "round_scores": [
@@ -697,14 +721,6 @@
       "status": "STATUS_ACTIVE",
       "position": 999,
       "thru": "F"
-    },
-    {
-      "name": "Marco Penge",
-      "total_score": 5,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999,
-      "thru": "15"
     },
     {
       "name": "Rasmus H\u00f8jgaard",
@@ -797,14 +813,6 @@
       "thru": "F"
     },
     {
-      "name": "Robert MacIntyre",
-      "total_score": 7,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999,
-      "thru": "16"
-    },
-    {
       "name": "Carlos Ortiz",
       "total_score": 8,
       "round_scores": [
@@ -826,6 +834,16 @@
     },
     {
       "name": "Fifa Laopakdee",
+      "total_score": 8,
+      "round_scores": [
+        8
+      ],
+      "status": "STATUS_ACTIVE",
+      "position": 999,
+      "thru": "F"
+    },
+    {
+      "name": "Robert MacIntyre",
       "total_score": 8,
       "round_scores": [
         8
