@@ -1,17 +1,17 @@
 {
-  "tournament": "The Masters 2026",
+  "tournament": "Masters Tournament 2026",
   "participants": [
-    { "name": "Steve",   "picks": ["Scottie Scheffler", "Rory McIlroy", "Jon Rahm", "Xander Schauffele", "Collin Morikawa", "Brooks Koepka"] },
-    { "name": "Mike",    "picks": ["Ludvig Aberg", "Hideki Matsuyama", "Patrick Cantlay", "Shane Lowry", "Tony Finau", "Tommy Fleetwood"] },
-    { "name": "Jake",    "picks": ["Viktor Hovland", "Jordan Spieth", "Justin Thomas", "Joaquin Niemann", "Min Woo Lee", "Russell Henley"] },
-    { "name": "Chris",   "picks": ["Cameron Smith", "Dustin Johnson", "Matt Fitzpatrick", "Sungjae Im", "Sepp Straka", "Adam Scott"] },
-    { "name": "Dave",    "picks": ["Jason Day", "Patrick Reed", "Bryson DeChambeau", "Keegan Bradley", "Davis Riley", "Sahith Theegala"] },
-    { "name": "Tom",     "picks": ["Sam Burns", "Will Zalatoris", "Cameron Young", "Max Homa", "Kurt Kitayama", "Tyrrell Hatton"] },
-    { "name": "Alex",    "picks": ["Nick Taylor", "Mackenzie Hughes", "Corey Conners", "Taylor Pendrith", "Adam Hadwin", "Roger Sloan"] },
-    { "name": "Ryan",    "picks": ["Rickie Fowler", "Billy Horschel", "Harris English", "Denny McCarthy", "Brendan Steele", "Scott Stallings"] },
-    { "name": "Kyle",    "picks": ["Brian Harman", "Akshay Bhatia", "Wyndham Clark", "Emiliano Grillo", "Erik van Rooyen", "Talor Gooch"] },
-    { "name": "Nick",    "picks": ["Andrew Putnam", "Taylor Moore", "Beau Hossler", "Ben Griffin", "Austin Eckroat", "Luke List"] },
-    { "name": "Tyler",   "picks": ["Mark Hubbard", "J.T. Poston", "Callum Tarren", "Peter Malnati", "Alex Smalley", "Zach Johnson"] },
-    { "name": "Brandon", "picks": ["Si Woo Kim", "Adam Svensson", "Nick Hardy", "Tom Hoge", "C.T. Pan", "Kevin Streelman"] }
+    { "name": "Sam",      "picks": ["Scottie Scheffler", "Adam Scott", "Akshay Bhatia", "Marco Penge", "Harry Hall", "Michael Brennan"] },
+    { "name": "Riley",    "picks": ["Jon Rahm", "Patrick Cantlay", "Sepp Straka", "Keegan Bradley", "Alexander Noren", "Aldrich Potgieter"] },
+    { "name": "Jim",      "picks": ["Rory McIlroy", "Justin Thomas", "Tyrrell Hatton", "Rasmus Hojgaard", "Ryan Gerard", "Andrew Novak"] },
+    { "name": "Austin",   "picks": ["Bryson DeChambeau", "Min Woo Lee", "Jason Day", "Sungjae Im", "Aaron Rai", "Michael Kim"] },
+    { "name": "Nathan",   "picks": ["Ludvig Aberg", "Si Woo Kim", "Jake Knapp", "Max Homa", "Nick Taylor", "John Keefer"] },
+    { "name": "Janos",    "picks": ["Xander Schauffele", "Viktor Hovland", "Shane Lowry", "Gary Woodland", "Brian Harman", "Rasmus Neergaard-Petersen"] },
+    { "name": "Bree",     "picks": ["Cameron Young", "Patrick Reed", "Sam Burns", "Daniel Berger", "Sam Stevens", "Kristoffer Reitan"] },
+    { "name": "Eric",     "picks": ["Tommy Fleetwood", "Chris Gotterup", "Corey Conners", "Ben Griffin", "Ryan Fox", "Nicolas Echavarria"] },
+    { "name": "Riguy",    "picks": ["Matt Fitzpatrick", "Russell Henley", "Nicolai Hojgaard", "Harris English", "Wyndham Clark", "Tom McKibbin"] },
+    { "name": "Casey",    "picks": ["Collin Morikawa", "Robert MacIntyre", "J.J. Spaun", "Cameron Smith", "Sergio Garcia", "Haotong Li"] },
+    { "name": "Nicky",    "picks": ["Justin Rose", "Hideki Matsuyama", "Kurt Kitayama", "Matthew McCarty", "Max Greyserman", "Carlos Ortiz"] },
+    { "name": "Christian","picks": ["Jordan Spieth", "Brooks Koepka", "Jacob Bridgeman", "Maverick McNealy", "Dustin Johnson", "Casey Jarvis"] }
   ]
 }
