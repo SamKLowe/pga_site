@@ -2,7 +2,7 @@
   "event_name": "Masters Tournament",
   "round": 1,
   "is_complete": false,
-  "last_updated": "2026-04-09T16:01:09.141719+00:00",
+  "last_updated": "2026-04-09T16:01:29.901784+00:00",
   "players": [
     {
       "name": "Kurt Kitayama",
@@ -74,7 +74,7 @@
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999,
-      "thru": "8"
+      "thru": "9"
     },
     {
       "name": "Akshay Bhatia",
@@ -578,7 +578,7 @@
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999,
-      "thru": "1"
+      "thru": "2"
     },
     {
       "name": "Zach Johnson",
