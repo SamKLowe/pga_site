@@ -2,7 +2,7 @@
   "event_name": "Masters Tournament",
   "round": 1,
   "is_complete": false,
-  "last_updated": "2026-04-09T13:55:01.407565+00:00",
+  "last_updated": "2026-04-09T13:57:02.731508+00:00",
   "players": [
     {
       "name": "Jos\u00e9 Mar\u00eda Olaz\u00e1bal",
@@ -10,7 +10,15 @@
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999,
-      "thru": "6"
+      "thru": "7"
+    },
+    {
+      "name": "Sam Burns",
+      "total_score": -2,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999,
+      "thru": "2"
     },
     {
       "name": "Kurt Kitayama",
@@ -19,6 +27,22 @@
       "status": "STATUS_ACTIVE",
       "position": 999,
       "thru": "4"
+    },
+    {
+      "name": "Jake Knapp",
+      "total_score": -1,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999,
+      "thru": "2"
+    },
+    {
+      "name": "Shane Lowry",
+      "total_score": -1,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999,
+      "thru": "1"
     },
     {
       "name": "Sami V\u00e4lim\u00e4ki",
@@ -61,20 +85,12 @@
       "thru": "4"
     },
     {
-      "name": "Jake Knapp",
+      "name": "Cameron Smith",
       "total_score": 0,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999,
-      "thru": "1"
-    },
-    {
-      "name": "Sam Burns",
-      "total_score": 0,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999,
-      "thru": "1"
+      "thru": "2"
     },
     {
       "name": "Nick Taylor",
@@ -90,7 +106,7 @@
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999,
-      "thru": "-"
+      "thru": "1"
     },
     {
       "name": "Dustin Johnson",
@@ -98,15 +114,7 @@
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999,
-      "thru": "-"
-    },
-    {
-      "name": "Shane Lowry",
-      "total_score": 0,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999,
-      "thru": "-"
+      "thru": "1"
     },
     {
       "name": "Tommy Fleetwood",
@@ -651,14 +659,6 @@
       "status": "STATUS_ACTIVE",
       "position": 999,
       "thru": "3"
-    },
-    {
-      "name": "Cameron Smith",
-      "total_score": 1,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999,
-      "thru": "1"
     },
     {
       "name": "Keegan Bradley",
