@@ -34,6 +34,14 @@ def main():
     with open(output_path, "w") as f:
         json.dump(result, f, indent=2)
     print(f"Standings saved to {output_path}")
+
+    # Copy config and active draft into docs/ so the browser can fetch them directly
+    docs_path = os.path.join(root, "docs")
+    with open(os.path.join(docs_path, "config.json"), "w") as f:
+        json.dump(config, f, indent=2)
+    with open(os.path.join(docs_path, "draft.json"), "w") as f:
+        json.dump(draft, f, indent=2)
+    print(f"Config and draft copied to docs/")
     print(f"Last updated: {result['last_updated']}")
 
 
