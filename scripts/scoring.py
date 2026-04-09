@@ -1,4 +1,5 @@
 import json
+import unicodedata
 
 
 def load_json(path):
@@ -6,8 +7,16 @@ def load_json(path):
         return json.load(f)
 
 
+_CHAR_MAP = str.maketrans('øæðþßÞÐ', 'oaedtsD'[:7])  # Scandinavian/special letters
+_CHAR_MAP.update({ord('ø'): 'o', ord('Ø'): 'o', ord('æ'): 'ae', ord('Æ'): 'ae',
+                  ord('ð'): 'd', ord('þ'): 'th', ord('ß'): 'ss'})
+
 def normalize(name):
-    return name.lower().strip()
+    # Map characters that don't decompose (ø→o, æ→ae, etc.) then strip diacritics
+    name = name.translate(_CHAR_MAP)
+    nfkd = unicodedata.normalize('NFKD', name)
+    ascii_str = nfkd.encode('ascii', 'ignore').decode('ascii')
+    return ascii_str.lower().strip()
 
 
 def find_player(pick_name, score_map):

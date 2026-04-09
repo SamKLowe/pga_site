@@ -2,39 +2,23 @@
   "event_name": "Masters Tournament",
   "round": 1,
   "is_complete": false,
-  "last_updated": "2026-04-09T12:48:05.849080+00:00",
+  "last_updated": "2026-04-09T13:54:48.552444+00:00",
   "players": [
     {
       "name": "Jos\u00e9 Mar\u00eda Olaz\u00e1bal",
+      "total_score": -2,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999,
+      "thru": "6"
+    },
+    {
+      "name": "Kurt Kitayama",
       "total_score": -1,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999,
-      "thru": "2"
-    },
-    {
-      "name": "Haotong Li",
-      "total_score": 0,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999,
       "thru": "4"
-    },
-    {
-      "name": "Max Homa",
-      "total_score": 0,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999,
-      "thru": "3"
-    },
-    {
-      "name": "\u00c1ngel Cabrera",
-      "total_score": 0,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999,
-      "thru": "1"
     },
     {
       "name": "Sami V\u00e4lim\u00e4ki",
@@ -42,7 +26,7 @@
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999,
-      "thru": "1"
+      "thru": "6"
     },
     {
       "name": "Max Greyserman",
@@ -50,7 +34,7 @@
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999,
-      "thru": "1"
+      "thru": "5"
     },
     {
       "name": "Vijay Singh",
@@ -58,7 +42,7 @@
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999,
-      "thru": "-"
+      "thru": "4"
     },
     {
       "name": "Rasmus H\u00f8jgaard",
@@ -66,7 +50,7 @@
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999,
-      "thru": "-"
+      "thru": "4"
     },
     {
       "name": "Matt McCarty",
@@ -74,63 +58,7 @@
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999,
-      "thru": "-"
-    },
-    {
-      "name": "Kurt Kitayama",
-      "total_score": 0,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999,
-      "thru": "-"
-    },
-    {
-      "name": "Kristoffer Reitan",
-      "total_score": 0,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999,
-      "thru": "-"
-    },
-    {
-      "name": "Casey Jarvis",
-      "total_score": 0,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999,
-      "thru": "-"
-    },
-    {
-      "name": "Bubba Watson",
-      "total_score": 0,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999,
-      "thru": "-"
-    },
-    {
-      "name": "Brandon Holtz",
-      "total_score": 0,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999,
-      "thru": "-"
-    },
-    {
-      "name": "Nico Echavarria",
-      "total_score": 0,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999,
-      "thru": "-"
-    },
-    {
-      "name": "Cameron Smith",
-      "total_score": 0,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999,
-      "thru": "-"
+      "thru": "4"
     },
     {
       "name": "Jake Knapp",
@@ -138,7 +66,7 @@
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999,
-      "thru": "-"
+      "thru": "1"
     },
     {
       "name": "Sam Burns",
@@ -146,7 +74,7 @@
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999,
-      "thru": "-"
+      "thru": "1"
     },
     {
       "name": "Nick Taylor",
@@ -154,23 +82,7 @@
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999,
-      "thru": "-"
-    },
-    {
-      "name": "Keegan Bradley",
-      "total_score": 0,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999,
-      "thru": "-"
-    },
-    {
-      "name": "Ryan Gerard",
-      "total_score": 0,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999,
-      "thru": "-"
+      "thru": "1"
     },
     {
       "name": "Jason Day",
@@ -669,20 +581,20 @@
       "thru": "-"
     },
     {
-      "name": "Johnny Keefer",
+      "name": "Haotong Li",
       "total_score": 1,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999,
-      "thru": "4"
+      "thru": "9"
     },
     {
-      "name": "Naoyuki Kataoka",
+      "name": "Max Homa",
       "total_score": 1,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999,
-      "thru": "3"
+      "thru": "7"
     },
     {
       "name": "Rasmus Neergaard-Petersen",
@@ -690,15 +602,7 @@
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999,
-      "thru": "2"
-    },
-    {
-      "name": "Jackson Herrington",
-      "total_score": 1,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999,
-      "thru": "1"
+      "thru": "6"
     },
     {
       "name": "Charl Schwartzel",
@@ -706,10 +610,50 @@
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999,
-      "thru": "1"
+      "thru": "5"
     },
     {
-      "name": "Ryan Fox",
+      "name": "Kristoffer Reitan",
+      "total_score": 1,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999,
+      "thru": "4"
+    },
+    {
+      "name": "Casey Jarvis",
+      "total_score": 1,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999,
+      "thru": "4"
+    },
+    {
+      "name": "Bubba Watson",
+      "total_score": 1,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999,
+      "thru": "3"
+    },
+    {
+      "name": "Brandon Holtz",
+      "total_score": 1,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999,
+      "thru": "3"
+    },
+    {
+      "name": "Nico Echavarria",
+      "total_score": 1,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999,
+      "thru": "3"
+    },
+    {
+      "name": "Cameron Smith",
       "total_score": 1,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
@@ -717,20 +661,76 @@
       "thru": "1"
     },
     {
-      "name": "Aldrich Potgieter",
+      "name": "Keegan Bradley",
+      "total_score": 1,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999,
+      "thru": "1"
+    },
+    {
+      "name": "Ryan Gerard",
+      "total_score": 1,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999,
+      "thru": "1"
+    },
+    {
+      "name": "Johnny Keefer",
       "total_score": 2,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999,
-      "thru": "2"
+      "thru": "9"
     },
     {
-      "name": "Carlos Ortiz",
+      "name": "\u00c1ngel Cabrera",
+      "total_score": 2,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999,
+      "thru": "6"
+    },
+    {
+      "name": "Jackson Herrington",
+      "total_score": 2,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999,
+      "thru": "6"
+    },
+    {
+      "name": "Naoyuki Kataoka",
+      "total_score": 3,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999,
+      "thru": "7"
+    },
+    {
+      "name": "Ryan Fox",
+      "total_score": 3,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999,
+      "thru": "5"
+    },
+    {
+      "name": "Aldrich Potgieter",
       "total_score": 4,
       "round_scores": [],
       "status": "STATUS_ACTIVE",
       "position": 999,
-      "thru": "3"
+      "thru": "6"
+    },
+    {
+      "name": "Carlos Ortiz",
+      "total_score": 7,
+      "round_scores": [],
+      "status": "STATUS_ACTIVE",
+      "position": 999,
+      "thru": "7"
     }
   ]
 }
