@@ -1,8 +1,8 @@
 {
   "tournament": "Masters Tournament 2026",
-  "round": 0,
+  "round": 1,
   "is_complete": false,
-  "last_updated": "2026-04-09T11:39:29.491753+00:00",
+  "last_updated": "2026-04-09T12:48:05.849080+00:00",
   "standings": [
     {
       "participant": "Austin",
@@ -140,9 +140,9 @@
       "dropped": [
         {
           "name": "Ryan Fox",
-          "total_score": 0,
+          "total_score": 1,
           "status": "STATUS_ACTIVE",
-          "thru": "-",
+          "thru": "1",
           "found": true,
           "note": null
         }
@@ -268,7 +268,7 @@
           "name": "Max Homa",
           "total_score": 0,
           "status": "STATUS_ACTIVE",
-          "thru": "-",
+          "thru": "3",
           "found": true,
           "note": null
         },
@@ -465,21 +465,21 @@
           "note": null
         },
         {
-          "name": "Carlos Ortiz",
-          "total_score": 0,
-          "status": "STATUS_ACTIVE",
-          "thru": "-",
-          "found": true,
-          "note": null
-        }
-      ],
-      "dropped": [
-        {
           "name": "Hao-Tong Li",
           "total_score": 0,
           "status": "NOT_FOUND",
           "thru": "-",
           "found": false,
+          "note": null
+        }
+      ],
+      "dropped": [
+        {
+          "name": "Carlos Ortiz",
+          "total_score": 4,
+          "status": "STATUS_ACTIVE",
+          "thru": "3",
+          "found": true,
           "note": null
         }
       ]
@@ -572,9 +572,9 @@
       "dropped": [
         {
           "name": "Charl Schwartzel",
-          "total_score": 0,
+          "total_score": 1,
           "status": "STATUS_ACTIVE",
-          "thru": "-",
+          "thru": "1",
           "found": true,
           "note": null
         }
@@ -637,74 +637,74 @@
   },
   "top10": [
     {
+      "name": "Jos\u00e9 Mar\u00eda Olaz\u00e1bal",
+      "total_score": -1,
+      "status": "STATUS_ACTIVE",
+      "thru": "2",
+      "drafted_by": null
+    },
+    {
       "name": "Haotong Li",
       "total_score": 0,
       "status": "STATUS_ACTIVE",
-      "thru": "-",
+      "thru": "4",
       "drafted_by": null
-    },
-    {
-      "name": "Johnny Keefer",
-      "total_score": 0,
-      "status": "STATUS_ACTIVE",
-      "thru": "-",
-      "drafted_by": null
-    },
-    {
-      "name": "Carlos Ortiz",
-      "total_score": 0,
-      "status": "STATUS_ACTIVE",
-      "thru": "-",
-      "drafted_by": "Eddie"
     },
     {
       "name": "Max Homa",
       "total_score": 0,
       "status": "STATUS_ACTIVE",
-      "thru": "-",
+      "thru": "3",
       "drafted_by": "Nicky"
-    },
-    {
-      "name": "Naoyuki Kataoka",
-      "total_score": 0,
-      "status": "STATUS_ACTIVE",
-      "thru": "-",
-      "drafted_by": null
-    },
-    {
-      "name": "Jos\u00e9 Mar\u00eda Olaz\u00e1bal",
-      "total_score": 0,
-      "status": "STATUS_ACTIVE",
-      "thru": "-",
-      "drafted_by": null
-    },
-    {
-      "name": "Rasmus Neergaard-Petersen",
-      "total_score": 0,
-      "status": "STATUS_ACTIVE",
-      "thru": "-",
-      "drafted_by": null
-    },
-    {
-      "name": "Aldrich Potgieter",
-      "total_score": 0,
-      "status": "STATUS_ACTIVE",
-      "thru": "-",
-      "drafted_by": null
     },
     {
       "name": "\u00c1ngel Cabrera",
       "total_score": 0,
       "status": "STATUS_ACTIVE",
-      "thru": "-",
+      "thru": "1",
       "drafted_by": null
     },
     {
       "name": "Sami V\u00e4lim\u00e4ki",
       "total_score": 0,
       "status": "STATUS_ACTIVE",
+      "thru": "1",
+      "drafted_by": null
+    },
+    {
+      "name": "Max Greyserman",
+      "total_score": 0,
+      "status": "STATUS_ACTIVE",
+      "thru": "1",
+      "drafted_by": null
+    },
+    {
+      "name": "Vijay Singh",
+      "total_score": 0,
+      "status": "STATUS_ACTIVE",
       "thru": "-",
       "drafted_by": null
+    },
+    {
+      "name": "Rasmus H\u00f8jgaard",
+      "total_score": 0,
+      "status": "STATUS_ACTIVE",
+      "thru": "-",
+      "drafted_by": null
+    },
+    {
+      "name": "Matt McCarty",
+      "total_score": 0,
+      "status": "STATUS_ACTIVE",
+      "thru": "-",
+      "drafted_by": null
+    },
+    {
+      "name": "Kurt Kitayama",
+      "total_score": 0,
+      "status": "STATUS_ACTIVE",
+      "thru": "-",
+      "drafted_by": "Eric"
     }
   ]
 }
