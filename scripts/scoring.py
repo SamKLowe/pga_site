@@ -22,8 +22,49 @@ def find_player(pick_name, score_map):
     return None
 
 
-def calculate_standings(draft, leaderboard):
-    score_map = {normalize(p["name"]): p for p in leaderboard.get("players", [])}
+def adjusted_player_score(player, current_round, cut_line_36h, total_rounds, cut_after_round):
+    """
+    Apply cut and WD scoring rules.
+    - CUT: project average of first N rounds over remaining rounds.
+    - WD: apply (cut_line_per_round + 2) for each round not played.
+    Returns (adjusted_total, note) where note describes any adjustment.
+    """
+    status = player["status"]
+    total = player["total_score"]
+    round_scores = player.get("round_scores", [])
+    cut_happened = current_round > cut_after_round
+
+    if status == "STATUS_CUT" and cut_happened and len(round_scores) >= cut_after_round:
+        rounds_remaining = total_rounds - cut_after_round
+        avg = round(sum(round_scores[:cut_after_round]) / cut_after_round)
+        adjustment = avg * rounds_remaining
+        return total + adjustment, f"CUT (proj {avg:+d}/rd)"
+
+    if status in ("STATUS_WITHDRAWN", "STATUS_WD"):
+        rounds_played = len(round_scores)
+        rounds_remaining = total_rounds - rounds_played
+        if rounds_remaining > 0:
+            if cut_happened and cut_line_36h is not None:
+                penalty = round(cut_line_36h / cut_after_round) + 2
+                return total + penalty * rounds_remaining, f"WD (cut+2={penalty:+d}/rd)"
+            # WD before cut — no cut line known yet, no adjustment
+        return total, "WD"
+
+    return total, None
+
+
+def calculate_standings(draft, leaderboard, config=None):
+    cfg = config or {}
+    total_rounds = cfg.get("total_rounds", 4)
+    cut_after_round = cfg.get("cut_after_round", 2)
+    current_round = leaderboard.get("round", 0)
+
+    players_list = leaderboard.get("players", [])
+    score_map = {normalize(p["name"]): p for p in players_list}
+
+    # Determine cut line from the best (lowest) score among cut players
+    cut_players = [p for p in players_list if p["status"] == "STATUS_CUT"]
+    cut_line_36h = min(p["total_score"] for p in cut_players) if cut_players else None
 
     standings = []
     for participant in draft["participants"]:
@@ -33,12 +74,16 @@ def calculate_standings(draft, leaderboard):
         for pick in participant["picks"]:
             player = find_player(pick, score_map)
             if player:
+                adj_score, note = adjusted_player_score(
+                    player, current_round, cut_line_36h, total_rounds, cut_after_round
+                )
                 resolved.append({
                     "name": player["name"],
-                    "total_score": player["total_score"],
+                    "total_score": adj_score,
                     "status": player["status"],
                     "thru": player.get("thru", "-"),
                     "found": True,
+                    "note": note,
                 })
             else:
                 resolved.append({
@@ -47,6 +92,7 @@ def calculate_standings(draft, leaderboard):
                     "status": "NOT_FOUND",
                     "thru": "-",
                     "found": False,
+                    "note": None,
                 })
 
         # Sort ascending: best (lowest) scores first

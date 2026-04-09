@@ -29,7 +29,7 @@ def main():
     print(f"Raw scores saved to {scores_path}")
 
     draft = load_json(draft_path)
-    result = calculate_standings(draft, leaderboard)
+    result = calculate_standings(draft, leaderboard, config=config)
 
     with open(output_path, "w") as f:
         json.dump(result, f, indent=2)

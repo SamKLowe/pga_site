@@ -82,7 +82,7 @@ function renderStandings(data) {
     const pickRows = allPicks.map(pick => {
       const isDropped = droppedNames.has(pick.name);
       const isCut = pick.status && (pick.status.includes("CUT") || pick.status.includes("WITHDRAWN"));
-      const badge = isCut ? `<span class="pick-badge cut">CUT</span>` :
+      const badge = pick.note ? `<span class="pick-badge cut">${pick.note}</span>` :
                     !pick.found ? `<span class="pick-badge">?</span>` : "";
       return `
         <div class="pick-row ${isDropped ? "dropped" : ""}">

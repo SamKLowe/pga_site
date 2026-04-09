@@ -1,4 +1,6 @@
 {
   "active_tournament": "masters_2026",
-  "espn_event_id": "401811941"
+  "espn_event_id": "401811941",
+  "total_rounds": 4,
+  "cut_after_round": 2
 }

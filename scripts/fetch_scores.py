@@ -62,11 +62,14 @@ def fetch_leaderboard(event_id=None):
 
         status_name = comp.get("status", {}).get("type", {}).get("name", "STATUS_ACTIVE")
 
+        # Capture completed round scores relative to par (displayValue)
+        # A round is complete when it has 18 nested hole linescores
         round_scores = []
         for ls in comp.get("linescores", []):
-            val = parse_score(ls.get("value"))
-            if val is not None:
-                round_scores.append(val)
+            if len(ls.get("linescores", [])) == 18:
+                val = parse_score(ls.get("displayValue", "--"))
+                if val is not None:
+                    round_scores.append(val)
 
         # Derive "thru" from holes completed in the current round
         thru = "-"
