@@ -45,7 +45,7 @@ def adjusted_player_score(player, current_round, cut_line_36h, total_rounds, cut
         rounds_remaining = total_rounds - rounds_played
         if rounds_remaining > 0:
             if cut_happened and cut_line_36h is not None:
-                penalty = round(cut_line_36h / cut_after_round) + 2
+                penalty = cut_line_36h + 2
                 return total + penalty * rounds_remaining, f"WD (cut+2={penalty:+d}/rd)"
             # WD before cut — no cut line known yet, no adjustment
         return total, "WD"
