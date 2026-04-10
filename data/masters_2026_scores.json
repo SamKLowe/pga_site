@@ -2,7 +2,7 @@
   "event_name": "Masters Tournament",
   "round": 1,
   "is_complete": true,
-  "last_updated": "2026-04-10T06:16:07.434493+00:00",
+  "last_updated": "2026-04-10T08:08:02.113529+00:00",
   "players": [
     {
       "name": "Sam Burns",
@@ -395,14 +395,6 @@
       "thru": "F"
     },
     {
-      "name": "Michael Kim",
-      "total_score": 1,
-      "round_scores": [],
-      "status": "STATUS_ACTIVE",
-      "position": 999,
-      "thru": "7"
-    },
-    {
       "name": "Jos\u00e9 Mar\u00eda Olaz\u00e1bal",
       "total_score": 2,
       "round_scores": [
@@ -524,6 +516,16 @@
     },
     {
       "name": "Zach Johnson",
+      "total_score": 3,
+      "round_scores": [
+        3
+      ],
+      "status": "STATUS_ACTIVE",
+      "position": 999,
+      "thru": "F"
+    },
+    {
+      "name": "Michael Kim",
       "total_score": 3,
       "round_scores": [
         3
