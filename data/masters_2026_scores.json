@@ -2,7 +2,7 @@
   "event_name": "Masters Tournament",
   "round": 3,
   "is_complete": false,
-  "last_updated": "2026-04-11T14:22:39.743013+00:00",
+  "last_updated": "2026-04-11T15:03:39.404459+00:00",
   "players": [
     {
       "name": "Rory McIlroy",
@@ -423,37 +423,15 @@
       "thru": "-"
     },
     {
-      "name": "Viktor Hovland",
+      "name": "Brian Harman",
       "total_score": 2,
       "round_scores": [
-        3,
-        -1
+        7,
+        -3
       ],
       "status": "STATUS_ACTIVE",
       "position": 999,
-      "thru": "-"
-    },
-    {
-      "name": "Sam Stevens",
-      "total_score": 2,
-      "round_scores": [
-        0,
-        2
-      ],
-      "status": "STATUS_ACTIVE",
-      "position": 999,
-      "thru": "-"
-    },
-    {
-      "name": "Adam Scott",
-      "total_score": 2,
-      "round_scores": [
-        0,
-        2
-      ],
-      "status": "STATUS_ACTIVE",
-      "position": 999,
-      "thru": "-"
+      "thru": "4"
     },
     {
       "name": "Justin Thomas",
@@ -464,10 +442,10 @@
       ],
       "status": "STATUS_ACTIVE",
       "position": 999,
-      "thru": "-"
+      "thru": "1"
     },
     {
-      "name": "Keegan Bradley",
+      "name": "Sam Stevens",
       "total_score": 2,
       "round_scores": [
         0,
@@ -475,7 +453,18 @@
       ],
       "status": "STATUS_ACTIVE",
       "position": 999,
-      "thru": "-"
+      "thru": "1"
+    },
+    {
+      "name": "Adam Scott",
+      "total_score": 2,
+      "round_scores": [
+        0,
+        2
+      ],
+      "status": "STATUS_ACTIVE",
+      "position": 999,
+      "thru": "1"
     },
     {
       "name": "Gary Woodland",
@@ -486,7 +475,7 @@
       ],
       "status": "STATUS_ACTIVE",
       "position": 999,
-      "thru": "-"
+      "thru": "1"
     },
     {
       "name": "Alex Noren",
@@ -497,7 +486,7 @@
       ],
       "status": "STATUS_ACTIVE",
       "position": 999,
-      "thru": "4"
+      "thru": "7"
     },
     {
       "name": "Jon Rahm",
@@ -508,18 +497,7 @@
       ],
       "status": "STATUS_ACTIVE",
       "position": 999,
-      "thru": "2"
-    },
-    {
-      "name": "Si Woo Kim",
-      "total_score": 3,
-      "round_scores": [
-        3,
-        1
-      ],
-      "status": "STATUS_ACTIVE",
-      "position": 999,
-      "thru": "2"
+      "thru": "5"
     },
     {
       "name": "Maverick McNealy",
@@ -530,7 +508,7 @@
       ],
       "status": "STATUS_ACTIVE",
       "position": 999,
-      "thru": "-"
+      "thru": "3"
     },
     {
       "name": "Sergio Garc\u00eda",
@@ -541,7 +519,29 @@
       ],
       "status": "STATUS_ACTIVE",
       "position": 999,
-      "thru": "-"
+      "thru": "3"
+    },
+    {
+      "name": "Viktor Hovland",
+      "total_score": 3,
+      "round_scores": [
+        3,
+        -1
+      ],
+      "status": "STATUS_ACTIVE",
+      "position": 999,
+      "thru": "2"
+    },
+    {
+      "name": "Keegan Bradley",
+      "total_score": 3,
+      "round_scores": [
+        0,
+        2
+      ],
+      "status": "STATUS_ACTIVE",
+      "position": 999,
+      "thru": "2"
     },
     {
       "name": "Rasmus H\u00f8jgaard",
@@ -552,18 +552,18 @@
       ],
       "status": "STATUS_ACTIVE",
       "position": 999,
-      "thru": "3"
+      "thru": "6"
     },
     {
-      "name": "Brian Harman",
+      "name": "Si Woo Kim",
       "total_score": 4,
       "round_scores": [
-        7,
-        -3
+        3,
+        1
       ],
       "status": "STATUS_ACTIVE",
       "position": 999,
-      "thru": "1"
+      "thru": "6"
     },
     {
       "name": "Corey Conners",
@@ -574,18 +574,7 @@
       ],
       "status": "STATUS_ACTIVE",
       "position": 999,
-      "thru": "1"
-    },
-    {
-      "name": "Charl Schwartzel",
-      "total_score": 5,
-      "round_scores": [
-        3,
-        1
-      ],
-      "status": "STATUS_ACTIVE",
-      "position": 999,
-      "thru": "3"
+      "thru": "4"
     },
     {
       "name": "Harry Hall",
@@ -651,7 +640,18 @@
       ],
       "status": "STATUS_ACTIVE",
       "position": 999,
-      "thru": "4"
+      "thru": "7"
+    },
+    {
+      "name": "Charl Schwartzel",
+      "total_score": 6,
+      "round_scores": [
+        3,
+        1
+      ],
+      "status": "STATUS_ACTIVE",
+      "position": 999,
+      "thru": "6"
     },
     {
       "name": "Nicolai H\u00f8jgaard",
