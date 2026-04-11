@@ -1,20 +1,9 @@
 {
   "event_name": "Masters Tournament",
   "round": 3,
-  "is_complete": false,
-  "last_updated": "2026-04-11T22:43:29.162554+00:00",
+  "is_complete": true,
+  "last_updated": "2026-04-11T23:18:42.111006+00:00",
   "players": [
-    {
-      "name": "Rory McIlroy",
-      "total_score": -12,
-      "round_scores": [
-        -5,
-        -7
-      ],
-      "status": "STATUS_ACTIVE",
-      "position": 999,
-      "thru": "16"
-    },
     {
       "name": "Cameron Young",
       "total_score": -11,
@@ -28,15 +17,28 @@
       "thru": "F"
     },
     {
+      "name": "Rory McIlroy",
+      "total_score": -11,
+      "round_scores": [
+        -5,
+        -7,
+        1
+      ],
+      "status": "STATUS_ACTIVE",
+      "position": 999,
+      "thru": "F"
+    },
+    {
       "name": "Sam Burns",
       "total_score": -10,
       "round_scores": [
         -5,
-        -1
+        -1,
+        -4
       ],
       "status": "STATUS_ACTIVE",
       "position": 999,
-      "thru": "16"
+      "thru": "F"
     },
     {
       "name": "Shane Lowry",
@@ -67,11 +69,12 @@
       "total_score": -8,
       "round_scores": [
         -2,
+        -3,
         -3
       ],
       "status": "STATUS_ACTIVE",
       "position": 999,
-      "thru": "17"
+      "thru": "F"
     },
     {
       "name": "Scottie Scheffler",
@@ -98,17 +101,6 @@
       "thru": "F"
     },
     {
-      "name": "Patrick Reed",
-      "total_score": -7,
-      "round_scores": [
-        -3,
-        -3
-      ],
-      "status": "STATUS_ACTIVE",
-      "position": 999,
-      "thru": "17"
-    },
-    {
       "name": "Patrick Cantlay",
       "total_score": -6,
       "round_scores": [
@@ -127,6 +119,18 @@
         1,
         -1,
         -6
+      ],
+      "status": "STATUS_ACTIVE",
+      "position": 999,
+      "thru": "F"
+    },
+    {
+      "name": "Patrick Reed",
+      "total_score": -6,
+      "round_scores": [
+        -3,
+        -3,
+        0
       ],
       "status": "STATUS_ACTIVE",
       "position": 999,

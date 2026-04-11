@@ -1,8 +1,8 @@
 {
   "tournament": "Masters Tournament 2026",
   "round": 3,
-  "is_complete": false,
-  "last_updated": "2026-04-11T22:43:29.162554+00:00",
+  "is_complete": true,
+  "last_updated": "2026-04-11T23:18:42.111006+00:00",
   "standings": [
     {
       "participant": "Daniel",
@@ -108,7 +108,7 @@
           "name": "Sam Burns",
           "total_score": -10,
           "status": "STATUS_ACTIVE",
-          "thru": "16",
+          "thru": "F",
           "found": true,
           "note": null
         },
@@ -156,7 +156,7 @@
           "name": "Justin Rose",
           "total_score": -8,
           "status": "STATUS_ACTIVE",
-          "thru": "17",
+          "thru": "F",
           "found": true,
           "note": null
         },
@@ -293,54 +293,6 @@
       ]
     },
     {
-      "participant": "Riley",
-      "combined_score": -6,
-      "top4": [
-        {
-          "name": "Rory McIlroy",
-          "total_score": -12,
-          "status": "STATUS_ACTIVE",
-          "thru": "16",
-          "found": true,
-          "note": null
-        },
-        {
-          "name": "Hideki Matsuyama",
-          "total_score": -2,
-          "status": "STATUS_ACTIVE",
-          "thru": "F",
-          "found": true,
-          "note": null
-        },
-        {
-          "name": "Keegan Bradley",
-          "total_score": 3,
-          "status": "STATUS_ACTIVE",
-          "thru": "F",
-          "found": true,
-          "note": null
-        },
-        {
-          "name": "Ryan Fox",
-          "total_score": 5,
-          "status": "STATUS_ACTIVE",
-          "thru": "-",
-          "found": true,
-          "note": null
-        }
-      ],
-      "dropped": [
-        {
-          "name": "Cameron Smith",
-          "total_score": 7,
-          "status": "STATUS_ACTIVE",
-          "thru": "-",
-          "found": true,
-          "note": null
-        }
-      ]
-    },
-    {
       "participant": "Austin",
       "combined_score": -5,
       "top4": [
@@ -389,14 +341,62 @@
       ]
     },
     {
-      "participant": "Casey",
+      "participant": "Riley",
       "combined_score": -5,
       "top4": [
         {
-          "name": "Patrick Reed",
-          "total_score": -7,
+          "name": "Rory McIlroy",
+          "total_score": -11,
           "status": "STATUS_ACTIVE",
-          "thru": "17",
+          "thru": "F",
+          "found": true,
+          "note": null
+        },
+        {
+          "name": "Hideki Matsuyama",
+          "total_score": -2,
+          "status": "STATUS_ACTIVE",
+          "thru": "F",
+          "found": true,
+          "note": null
+        },
+        {
+          "name": "Keegan Bradley",
+          "total_score": 3,
+          "status": "STATUS_ACTIVE",
+          "thru": "F",
+          "found": true,
+          "note": null
+        },
+        {
+          "name": "Ryan Fox",
+          "total_score": 5,
+          "status": "STATUS_ACTIVE",
+          "thru": "-",
+          "found": true,
+          "note": null
+        }
+      ],
+      "dropped": [
+        {
+          "name": "Cameron Smith",
+          "total_score": 7,
+          "status": "STATUS_ACTIVE",
+          "thru": "-",
+          "found": true,
+          "note": null
+        }
+      ]
+    },
+    {
+      "participant": "Casey",
+      "combined_score": -4,
+      "top4": [
+        {
+          "name": "Patrick Reed",
+          "total_score": -6,
+          "status": "STATUS_ACTIVE",
+          "thru": "F",
           "found": true,
           "note": null
         },
@@ -630,18 +630,11 @@
     }
   ],
   "leader_pick": {
-    "drafted_by": "Riley",
-    "golfer": "Rory McIlroy",
-    "score": -12
+    "drafted_by": "Daniel",
+    "golfer": "Cameron Young",
+    "score": -11
   },
   "top10": [
-    {
-      "name": "Rory McIlroy",
-      "total_score": -12,
-      "status": "STATUS_ACTIVE",
-      "thru": "16",
-      "drafted_by": "Riley"
-    },
     {
       "name": "Cameron Young",
       "total_score": -11,
@@ -650,10 +643,17 @@
       "drafted_by": "Daniel"
     },
     {
+      "name": "Rory McIlroy",
+      "total_score": -11,
+      "status": "STATUS_ACTIVE",
+      "thru": "F",
+      "drafted_by": "Riley"
+    },
+    {
       "name": "Sam Burns",
       "total_score": -10,
       "status": "STATUS_ACTIVE",
-      "thru": "16",
+      "thru": "F",
       "drafted_by": "Sam"
     },
     {
@@ -674,7 +674,7 @@
       "name": "Justin Rose",
       "total_score": -8,
       "status": "STATUS_ACTIVE",
-      "thru": "17",
+      "thru": "F",
       "drafted_by": "Jon"
     },
     {
@@ -692,18 +692,18 @@
       "drafted_by": "Eddie"
     },
     {
-      "name": "Patrick Reed",
-      "total_score": -7,
-      "status": "STATUS_ACTIVE",
-      "thru": "17",
-      "drafted_by": "Casey"
-    },
-    {
       "name": "Patrick Cantlay",
       "total_score": -6,
       "status": "STATUS_ACTIVE",
       "thru": "F",
       "drafted_by": "Daniel"
+    },
+    {
+      "name": "Russell Henley",
+      "total_score": -6,
+      "status": "STATUS_ACTIVE",
+      "thru": "F",
+      "drafted_by": "Austin"
     }
   ]
 }
