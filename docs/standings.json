@@ -2,7 +2,7 @@
   "tournament": "Masters Tournament 2026",
   "round": 4,
   "is_complete": false,
-  "last_updated": "2026-04-12T13:12:24.515864+00:00",
+  "last_updated": "2026-04-12T14:05:04.555112+00:00",
   "standings": [
     {
       "participant": "Daniel",
@@ -177,18 +177,18 @@
           "note": null
         },
         {
-          "name": "Bubba Watson",
+          "name": "Gary Woodland",
           "total_score": 5,
           "status": "STATUS_ACTIVE",
-          "thru": "-",
+          "thru": "3",
           "found": true,
           "note": null
         }
       ],
       "dropped": [
         {
-          "name": "Gary Woodland",
-          "total_score": 6,
+          "name": "Bubba Watson",
+          "total_score": 5,
           "status": "STATUS_ACTIVE",
           "thru": "-",
           "found": true,
@@ -236,9 +236,9 @@
       "dropped": [
         {
           "name": "Rasmus H\u00f8jgaard",
-          "total_score": 5,
+          "total_score": 6,
           "status": "STATUS_ACTIVE",
-          "thru": "-",
+          "thru": "1",
           "found": true,
           "note": null
         }
@@ -316,7 +316,7 @@
           "name": "Dustin Johnson",
           "total_score": 3,
           "status": "STATUS_ACTIVE",
-          "thru": "-",
+          "thru": "1",
           "found": true,
           "note": null
         },
@@ -332,9 +332,9 @@
       "dropped": [
         {
           "name": "Aaron Rai",
-          "total_score": 7,
+          "total_score": 8,
           "status": "STATUS_ACTIVE",
-          "thru": "-",
+          "thru": "4",
           "found": true,
           "note": null
         }
@@ -364,7 +364,7 @@
           "name": "Keegan Bradley",
           "total_score": 3,
           "status": "STATUS_ACTIVE",
-          "thru": "-",
+          "thru": "1",
           "found": true,
           "note": null
         },
@@ -428,9 +428,9 @@
       "dropped": [
         {
           "name": "Charl Schwartzel",
-          "total_score": 9,
+          "total_score": 13,
           "status": "STATUS_ACTIVE",
-          "thru": "-",
+          "thru": "4",
           "found": true,
           "note": null
         }
@@ -486,7 +486,7 @@
     },
     {
       "participant": "Riguy",
-      "combined_score": 3,
+      "combined_score": 4,
       "top4": [
         {
           "name": "Brooks Koepka",
@@ -505,18 +505,18 @@
           "note": null
         },
         {
-          "name": "Sergio Garc\u00eda",
-          "total_score": 5,
+          "name": "Nicolai H\u00f8jgaard",
+          "total_score": 6,
           "status": "STATUS_ACTIVE",
           "thru": "-",
           "found": true,
           "note": null
         },
         {
-          "name": "Nicolai H\u00f8jgaard",
+          "name": "Sergio Garc\u00eda",
           "total_score": 6,
           "status": "STATUS_ACTIVE",
-          "thru": "-",
+          "thru": "2",
           "found": true,
           "note": null
         }
@@ -534,7 +534,7 @@
     },
     {
       "participant": "Eric",
-      "combined_score": 6,
+      "combined_score": 5,
       "top4": [
         {
           "name": "Ben Griffin",
@@ -554,9 +554,9 @@
         },
         {
           "name": "Si Woo Kim",
-          "total_score": 4,
+          "total_score": 3,
           "status": "STATUS_ACTIVE",
-          "thru": "-",
+          "thru": "1",
           "found": true,
           "note": null
         },
@@ -572,9 +572,9 @@
       "dropped": [
         {
           "name": "Kurt Kitayama",
-          "total_score": 7,
+          "total_score": 6,
           "status": "STATUS_ACTIVE",
-          "thru": "-",
+          "thru": "3",
           "found": true,
           "note": null
         }
@@ -582,7 +582,7 @@
     },
     {
       "participant": "Janos",
-      "combined_score": 7,
+      "combined_score": 6,
       "top4": [
         {
           "name": "Tyrrell Hatton",
@@ -602,9 +602,9 @@
         },
         {
           "name": "Jon Rahm",
-          "total_score": 5,
+          "total_score": 4,
           "status": "STATUS_ACTIVE",
-          "thru": "-",
+          "thru": "2",
           "found": true,
           "note": null
         },
