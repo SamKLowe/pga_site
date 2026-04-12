@@ -2,11 +2,11 @@
   "event_name": "Masters Tournament",
   "round": 4,
   "is_complete": false,
-  "last_updated": "2026-04-12T21:40:27.526268+00:00",
+  "last_updated": "2026-04-12T22:04:30.378364+00:00",
   "players": [
     {
       "name": "Rory McIlroy",
-      "total_score": -12,
+      "total_score": -13,
       "round_scores": [
         -5,
         -7,
@@ -14,7 +14,31 @@
       ],
       "status": "STATUS_ACTIVE",
       "position": 999,
-      "thru": "12"
+      "thru": "14"
+    },
+    {
+      "name": "Scottie Scheffler",
+      "total_score": -11,
+      "round_scores": [
+        -2,
+        2,
+        -7
+      ],
+      "status": "STATUS_ACTIVE",
+      "position": 999,
+      "thru": "16"
+    },
+    {
+      "name": "Justin Rose",
+      "total_score": -11,
+      "round_scores": [
+        -2,
+        -3,
+        -3
+      ],
+      "status": "STATUS_ACTIVE",
+      "position": 999,
+      "thru": "15"
     },
     {
       "name": "Tyrrell Hatton",
@@ -35,23 +59,12 @@
       "round_scores": [
         1,
         -1,
-        -6
+        -6,
+        -4
       ],
       "status": "STATUS_ACTIVE",
       "position": 999,
-      "thru": "17"
-    },
-    {
-      "name": "Justin Rose",
-      "total_score": -10,
-      "round_scores": [
-        -2,
-        -3,
-        -3
-      ],
-      "status": "STATUS_ACTIVE",
-      "position": 999,
-      "thru": "14"
+      "thru": "F"
     },
     {
       "name": "Cameron Young",
@@ -63,7 +76,7 @@
       ],
       "status": "STATUS_ACTIVE",
       "position": 999,
-      "thru": "12"
+      "thru": "14"
     },
     {
       "name": "Collin Morikawa",
@@ -79,16 +92,16 @@
       "thru": "F"
     },
     {
-      "name": "Scottie Scheffler",
+      "name": "Sam Burns",
       "total_score": -9,
       "round_scores": [
-        -2,
-        2,
-        -7
+        -5,
+        -1,
+        -4
       ],
       "status": "STATUS_ACTIVE",
       "position": 999,
-      "thru": "14"
+      "thru": "15"
     },
     {
       "name": "Max Homa",
@@ -117,18 +130,6 @@
       "thru": "F"
     },
     {
-      "name": "Sam Burns",
-      "total_score": -8,
-      "round_scores": [
-        -5,
-        -1,
-        -4
-      ],
-      "status": "STATUS_ACTIVE",
-      "position": 999,
-      "thru": "13"
-    },
-    {
       "name": "Jake Knapp",
       "total_score": -7,
       "round_scores": [
@@ -140,18 +141,6 @@
       "status": "STATUS_ACTIVE",
       "position": 999,
       "thru": "F"
-    },
-    {
-      "name": "Patrick Cantlay",
-      "total_score": -6,
-      "round_scores": [
-        5,
-        -5,
-        -6
-      ],
-      "status": "STATUS_ACTIVE",
-      "position": 999,
-      "thru": "16"
     },
     {
       "name": "Jordan Spieth",
@@ -193,6 +182,32 @@
       "thru": "F"
     },
     {
+      "name": "Patrick Cantlay",
+      "total_score": -5,
+      "round_scores": [
+        5,
+        -5,
+        -6,
+        1
+      ],
+      "status": "STATUS_ACTIVE",
+      "position": 999,
+      "thru": "F"
+    },
+    {
+      "name": "Patrick Reed",
+      "total_score": -5,
+      "round_scores": [
+        -3,
+        -3,
+        0,
+        1
+      ],
+      "status": "STATUS_ACTIVE",
+      "position": 999,
+      "thru": "F"
+    },
+    {
       "name": "Jason Day",
       "total_score": -5,
       "round_scores": [
@@ -202,7 +217,7 @@
       ],
       "status": "STATUS_ACTIVE",
       "position": 999,
-      "thru": "14"
+      "thru": "15"
     },
     {
       "name": "Maverick McNealy",
@@ -244,30 +259,6 @@
       "thru": "F"
     },
     {
-      "name": "Patrick Reed",
-      "total_score": -4,
-      "round_scores": [
-        -3,
-        -3,
-        0
-      ],
-      "status": "STATUS_ACTIVE",
-      "position": 999,
-      "thru": "17"
-    },
-    {
-      "name": "Shane Lowry",
-      "total_score": -4,
-      "round_scores": [
-        -2,
-        -3,
-        -4
-      ],
-      "status": "STATUS_ACTIVE",
-      "position": 999,
-      "thru": "13"
-    },
-    {
       "name": "Keegan Bradley",
       "total_score": -3,
       "round_scores": [
@@ -305,6 +296,18 @@
       "status": "STATUS_ACTIVE",
       "position": 999,
       "thru": "F"
+    },
+    {
+      "name": "Shane Lowry",
+      "total_score": -3,
+      "round_scores": [
+        -2,
+        -3,
+        -4
+      ],
+      "status": "STATUS_ACTIVE",
+      "position": 999,
+      "thru": "14"
     },
     {
       "name": "Matt McCarty",
@@ -485,7 +488,7 @@
       ],
       "status": "STATUS_ACTIVE",
       "position": 999,
-      "thru": "14"
+      "thru": "16"
     },
     {
       "name": "Jon Rahm",
